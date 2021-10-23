@@ -1,0 +1,28 @@
+https://telegra.ph/file/a1d38bd4364beb1537f6a.jpg
+|||||
+@Bava7325
+|||||
+AncientOS V6.0 | Android 12 | Alpha
+for Realme XT(RMX1921)
+Maintained by @Bava7325
+
+Build Variant : Gapps
+Build Version : 6.0 | Society | Alpha 
+Build Date : 23-10-2021
+
+Source Changelogs :
+Initial Alpha build
+
+Device Changelogs : [Check Here](https://telegra.ph/AncientOS-Update-10-03)
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+@ancientRMX1901_RMX1921
+
+Credits :
+Thanks to @dhruvesh_23 for testing all my builds
+Give me coffee :
+[Paypal](http://paypal.me/kaderbava)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron
