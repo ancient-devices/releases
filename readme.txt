@@ -1,4 +1,4 @@
-https://telegra.ph/file/4cad61d7553e57c12454b.jpg
+https://telegra.ph/file/4cad61d7553e57c12454b.jpg  //device banner link replace with yours
 
 |||||
 
@@ -42,7 +42,7 @@ Give me coffee :
 #ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
 
 
-above is format for your device.txt file remoe my comment which i have mentioned after // also remoe // for how it should look check PL2..txt
+above is format for your device_code.txt file remove my comment which i have mentioned after // also remoe // for how it should look check PL2..txt
 and do PR and also to do changes fork this repo
 
-while pushing update of your file commit should be like file_name.txt dont put commit message like update for sepetmber , update for october bot wont accept & push it on channel
+while pushing update of your file commit should be like "device_codename.txt" dont put commit message like update for sepetmber , update for october bot wont accept & push it on channel
