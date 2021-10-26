@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/skittels15/Changelogs/main/headers/ancient.jpg
 AncientOS V5.6 | Android 11 | Stable
 for  Xiaomi Redmi 8/8A/8A Dual (olives)
 
-Maintained by @BEERdMANNN
+Maintained by @BEERdMANN
 Build Variant : Vanilla
 Build Version : 5.6 | Society | Stable
 Build Date : 26-10-2021
