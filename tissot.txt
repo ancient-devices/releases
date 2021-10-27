@@ -1,0 +1,34 @@
+https://telegra.ph/file/38808d27dd320a6f14d18.jpg
+|||||
+@whdbfl @bmwtheseries
+|||||
+AncientOS V6.0 | Android 12 | Alpha
+for Mi A1 (Tissot)
+Maintained by [Glassy](https://t.me/whdbfl) and [BMW](https://t.me/bmwtheseries)
+
+Build Variant : Gapps
+Build Version : 6.0 | Alpha 
+Build Date : 27-10-2021
+
+Source Changelogs :
+• Alpha
+
+Device Changelogs :
+• Inital build of A12, Please check Notes!
+
+Download :
+• [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+• [HERE](https://t.me/ancienttissot_id)
+
+Notes :
+• [HERE](https://telegra.ph/Notes-10-27-5)
+
+Credits :
+• [HERE](https://telegra.ph/Credits-10-01)
+
+Give us coffee :
+[Paypal](https://www.paypal.com/paypalme/BayerischeMW) | [Saweria](https://saweria.co/glassydan)  
+
+#ancientOS #ancientrom #android #android12 #megalith #iron
