@@ -8,14 +8,24 @@ Maintained by @Bava7325
 
 Build Variant : Gapps
 Build Version : 6.0 | Society | Alpha 
-Build Date : 23-10-2021
+Build Date : 28-10-2021
 
 Source Changelogs :
-Initial Alpha build
+• Alpha Build
 
-Device Changelogs : [Check Here](https://telegra.ph/AncientOS-Update-10-03)
+Device Changelogs :
+• Encryption enabled again
+• Selinux Enforcing!
+• Fixed screen cast(Miracast too)
+• Fixed night light on fod
+• SafetyNet pass without root
 
 Download Build [HERE](https://www.pling.com/p/1606752)
+
+Notes :
+Clean flash is mandatory
+Gapps included
+Don't report bugs without proper logs
 
 Device Support :
 @ancientRMX1901_RMX1921
