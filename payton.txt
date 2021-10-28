@@ -1,0 +1,26 @@
+https://telegra.ph/file/a23d59dd6a279a2c7d0e3.png
+|||||
+@Yukki159
+|||||
+AncientOS V6.0 | Android 12 | Alpha
+for Moto X4(payton)
+Maintained by @Yukki159
+
+Build Variant : Gapps
+Build Version : 6.0 | Society | Alpha 
+Build Date : 28-10-2021
+
+Source Changelogs :
+Initial Alpha build
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+@AncientPayton
+
+Credits :
+Thanks to @cool585 and @ExactXmpl for trees
+Give me coffee :
+[Paypal](https://ko-fi.com/yukki159)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron
