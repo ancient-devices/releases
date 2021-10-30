@@ -1,0 +1,29 @@
+https://telegra.ph/file/23d2440e158bfb0931968.png
+|||||
+@Magicxavi
+|||||
+AncientOS V6.0 | Android 12
+for MI A3 | laurel_sprout
+Maintained by @Magicxavi
+
+Build Variant : Society | ALPHA (Gapps)
+Build Version : v6.0 Alpha
+Build Date : 30/10/2021
+
+Source Changelog : Alpha 
+
+Device Changelogs :
+• Fixed dual sim issue
+• Disabled FOD until we fix it (this will remove that unlock button on lockscreen)
+• Fixed audio routing
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+@ancient_official_laurel
+
+Notes:
+* Permissive selinux
+* Encryption disabled
+
+#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
