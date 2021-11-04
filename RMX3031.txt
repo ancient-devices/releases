@@ -1,0 +1,40 @@
+https://telegra.ph/file/929a7cd9c7c3b1d47a98a.png
+|||||
+@NishantKumar6342
+|||||
+AncientOS V5.6 | Android 11 | Stable
+for Realme X7 Max 5G (RMX3031)
+Maintained by @NishantKumar6342
+
+Build Variant : Gapps
+Build Version : 5.6 | Society | Stable 
+Build Date : 03-11-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1158)
+
+Device Changelogs :
+• Initial Build
+• Selinux Enforcing!
+• SafetyNet pass without root
+• DT2W Working
+• FOD Working
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Notes :
+Clean flash is mandatory
+Flash on A.19 version firmware ONLY
+Gapps included
+Don't report bugs without proper logs
+
+Device Support :
+@ancientRMX3031
+
+Credits :
+Thanks to @ManshuTyagi for DT
+Give me coffee :
+[Paypal](http://paypal.me/nishant134)
+UPI : 7542947425@ybl
+
+#ancientOS #android11 #megalith
