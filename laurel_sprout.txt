@@ -1,18 +1,18 @@
-https://telegra.ph/file/23d2440e158bfb0931968.png
+https://github.com/magicxavi/manifest/raw/ancientQ/Ancient_banner1.png
 |||||
 @Magicxavi
 |||||
-AncientOS V6.0 | Android 12
+AncientOS V6.1 | Android 12 | Beta
 for MI A3 | laurel_sprout
 Maintained by @Magicxavi
 
-Build Variant : Society | ALPHA (Gapps)
-Build Version : v6.0 Alpha
-Build Date : 5/11/2021
+Build Variant : Steel | Gapps
+Build Version : 6.1 | Shield
+Build Date : 28/11/2021
 
-Source Changelog : Alpha 
+Source Changelog : [HERE](https://t.me/ancientrom/1393)
 
-Device Changelogs : [HERE](https://nekobin.com/zatawujene)
+Device Changelogs : [HERE](https://nekobin.com/meseyihina)
 
 Download Build : [HERE](https://www.pling.com/p/1606752)
 
@@ -22,4 +22,4 @@ Device Support :
 Notes:
 * Permissive selinux
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo
