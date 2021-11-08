@@ -1,0 +1,43 @@
+https://telegra.ph/file/df12f8d7144fa1b107386.jpg
+
+|||||
+
+@dreamfan92
+
+|||||
+
+AncientOS V6.0 | Android 12 | Alpha
+for Redmi K30 5G (picasso)
+
+Maintained by @dreamfan92
+Build Variant : Gapps
+Build Version : 6.0 | Society
+Build Date : 08-11-2021
+
+Source Changelogs :
+[HERE](https://t.me/ancientrom/1158)
+
+Device Changelogs :
+Inital build of 12
+
+Download :
+[HERE](https://www.pling.com/p/1606752) 
+
+Device Support :
+@AncientOfficialPicasso
+
+Notes :
+• FW 12.5.3 is required
+• Must clean flash
+• SELinux is Enforcing
+• There are some problems with XiaomiParts for now, causing the punch-hole looks very weird (see in support group), you may have to go to Developer options > Device cutout > Hide Notch (1 or 2) if you don't like the punch hole looking
+
+Credits :
+@baolong24 for the tree
+
+Give me coffee :
+
+[Paypal](https://paypal.me/dreamfan92)
+[Momo](https://nhantien.momo.vn/MPpQncY8UP4)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron
