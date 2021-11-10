@@ -8,17 +8,23 @@ Maintained by @NishantKumar6342
 
 Build Variant : Gapps
 Build Version : 5.6 | Society | Stable 
-Build Date : 03-11-2021
+Build Date : 10-11-2021
 
 Source Changelogs :
 • [HERE](https://t.me/ancientrom/1158)
 
 Device Changelogs :
-• Initial Build
-• Selinux Enforcing!
-• SafetyNet pass without root
-• DT2W Working
-• FOD Working
+• Always on display fixed
+• FOD on AOD screen working
+• Added VOOC charging support
+• Fixed NFC
+• Added CABC mode (Realme Parts)
+• Added DC dimming (Realme Parts)
+• Added High brightness mode (Realme Parts)
+• Added Game mode (Realme Parts)
+• Added Performance profiles (Realme Parts)
+• Added Google boot logo and animation
+• Other minor changes in fixes
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
