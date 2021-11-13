@@ -8,11 +8,11 @@ Maintained By @oghe3003
 
 Build Variant : Gapps
 Build Version : 6.0 | Society
-Build Date : 26/10/2021
+Build Date : 13/11/2021
 
 Changelogs :
 • Source : Alpha
-• Device : Initial A12 Build
+• Device : [Click Here](https://raw.githubusercontent.com/oghe3003/changelog/main/ancientA12.txt)
 
 Download :
 [Click Here](https://www.pling.com/p/1606752/)
@@ -26,7 +26,6 @@ Notes:
 
 Credits:
 • @NickvBokhorst for kernel
-• @besokjugalupa for testing
 
 Special Thanks:
 • ALLAH S.W.T
