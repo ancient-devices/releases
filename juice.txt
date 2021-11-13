@@ -9,16 +9,16 @@ for POCO M3 / Redmi 9T (Juice)
 Maintained by @IndraDP & @Vern_Kuato
 Build Variant : GApps
 Build Version : 6.0 | Society / Iron | Alpha
-Build Date : 02-11-2021
+Build Date : 12-11-2021
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1158)
-• And October Security Patch
+- Alpha build
+- And November Security Patch
 
 Device Changelogs :
-- Initial build Android 12
-- Add Prebuilt GCam GO
-- Fix screen flicker
+- Override to Raven fingerprint.
+- overlay: Remove unusable color mode list options.
+- prop: Disable force GPU rendering.
 - Shipped with Fury Bengal kernel
 
 Download : [Here](https://www.pling.com/p/1606752)
@@ -28,11 +28,11 @@ This is ALPHA BUILD. Don't expect stability for daily usages.
 We accept bug with logs. Without it, be ignored.
  
 Credits : 
-- @frostg012 thanks for testing
+- @imannig for testing
+- @mafiasupremacy for device tree
 - @javashin for kernel
 
 Give us coffee :
-
 [Paypal](https://paypal.me/IndraDesiP) | [Saweria](https://saweria.co/indradp)
 
 Support Group : | [Device Support](https://t.me/ancientosjuice) | [General Discussion](https://t.me/ancientid)
