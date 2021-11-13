@@ -1,0 +1,41 @@
+https://telegra.ph/file/816dbdcecaa835e1de785.jpg
+|||||
+@ThisIsTag
+|||||
+AncientOS V6.0 | Android 12 | Alpha
+for Miatoll | Xiaomi 720G Devices
+
+Maintained by @ThisIsTag
+Build Variant : Gapps
+Build Version : 6.0 | Society / Weeabo | Alpha 
+Build Date : 12-11-2021
+
+Source Changelogs :
+•[HERE](https://t.me/ancientrom/1158) 
+
+Device Changelogs :
+
+• Initial build of Android 12
+• Selinux Enforcing
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+@ThisIsGroup2
+
+Notes :
+• Do Clean Flash
+• Vibration not working
+
+Credits :
+• Thanks to @IvanGE90, and @FatMjolmmir for testing.
+• Thanks to @SonalSingh18 for Trees and kernel.
+• Thanks to @HaSSaN_MoHl and everyone for helping.
+• Thanks to all Miatoll devs.
+
+Give me coffee :
+
+[Paypal](https://paypal.me/rianjunaeni07)
+
+
+#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo

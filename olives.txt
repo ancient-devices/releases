@@ -1,0 +1,42 @@
+https://raw.githubusercontent.com/skittels15/Changelogs/main/headers/ancient.jpg
+|||||
+@BEERdMANN
+|||||
+
+AncientOS V5.6 | Android 11 | Stable
+for  Xiaomi Redmi 8/8A/8A Dual (olives)
+
+Maintained by @BEERdMANN
+Build Variant : Vanilla
+Build Version : 5.6 | Society | Stable
+Build Date : 26-10-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1158)
+• October security patch
+
+Device Changelogs :
+• Updated Russian translation
+
+Download :
+[HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+[Device Support](https://t.me/ancient_olives) | [Channel](http://t.me/ancientrom)
+
+Notes :
+• GAPPS is NOT included
+• SELinux mode is Enforcing
+• Needs 64bit recovery to flash
+• Please report bugs with logs if you found any
+
+Credits :
+• @me_cafebabe for base
+• @deadlylxrd for help
+• @olivelite for testing
+• @raccoon_gargle01 for testing
+
+Give me coffee :
+[KO-FI.com](https://ko-fi.com/beerdmann)
+
+#ancientOS #ancientrom #android #android11 #megalith #iron
