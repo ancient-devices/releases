@@ -8,15 +8,15 @@ for Miatoll | Xiaomi 720G Devices
 Maintained by @ThisIsTag
 Build Variant : Gapps
 Build Version : 6.0 | Society / Weeabo | Alpha 
-Build Date : 12-11-2021
+Build Date : 16-11-2021
 
 Source Changelogs :
-•[HERE](https://t.me/ancientrom/1158) 
+• Alpha
+• Some minor changes
 
 Device Changelogs :
 
-• Initial build of Android 12
-• Selinux Enforcing
+• Fixed vibration
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
@@ -24,13 +24,12 @@ Device Support :
 @ThisIsGroup2
 
 Notes :
-• Do Clean Flash
-• Vibration not working
+• GcamGo as default
 
 Credits :
-• Thanks to @IvanGE90, and @FatMjolmmir for testing.
+• Thanks to @IvanGE90, and @icodix for testing.
 • Thanks to @SonalSingh18 for Trees and kernel.
-• Thanks to @HaSSaN_MoHl and everyone for helping.
+• Thanks to @nekoshirro and everyone for helping.
 • Thanks to all Miatoll devs.
 
 Give me coffee :
