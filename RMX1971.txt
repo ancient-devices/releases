@@ -1,0 +1,47 @@
+https://telegra.ph/file/e65c52ef54db3e7b8b881.jpg
+|||||
+
+@a1kara
+
+|||||
+
+AncientOS V6.0 | Android 12 | Alpha
+for Realme 5 Pro (RMX1971)
+
+Maintained by @a1kara
+Build Variant : Gapps
+Build Version : 6.0 | Society | Alpha
+Build Date : 19-11-2021
+
+Source Changelogs :
+• Alpha Build
+
+Device Changelogs :
+• Fixed screen record lags
+• Fixed 2% battery drop
+• Fixed USB Tethering
+• Fixed KCAL on parts
+• SELinux is Enforcing
+• Switch build fingerprint to raven
+• [More...](https://katb.in/qemigakemar)
+
+
+Download Build:
+[Click Here](https://www.pling.com/p/1606752)
+
+Device Support :
+@ancientrealme5pro
+
+Notes :
+• Encryption disabled
+
+Credits :
+@BabluS thanks for base trees
+@V3NK4135H thanks for fix sepolicy
+@Florejun thanks for testing
+
+Give me coffee :
+[Paypal](https://paypal.me/fallavall) | [Saweria](https://saweria.co/fallavall)
+
+
+#ancientOS #ancientrom #android #android12 #megalith #iron
