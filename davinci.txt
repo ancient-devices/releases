@@ -1,0 +1,29 @@
+https://telegra.ph/file/2796e4e2ecfa73facd12a.png 
+|||||
+@SVB22
+|||||
+AncientOS V6.0 | Android 12 | Alpha
+for davinci
+Maintained by @SVB22
+
+Build Variant : Gapps
+Build Version : 6.0 | Society | Alpha
+Build Date : 19-11-2021
+
+Source Changelogs :
+• Alpha Build
+
+Device Changelogs :
+Inital build of 12
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Notes :
+Clean flash is mandatory
+Selinux permissive
+Don't report bugs without proper logs
+
+Device Support :
+@AncientOS_RedmiK20_Mi9T
+
+#ancientOS #ancientrom #android #android12 #megalith #iron
