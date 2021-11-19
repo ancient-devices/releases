@@ -2,29 +2,23 @@ https://telegra.ph/file/929a7cd9c7c3b1d47a98a.png
 |||||
 @NishantKumar6342
 |||||
-AncientOS V5.6 | Android 11 | Stable
+AncientOS V6.0 | Android 12 | Alpha
 for Realme X7 Max 5G (RMX3031)
 Maintained by @NishantKumar6342
 
 Build Variant : Gapps
-Build Version : 5.6 | Society | Stable 
-Build Date : 10-11-2021
+Build Version : 6.0 | Society | Alpha 
+Build Date : 19-11-2021
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1158)
+• Alpha Build
+• Some minor changes
 
 Device Changelogs :
-• Always on display fixed
-• FOD on AOD screen working
-• Added VOOC charging support
-• Fixed NFC
-• Added CABC mode (Realme Parts)
-• Added DC dimming (Realme Parts)
-• Added High brightness mode (Realme Parts)
-• Added Game mode (Realme Parts)
-• Added Performance profiles (Realme Parts)
-• Added Google boot logo and animation
-• Other minor changes in fixes
+• Initial build
+• FOD working
+• Volte working
+• SafetyNet passes by default
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
@@ -38,9 +32,9 @@ Device Support :
 @ancientRMX3031
 
 Credits :
-Thanks to @ManshuTyagi for DT
+Thanks to @ManshuTyagi for Initial DT
 Give me coffee :
 [Paypal](http://paypal.me/nishant134)
 UPI : 7542947425@ybl
 
-#ancientOS #android11 #megalith
+#ancientOS #android12
