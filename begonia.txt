@@ -3,30 +3,27 @@ https://telegra.ph/file/73a6ec36c63885eb74777.jpg
 @thepsambit // (stellabyte)
 |||||
 
-AncientOS V5.6 | Android 11 | Stable
-for Redmi Note 8 Pro (Begonia)
+**AncientOS V6.0 | Android 12 | Alpha**
+**for Redmi Note 8 Pro (Begonia)**
 
 Maintained by @thepsambit
-Build Variant : Vanilla | Gapps
-Build Version : 5.6 | Society | Stable
+Build Variant : GApps
+Build Version : 6.0 | Society | Alpha
 Build Date : 28-10-2021
 
 Source Changelog :
-• [HERE](https://t.me/ancientrom/1158)
-• October security patch
+• November security patch
 
 Device Changelog :
-• begonia: sepolicy: Rework fingerprint sepolicy for pass sepolicy_tests.
-• begonia: Update blobs from begonia V12.5.3.0.RGGMIXM.
-• begonia: rootdir: add nodes to hide Magisk in banking apps.
-• begonia: Import XiaomiParts from sdm845-common.
-• begonia: parts: Introduce raise to wake gesture.
-• begonia: parts: Add drawable icon for AOD.
+• Initial A12 Official Build
 
 Download :
 [HERE](https://www.pling.com/p/1628625/)
 
 Device Support :
 [Device Support](https://t.me/WeedyBegonia)
+
+Donate:
+If you like my work,bring me a cup of coffee [here](paypal.me/sambit2cool)
 
 #ancientOS #ancientrom #android #android11 #megalith #iron
