@@ -3,13 +3,13 @@ https://telegra.ph/file/7b0e9ee6c15e148b763de.jpg
 @x_MOCHA_x // MOCHA
 |||||
 
-AncientOS V6.0 | Android 12
+AncientOS V6.0 | Android 12 | Alpha
 for Redmi Note 6 Pro (Tulip)
 
 Maintained by @x_MOCHA_x
-Build Variant : Vanilla | Gapps
-Build Version : 6.0 | Society 
-Build Date : 19-11-2021
+Build Variant : Gapps 
+Build Version : 6.0 | Society | Alpha
+Build Date : 20-11-2021
 
 Source Changelogs :
 • Alpha Build
@@ -17,6 +17,7 @@ Source Changelogs :
 
 Device Changelogs :
 • Inital build of 12
+• Fixed chrome freeze issues
 
 Download :
 [HERE](https://www.pling.com/p/1606752)
@@ -25,8 +26,8 @@ Device Support :
 [Device Support](https://t.me/Ancient_Tulip_Official)
 
 Notes :
-• Night light not working
-• Vanilla Build and gapps build 
+• Gapps build
+• Night light not working 
 • Please report bugs with logs if you found any
 
 Credits :
