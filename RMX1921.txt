@@ -8,23 +8,29 @@ Maintained by @Bava7325
 
 Build Variant : Gapps
 Build Version : 6.0 | Society | Alpha 
-Build Date : 28-10-2021
+Build Date : 22-11-2021
 
 Source Changelogs :
-• Alpha Build
+• November Security patch
+• All basic customizations added
 
 Device Changelogs :
-• Encryption enabled again
-• Selinux Enforcing!
-• Fixed screen cast(Miracast too)
-• Fixed night light on fod
-• SafetyNet pass without root
+• Kernel Upstream to 4.9.290
+• Fixed transparent QS panel bug
+• Fixed QS panel jitters
+• Fixed USB tethering
+• Fixed FOD flickers
+• Improved display cutout & statusbar icons
+• Realme Parts & Ambient Display settings updated to A12 styles
+• Added Pixel offline charging animation
+• SafetyNet pass without root as usual
+• More improvements & bug fixes! 
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
 Notes :
-Clean flash is mandatory
 Gapps included
+FOD in AOD won't work(Use pickup or smart wake instead)
 Don't report bugs without proper logs
 
 Device Support :
@@ -33,6 +39,7 @@ Device Support :
 Credits :
 Thanks to @dhruvesh_23 for testing all my builds
 Give me coffee :
+UPI: kaderbava-1@okaxis
 [Paypal](http://paypal.me/kaderbava)
 
 #ancientOS #ancientrom #android #android12 #megalith #iron
