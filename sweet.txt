@@ -1,0 +1,36 @@
+https://telegra.ph/file/a7fc39cca69118bf9683e.jpg
+|||||
+@bmwtheseries
+|||||
+AncientOS V6.0 | Android 12 | Alpha
+for Redmi Note 10 Pro (Sweet)
+Maintained by [BMW](https://t.me/bmwtheseries)
+
+Build Variant : Gapps
+Build Version : 6.0 | Society & Weeabo-Naruto| Alpha 
+Build Date : 22-11-2021
+
+Source Changelogs :
+• Alpha
+
+Device Changelog:
+• Inital Android 12 Build
+• SELinux Enforcing
+
+Download :
+• [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+• [HERE](https://t.me/ancientossweet)
+
+Notes :
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
+
+Credits :
+• Thanks @daniml3 for tree vendor kernel
+• Thanks  @Kinthil_Dampt  @Hady_doubleh @rejectclass @salamsaitama for testing
+
+Give us coffee :
+[Paypal](https://www.paypal.com/paypalme/BayerischeMW)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron #naruto
