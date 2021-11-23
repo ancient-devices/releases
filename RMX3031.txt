@@ -8,31 +8,33 @@ Maintained by @NishantKumar6342
 
 Build Variant : Gapps
 Build Version : 6.0 | Society | Alpha 
-Build Date : 19-11-2021
+Build Date : 23-11-2021
 
 Source Changelogs :
 • Alpha Build
 • Some minor changes
 
 Device Changelogs :
-• Initial build
-• FOD working
-• Volte working
-• SafetyNet passes by default
+• Fixed AOD (FOD working too)
+• Updated prebuilt kernel to A.20
+• Fixed IMSService crash upon messaging
+• Fixed some bugs in realme parts
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
 Notes :
 Clean flash is mandatory
-Flash on A.19 version firmware ONLY
+Flash on A.20 version firmware ONLY
 Gapps included
+Safetynet passes without root
+Disable carrier video calling from settings if facing any VOLTE bugs
 Don't report bugs without proper logs
 
 Device Support :
 @ancientRMX3031
 
 Credits :
-Thanks to @ManshuTyagi for Initial DT
+Thanks to @ManshuTyagi for DT
 Give me coffee :
 [Paypal](http://paypal.me/nishant134)
 UPI : 7542947425@ybl
