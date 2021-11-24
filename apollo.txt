@@ -3,23 +3,22 @@ https://telegra.ph/file/241ea6257e5f777caa455.jpg
 @Maxanderz & @Aarunalr
 |||||
 
-AncientOS 5.6 | Android 11
+AncientOS 6.0 | Android 12
 for Xiaomi Mi 10T/Pro (apollo)
 
 Maintained by @Maxanderz & @Aarunalr
 Build Variant : Gapps & vanilla
-Build Version : 5.6 | Society
-Build Date : 01-11-2021
+Build Version : 6.0 | Society
+Build Date : 23-11-2021
 
 Source Changelogs :
 • [HERE](https://t.me/ancientrom/1158)
 
 Changelogs :
 
-- dda73a9 apollo: show a ring on the camera cutout when its in use
-- 6a2ea8b apollo: Move NFC manifest entries to nfc SKU
-- bd940f2 apollo: walleye fp
-- Linux Kernel 4.19-Lolla
+- Initial Public Release
+- parts are removed
+- Linux Kernel 4.19-Arrow
 - SELinux enforcing
 - use Global firmware
 
@@ -27,7 +26,6 @@ Download : [Here](https://www.pling.com/p/1424176)
  
  Note:
 - Thanks to testers
-- decommonized tree
 
 Support Group : [General Discussion](https://t.me/ancientid) | [Official Channel](https://t.me/ancientrom)
-#ancientOS #ancientrom #android #android11 #megalith #iron
+#ancientOS #ancientrom #android #android12 #megalith #iron
