@@ -3,7 +3,7 @@ https://telegra.ph/file/241ea6257e5f777caa455.jpg
 @Maxanderz & @Aarunalr
 |||||
 
-AncientOS 6.0 | Android 12
+AncientOS 6.0 | Android 12 | Alpha
 for Xiaomi Mi 10T/Pro (apollo)
 
 Maintained by @Maxanderz & @Aarunalr
