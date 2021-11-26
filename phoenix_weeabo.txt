@@ -2,16 +2,16 @@ https://telegra.ph/file/075aecee1dd37c3d12a67.jpg
 |||||
 @bibindasb
 |||||
-AncientOS V6.0 | Android 12 | Alpha
+AncientOS V6.0 | Android 12 | Beta
 for Xiaomi Poco X2 (phoenix)
 Maintained by [bibindasb](https://t.me/bibindasb)
 
 Build Variant : Gapps
-Build Version : 6.0 | Society & Weeabo-Naruto| Alpha 
+Build Version : 6.1 | Society & Weeabo-Naruto| Beta
 Build Date : 24-11-2021
 
 Source Changelogs :
-• Alpha
+• 
 
 Device Changelog:
 • Inital Android 12 Build
