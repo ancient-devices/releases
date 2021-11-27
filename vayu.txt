@@ -2,34 +2,28 @@ https://telegra.ph/file/ec6fa39067b123878c4ad.jpg
 |||||
 @thepsambit
 |||||
-AncientOS V6.0 | Android 12 | Alpha
-for POCO X3 Pro (Vayu)
-Maintained by @thepsambit
+**AncientOS V6.1 | Android 12 | Beta**
+**for POCO X3 Pro (Vayu)**
+Maintained by @thepsambit(KangMonkey)
 
 Build Variant : Both
-Build Version : 6.0 | Society | Alpha
-Build Date : 13-11-2021
+Build Version : 6.1 | Society | Weeabo | Beta
+Build Date : 27-11-2021
 
-Source Changelog:
-Alpha
+**Changelog:**
+[Here](https://telegra.ph/AncientOS-v61-Weeabo-Official-Changelog--Notes-11-27)
 
-Device Changelog:
-Initial Android 12 Build.
-Shipped with OnlyFans-XII Kernel.
+**Download Build:** [Here](https://www.pling.com/p/1606752/)
 
-Download Build [Here](https://www.pling.com/p/1606752/)
+**Device Support :**
+@AncientVayu
 
-Device Support :
-@ancientPocoX3Pro
-
-Notes :
+**Notes :**
 12.0.4 FW or Greater Required.
-
-Credits :
-KuberSharma For OSS Trees.
 
 Buy me a Beer if you like my work :
 [PayPal](paypal.me/sambit2cool)
+UPI: 'psambitk1@apl'
 
 #ancientOS #ancientrom #android #android12 #megalith #iron #society
 
