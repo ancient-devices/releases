@@ -2,7 +2,7 @@ https://telegra.ph/file/075aecee1dd37c3d12a67.jpg
 |||||
 @bibindasb
 |||||
-AncientOS V6.0 | Android 12 | Beta
+AncientOS V6.1 | Android 12 | Beta
 for Xiaomi Poco X2 (phoenix)
 Maintained by [bibindasb](https://t.me/bibindasb)
 
