@@ -24,15 +24,11 @@ Source Changelogs :
 
 Device Changelog:
 
-• Selinux Enforcing
+• Selinux Enforcing now
 
 • CTS pass by default and Magisk Hide
 
-• Nexus EAS v9.3
-
 • lavender: Add kpti=off to boot command line
-
-• disabled blur
 
 • Update Build fp to November
 
@@ -50,12 +46,8 @@ Notes :
 
 Credits :
 
-• Thanks @letsmakecakes & @ImPrashantt for base tree and kernel
-
-• Thanks @veshrao for Server
-
-
-
-
+• @letsmakecakes for base DF
+• @ImPrashantt for kernel
+• @veshrao for Server
 
 #ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
