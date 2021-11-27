@@ -7,7 +7,7 @@ for Redmi Note 10 Pro (Sweet)
 Maintained by [BMW](https://t.me/bmwtheseries)
 
 Build Variant : Gapps
-Build Version : 6.0 | Society & Weeabo-Naruto| Beta
+Build Version : 6.1 | Society & Weeabo-Naruto| Beta
 Build Date : 27-11-2021
 
 Source Changelogs :
