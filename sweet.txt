@@ -2,20 +2,24 @@ https://telegra.ph/file/a7fc39cca69118bf9683e.jpg
 |||||
 @bmwtheseries
 |||||
-AncientOS V6.0 | Android 12 | Alpha
+AncientOS V6.1 | Android 12 | Beta
 for Redmi Note 10 Pro (Sweet)
 Maintained by [BMW](https://t.me/bmwtheseries)
 
 Build Variant : Gapps
-Build Version : 6.0 | Society & Weeabo-Naruto| Alpha 
-Build Date : 22-11-2021
+Build Version : 6.1 | Shield | Beta
+Build Date : 27-11-2021
 
 Source Changelogs :
-• Alpha
+• Beta
 
 Device Changelog:
-• Inital Android 12 Build
-• SELinux Enforcing
+• Set default Settings.Global.DEVICE_NAME according to MIUI 
+• Disable bluetooth by default 
+• Added FPS Info
+• Make the UI smoother
+• enable Multi Users UI
+• Misc changes and fixes
 
 Download :
 • [HERE](https://www.pling.com/p/1606752)
@@ -28,9 +32,9 @@ Notes :
 
 Credits :
 • Thanks @daniml3 for tree vendor kernel
-• Thanks  @Kinthil_Dampt  @Hady_doubleh @rejectclass @salamsaitama for testing
+• Thanks  @Kinthil_Dampt  @Hady_doubleh @rejectclass @salamsaitama @Hitman2008 for testing
 
 Give us coffee :
 [Paypal](https://www.paypal.com/paypalme/BayerischeMW)
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #naruto
+#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
