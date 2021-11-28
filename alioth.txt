@@ -2,16 +2,16 @@ https://telegra.ph/file/04b1427f6fdae3ad121f4.jpg
 |||||
 @oghe3003
 |||||
-AncientOS 6.0 | Android 12 | Alpha
+AncientOS 6.1 | Android 12 | BETA
 for Poco F3/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @oghe3003
 
 Build Variant : Gapps
-Build Version : 6.0 | Society
-Build Date : 13/11/2021
+Build Version : 6.1 | Shield
+Build Date : 28/11/2021
 
 Changelogs :
-• Source : Alpha
+• Source : [BETA](https://t.me/ancientrom/1393)
 • Device : [Click Here](https://raw.githubusercontent.com/oghe3003/changelog/main/ancientA12.txt)
 
 Download :
@@ -29,6 +29,7 @@ Credits:
 
 Special Thanks:
 • ALLAH S.W.T
+• All my tester
 
 Give me coffee :
 [Paypal](https://www.paypal.me/oghe3003) | [Saweria](https://saweria.co/oghe3003)
@@ -36,4 +37,4 @@ Give me coffee :
 Support Groups :
 [Device Support](https://t.me/ancientofficialalioth) | [Channel](http://t.me/ancientrom) | [oghe3003 Support Group](https://t.me/oghe3003_support)
 
-#ancientOS #ancientrom #android #android12 #megalith #society #iron
+#ancientOS #ancientrom #android #android12 #megalith #shield #steel
