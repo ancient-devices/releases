@@ -1,35 +1,35 @@
-https://telegra.ph/file/816dbdcecaa835e1de785.jpg
+https://telegra.ph/file/71f379d1d108fea506b96.png
 |||||
 @ThisIsTag
 |||||
-AncientOS V6.0 | Android 12 | Alpha
+AncientOS V5.7 | Android 11
 for Miatoll | Xiaomi 720G Devices
 
 Maintained by @ThisIsTag
 Build Variant : Gapps
-Build Version : 6.0 | Society / Weeabo | Alpha 
-Build Date : 16-11-2021
+Build Version : 5.7 | Society / Weeabo 
+Build Date : 29-11-2021
 
 Source Changelogs :
-• Alpha
-• Some minor changes
+• [Here](https://t.me/ancientrom/1394)
 
 Device Changelogs :
-
-• Fixed vibration
+• Import QTI Codec2 HAL and switch to Codec2 by default 
+• Add basic permission file for HotwordEnrollment 
+• Revert Build opensource soundtrigger HAL
+• Change fp to raven and update to november
+• Using DFC kernel 
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
 Device Support :
 @ThisIsGroup2
 
-Notes :
-• GcamGo as default
-
 Credits :
-• Thanks to @IvanGE90, and @icodix for testing.
-• Thanks to @SonalSingh18 for Trees and kernel.
-• Thanks to @nekoshirro and everyone for helping.
+• Thanks to all my testers.
+• Thanks to @SonalSingh18 for vendor miuicamera.
+• Thanks to @Sairam60 for Trees and kernel.
+• Thanks to everyone for helping.
 • Thanks to all Miatoll devs.
 
 Give me coffee :
@@ -37,4 +37,4 @@ Give me coffee :
 [Paypal](https://paypal.me/rianjunaeni07)
 
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #megalith #iron #weeabo
