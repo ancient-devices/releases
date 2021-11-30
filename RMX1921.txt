@@ -1,30 +1,27 @@
-https://telegra.ph/file/a1d38bd4364beb1537f6a.jpg
+https://telegra.ph/file/ea6cb713a6720ed26199a.jpg
 |||||
 @Bava7325
 |||||
-AncientOS V6.0 | Android 12 | Alpha
+AncientOS V6.1 | Android 12
 for Realme XT(RMX1921)
 Maintained by @Bava7325
 
 Build Variant : Gapps
-Build Version : 6.0 | Society | Alpha 
-Build Date : 22-11-2021
+Build Version : 6.1 | Shield | Beta
+Build Date : 30-11-2021
 
 Source Changelogs :
-• November Security patch
-• All basic customizations added
+• [Read Here](https://t.me/ancientrom/1393)
 
 Device Changelogs :
-• Kernel Upstream to 4.9.290
-• Fixed transparent QS panel bug
-• Fixed QS panel jitters
-• Fixed USB tethering
-• Fixed FOD flickers
-• Improved display cutout & statusbar icons
-• Realme Parts & Ambient Display settings updated to A12 styles
-• Added Pixel offline charging animation
+• Kernel Upstream to 4.9.291
+• Merged latest CAF tag LA.UM.9.8.r1-04200-SDM710.0 into kernel
+• Updated qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-04200-SDM710.0
+• Updated bluetooth audio HIDL impl to 2.1
+• Updated audio & audio effects HAL to V7.0
+• Google Photos Unlimited storage by default
 • SafetyNet pass without root as usual
-• More improvements & bug fixes! 
+• Misc improvements & fixes!
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
@@ -42,4 +39,4 @@ Give me coffee :
 UPI: kaderbava-1@okaxis
 [Paypal](http://paypal.me/kaderbava)
 
-#ancientOS #ancientrom #android #android12 #megalith #iron
+#ancientOS #ancientrom #android #android12 #shield #steel
