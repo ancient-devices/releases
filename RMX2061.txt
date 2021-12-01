@@ -28,7 +28,7 @@ Gapps included
 Don't report bugs without proper logs
 
 Device Support :
-@realme6pro
+@ancientOSofficialRMX2061
 
 Credits :
 Thanks to @Hello for testing
