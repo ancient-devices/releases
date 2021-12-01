@@ -21,7 +21,7 @@ Device Changelogs :
 • Fixed all A12 jitter/lags
 • CTS passes with magisk hide
 
-Download Build [HERE](https://drive.google.com/file/d/1EqBEXJTKcm5T8GktyzWZUBvq_HSb4Z2t/view?usp=sharing)
+Download Build [HERE](https://www.pling.com/p/1606752)
 
 Notes :
 Gapps included
