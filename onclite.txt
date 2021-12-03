@@ -1,0 +1,43 @@
+https://telegra.ph/file/5e1dab986c2d0c8bfb8f0.png
+|||||
+@Soumyajitpaul001
+|||||
+AncientOS V6.1 | Android 12
+for Redmi 7|Y3(onclite|onc)
+Maintained by @Soumyajitpaul001
+
+Build Variant : Gapps | Vanilla | Weeabo
+Build Version : 6.1 | Shield | Beta
+Build Date : 03-12-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1392)
+
+Device Changelogs :
+• Kernel Upstream to 4.9.291
+• Enfocing Build
+• Enabled WallpaperZoom
+• Google Photos Unlimited storage by default
+• SafetyNet pass out of the box
+• Misc improvements & fixes!
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Notes :
+• Clean flash must
+• Flash Flame GApps for vanilla version
+• Recovery doesn't support decryption for now, FORMAT DATA to remove encryption or else flash [DFE](https://t.me/Predators_Abode/35848) to completely remove encryption (optional)
+• If you face any bugs report in support group with logs
+
+Device Support :
+[HERE](https://t.me/Predators_Abode)
+
+Credits :
+Thanks to @Dhina_17 for kernel source
+Thanks to @AbhinavNmdo @Noviceyash @rsouza730 @vladblaxk1 for testing
+
+Give me coffee :
+UPI: soumyajitpaul001@okhdfcbank
+[Paypal](http://paypal.me/penetrator007)
+
+#ancientOS #ancientrom #android #android12 #shield #steel #onclite
