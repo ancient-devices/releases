@@ -2,35 +2,33 @@ https://telegra.ph/file/6af8bbe808d706ec74271.png
 |||||
 @ItoRenz
 |||||
-AncientOS V6.1 | Android 12
+AncientOS V5.7 | Android 11
 for Redmi 4A/5A (rova)
 Maintained by Ridwan (@ItoRenz)
 
 Build Variant : Vanilla
-Build Version : 6.1 | Shield | Beta
-Build Date : 30-11-2021
+Build Version : 5.7 | Society | Beta
+Build Date : 04-12-2021
 
 Source Changelogs :
-• [Read Here](https://t.me/ancientrom/1393)
+• [Read Here](https://t.me/ancientrom/1394)
 
 Device Changelogs :
-• [Read Here](https://telegra.ph/AncientOS-S-Shield-v61-Rova-Beta-20211130-2244-Vanilla-11-30)
+• [Read Here](https://telegra.ph/AncientOS-v57-Rova-Changelogs-04-12-2021-12-04)
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
 Notes :
 • Vanilla Build
-• Fixed RIL and Network
-• SeLinux Enforcing
 
 Device Support :
 @ancientofficialrova
 
 Credits :
 • Thanks to @me_cafebabe for trees
-• Thanks to @pelicanclub @alefirmanalfarizy @hellonetizen @Taseer_b_001 @iluReie @SilentS13 @veshrao for test
+• Thanks to @alefirmanalfarizy @ItzzVedxnt @Qiforra for test
 Give me coffee :
 [Dana](https://link.dana.id/qr/9r4irct)
 [Ko-fi](https://ko-fi.com/itorenz)
 
-#ancientOS #ancientrom #android #android12 #shield #steel
+#ancientOS #ancientrom #android #android11 #megalith #iron #society
