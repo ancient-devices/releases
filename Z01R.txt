@@ -1,0 +1,28 @@
+https://telegra.ph/file/ea6cb713a6720ed26199a.jpg
+|||||
+@ayanm09
+|||||
+AncientOS V6.1 | Android 12
+for Asus Zenfone 5Z
+Maintained by @ayanm09
+
+Build Variant : Gapps
+Build Version : 6.1 | Shield | Beta
+Build Date : 01-12-2021
+
+Source Changelogs :
+• [Read Here](https://t.me/ancientrom/1393)
+
+Device Changelogs :
+• Initial A12 build
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Notes :
+Gapps included
+Clean flash recommended
+
+Device Support :
+@asus5zofficial
+
+#ancientOS #ancientrom #android #android12 #shield #steel

@@ -1,0 +1,25 @@
+https://github.com/magicxavi/manifest/raw/ancientQ/Ancient_banner1.png
+|||||
+@Magicxavi
+|||||
+AncientOS V6.1 | Android 12 | Beta
+for MI A3 | laurel_sprout
+Maintained by @Magicxavi
+
+Build Variant : Steel | Gapps
+Build Version : 6.1 | Shield
+Build Date : 28/11/2021
+
+Source Changelog : [HERE](https://t.me/ancientrom/1393)
+
+Device Changelogs : [HERE](https://nekobin.com/meseyihina)
+
+Download Build : [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+@ancient_official_laurel
+
+Notes:
+* Permissive selinux
+
+#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo

@@ -1,0 +1,29 @@
+https://telegra.ph/file/241ea6257e5f777caa455.jpg
+|||||
+@Maxanderz & @Aarunalr
+|||||
+
+AncientOS 6.0 | Android 12 | Alpha
+for Xiaomi Mi 10T/Pro (apollo)
+
+Maintained by @Maxanderz & @Aarunalr
+Build Variant : Gapps & vanilla
+Build Version : 6.1 | Society
+Build Date : 27-11-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1393)
+
+Changelogs :
+
+- Linux Kernel 4.19-Arrow
+- SELinux enforcing
+- use Global firmware
+
+Download : [Here](https://www.pling.com/p/1424176)
+ 
+ Note:
+- Thanks to testers
+
+Support Group : [General Discussion](https://t.me/ancientid) | [Official Channel](https://t.me/ancientrom)
+#ancientOS #ancientrom #android #android12 #megalith #iron

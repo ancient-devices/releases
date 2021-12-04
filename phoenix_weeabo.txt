@@ -1,0 +1,37 @@
+https://telegra.ph/file/075aecee1dd37c3d12a67.jpg
+|||||
+@bibindasb
+|||||
+AncientOS V6.1 | Android 12 | Beta
+for Xiaomi Poco X2 (phoenix)
+Maintained by [bibindasb](https://t.me/bibindasb)
+
+Build Variant : Gapps
+Build Version : 6.1 | Society & Weeabo-Naruto| Beta
+Build Date : 26-11-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1393)
+
+Device Changelog:
+• Nothing 
+
+
+Download :
+• [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+• [HERE](https://t.me/ancientospocox2)
+
+Notes :
+• Gapps Build
+
+Credits :
+• Thanks to @SreekanthPalakurthi for Tree
+• Thanks to @RedcliffOP for kernel
+• Thanks to @Vinay_h343 for testing 
+
+Give us coffee :
+[Paypal](http://paypal.me/bibindasb1)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron #naruto

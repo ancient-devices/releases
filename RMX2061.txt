@@ -1,0 +1,28 @@
+https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
+|||||
+@CAPTAIN_NEMESIS_00
+|||||
+AncientOS V5.7 | Android 11
+for Realme 6 pro(RMX2061)
+Maintained by @CAPTAIN_NEMESIS_00
+
+Build Variant : Gapps
+Build Version : 5.7 | Society/Weeabo
+Build Date : 01-12-2021
+
+Source Changelogs :
+• [Read Here](https://t.me/ancientrom/1394)
+
+Download Build [HERE](https://www.pling.com/p/1606752)
+
+Notes :
+Gapps included
+Don't report bugs without proper logs
+
+Device Support :
+@@ancientOSofficialRMX2061
+
+Credits :
+Thanks to @Hello for testing
+
+#ancientOS #ancientrom #android #megalith #iron #weeabo

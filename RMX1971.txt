@@ -1,0 +1,42 @@
+https://telegra.ph/file/9d5548b6685285c57b949.png
+|||||
+
+@a1kara
+
+|||||
+
+AncientOS V6.1 | Android 12 | Beta
+for Realme 5 Pro (RMX1971)
+
+Maintained by @a1kara
+Build Variant : Gapps & Vanilla
+Build Version : 6.1 | Shield & Weeabo | Beta
+Build Date : 01-12-2021
+
+Source Changelogs :
+• [Read Here](https://t.me/ancientid/156745)
+
+Device Changelogs :
+• Fixes black bar notch on some apps/games
+• Switch to AOSP WFD
+• Uprev audio HAL to v7
+• Uprev bluetooth audio HIDL to v2.1
+• Upstream kernel to 4.9.291
+• Misc changes
+
+Download Build:
+[Click Here](https://www.pling.com/p/1606752)
+
+Notes :
+• Encryption disabled
+
+Credits :
+@LilDanZ @MasterBBl @Nobitabutdiff for testing
+
+Give me coffee :
+[Paypal](https://paypal.me/fallavall) | [Saweria](https://saweria.co/fallavall)
+
+Support Groups :
+[Device Support](t.me/ancientrealme5pro) | [Channel](http://t.me/ancientrom) | [Ancient.id](http://t.me/ancientid)
+
+#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo

@@ -1,0 +1,42 @@
+https://telegra.ph/file/7c2ebf27d2d46b7176049.png
+|||||
+@hikarinochikara
+|||||
+
+AncientOS V5.7 | Android 11 | Stable
+for  Mojito (Redmi Note 10)
+
+Maintained by @hikarinochikara
+Build Variant : Gapps
+Build Version : 5.7 | Society
+Build Date : 29-11-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1393)
+
+Device Changelogs :
+• Change default governor to schedutil
+• Added XiaomiParts
+• Misc changes and fixes
+
+Download :
+• [HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+• [HERE](https://t.me/ancientofficialmojito)
+
+Notes :
+• Install with latest Twrp
+• Clean Flash recommended or dirty
+• Don't forget to reinstall recovery ramdisk
+
+Credits :
+- Thanks to @ZIDAN44 for base tree
+- Thanks to @dblenk9 for awesome spesific OSS tree
+- Thanks to @Hasibkk for testing
+- And also big thanks to HSD FAMS
+
+Give us coffee :
+[Paypal](https://www.paypal.com/paypalme/anggialansori)
+
+#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo

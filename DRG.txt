@@ -3,7 +3,7 @@ https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
 @ankitkene && @Caster06 
 |||||
 AncientOS V6.1 | Android 12 | Beta
-for  Nokia 6.1 (2018)
+for  Nokia 6.1 Plus (DRG)
 Maintained by @ankitkene && @Caster06 
 
 Build Variant : Gapps
@@ -22,8 +22,6 @@ Download Build [HERE](https://www.pling.com/p/1606752)
 Device Support :
 @ancientPlate2Dragon_Onyx
 
-Credits :
-@dipesh1674 thanks for testing
 Give me coffee :
 [Paypal](https://paypal.me/keneankit)
 
