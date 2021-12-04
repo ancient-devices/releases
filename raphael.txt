@@ -1,9 +1,6 @@
-https://telegra.ph/file/4cad61d7553e57c12454b.jpg
-
+https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
 |||||
-
 @wadiehabib
-
 |||||
 
 AncientOS V6.1 | Android 12 | Beta
@@ -22,7 +19,7 @@ Device Changelogs :
 Inital build of A12. 
 Permissive SELinux. 
 
-Download Build [HERE](https://www.pling.com/p/1606752)  //permeant link 
+Download Build [HERE](https://www.pling.com/p/1606752)
 
 Device Support :
 @wadiehabibroms
