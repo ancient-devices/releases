@@ -2,24 +2,19 @@ https://telegra.ph/file/a7fc39cca69118bf9683e.jpg
 |||||
 @bmwtheseries
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V5.7 | Android 11 | STABLE
 for Redmi Note 10 Pro (Sweet)
 Maintained by [BMW](https://t.me/bmwtheseries)
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Beta
-Build Date : 27-11-2021
+Build Version : 5.7 | Society
+Build Date : 05-12-2021
 
 Source Changelogs :
-• Beta
+• [HERE](https://t.me/ancientrom/1394)
 
 Device Changelog:
-• Set default Settings.Global.DEVICE_NAME according to MIUI 
-• Disable bluetooth by default 
-• Added FPS Info
-• Make the UI smoother
-• enable Multi Users UI
-• Misc changes and fixes
+• [HERE](https://telegra.ph/ANCIENT-OS-v57-Society-12-05)
 
 Download :
 • [HERE](https://www.pling.com/p/1606752)
@@ -27,14 +22,10 @@ Download :
 Device Support :
 • [HERE](https://t.me/ancientossweet)
 
-Notes :
-• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
-
-Credits :
-• Thanks @daniml3 for tree vendor kernel
-• Thanks  @Kinthil_Dampt  @Hady_doubleh @rejectclass @salamsaitama @Hitman2008 for testing
+Screenshot :
+• [HERE](https://t.me/c/1613998884/2591)
 
 Give us coffee :
 [Paypal](https://www.paypal.com/paypalme/BayerischeMW)
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android11 #megalith #iron
