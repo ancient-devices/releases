@@ -9,15 +9,13 @@ for  Mi 9T Pro/Redmi K20 Pro
 Maintained by @wadiehabib
 Build Variant : Gapps | Vanilla
 Build Version : 6.1 | Shield
-Build Date : 04-12-2021
+Build Date : 05-12-2021
 
 Source Changelogs :
 [HERE](https://t.me/ancientrom/1393)
 
 Device Changelogs :
-
-Inital build of A12. 
-Permissive SELinux. 
+hotfix for telephony service 
 
 Download Build [HERE](https://www.pling.com/p/1606752)
 
