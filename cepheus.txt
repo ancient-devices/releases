@@ -1,0 +1,40 @@
+https://telegra.ph/file/1d71e0b4c1577e7eb8f6d.jpg
+|||||
+@bmwtheseries
+|||||
+AncientOS V6.1 | Android 12 | BETA
+for MI 9 (Cepheus)
+Maintained by [BMW](https://t.me/bmwtheseries)
+
+Build Variant : Gapps
+Build Version : 6.1 | Shield 
+Build Date : 06-12-2021
+
+Source Changelogs :
+[HERE](https://t.me/ancientrom/1393)
+
+Device Changelogs :
+Initial Build Of Android 12
+
+Download :
+[HERE](https://www.pling.com/p/1606752)
+
+Device Support :
+[HERE](https://t.me/cepheusdiscussion)
+
+Screenshot :
+[HERE](https://t.me/sekrinshotrom/5881?single)
+
+Notes :
+• SELInux Enforcing
+• Add CameraGO
+• NFC not working
+
+Credits :
+@EvasOnXiao thanks for Trees
+@BalonApotik thx for testing
+
+Give me coffee :
+[Paypal](https://www.paypal.com/paypalme/BayerischeMW)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
