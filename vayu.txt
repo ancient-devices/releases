@@ -2,16 +2,16 @@ https://telegra.ph/file/ec6fa39067b123878c4ad.jpg
 |||||
 @thepsambit
 |||||
-**AncientOS V6.1 | Android 12 | Beta**
+**AncientOS v5.7 | Android 11 | Iron**
 **for POCO X3 Pro (Vayu)**
 Maintained by @thepsambit(KangMonkey)
 
-Build Variant : Both
-Build Version : 6.1 | Society | Weeabo | Beta
-Build Date : 27-11-2021
+Build Variant : GApps
+Build Version : 6.1 | Society
+Build Date : 06-12-2021
 
 **Changelog:**
-[Here](https://telegra.ph/AncientOS-v61-Weeabo-Official-Changelog--Notes-11-27)
+[Here](https://t.me/ancientrom/1394)
 
 **Download Build:** [Here](https://www.pling.com/p/1606752/)
 
@@ -23,7 +23,7 @@ Build Date : 27-11-2021
 
 Buy me a Beer if you like my work :
 [PayPal](paypal.me/sambit2cool)
-UPI: 'psambitk1@apl'
+UPI: `psambitk1@apl`
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #society
+#ancientOS #ancientrom #android11 #megalith #iron #society
 
