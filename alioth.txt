@@ -1,4 +1,4 @@
-https://telegra.ph/file/04b1427f6fdae3ad121f4.jpg
+https://telegra.ph/file/df97b62c20dbe26fd69e0.jpg
 |||||
 @oghe3003
 |||||
@@ -7,8 +7,8 @@ for Poco F3/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @oghe3003
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield
-Build Date : 28/11/2021
+Build Version : 6.1 | Shield | Beta
+Build Date : 13/12/2021
 
 Changelogs :
 • Source : [BETA](https://t.me/ancientrom/1393)
