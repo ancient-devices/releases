@@ -1,0 +1,39 @@
+https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
+|||||
+@Orel6505
+|||||
+AncientOS V5.7| Android 11 | Iron
+for Samsung Galaxy S10&N10 Series
+
+Maintained by @Orel6505
+Build Variant : Vanilla
+Build Version : 5.7 | Society
+Build Date : 15-12-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1392)
+
+Device Changelogs :
+• Initial build
+
+Download :
+• [beyond0lte](https://www.pling.com/p/160675)
+• [beyond1lte](https://www.pling.com/p/160675)
+• [beyond2lte](https://www.pling.com/p/160675)
+• [beyondx](https://www.pling.com/p/160675)
+• [d1](https://www.pling.com/p/160675)
+• [d2s](https://www.pling.com/p/160675)
+• [d2x](https://www.pling.com/p/160675)
+
+Device Support :
+[Device Support Group](https://t.me/ancientofficial_beyonds)
+
+Notes :
+• GAPPS is NOT included
+• Please report bugs with logs if you found any
+• This rom supports only LOS recovery - Please don't report bugs if you using TWRP.
+
+Credits :
+- @Linux4 — for giving me device tree and helping me!
+
+#ancientOS #ancientrom #android #android11 #megalith #iron
