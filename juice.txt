@@ -3,37 +3,36 @@ https://telegra.ph/file/8f7f36a32651ecaee75c4.jpg
 @IndraDP & @Vern_Kuato
 |||||
 
-AncientOS V6.0 | Android 12 | Alpha
+AncientOS V5.7 | Android 11 | Iron
 for POCO M3 / Redmi 9T (Juice)
 
 Maintained by @IndraDP & @Vern_Kuato
 Build Variant : GApps
-Build Version : 6.0 | Society / Iron | Alpha
-Build Date : 12-11-2021
+Build Version : 5.7 | Society
+Build Date : 16-12-2021
 
 Source Changelogs :
-- Alpha build
-- And November Security Patch
+[Here](https://t.me/ancientrom/1394)
 
 Device Changelogs :
-- Override to Raven fingerprint.
-- overlay: Remove unusable color mode list options.
-- prop: Disable force GPU rendering.
-- Shipped with Fury Bengal kernel
+[Here](https://github.com/ancient-devices/device_xiaomi_juice/commits/eleven)
 
-Download : [Here](https://www.pling.com/p/1606752)
+Download :
+[Here](https://www.pling.com/p/1606752)
 
-Note:
-This is ALPHA BUILD. Don't expect stability for daily usages.
-We accept bug with logs. Without it, be ignored.
- 
+Notes :
+- Clean Flash recommended
+- Redmi 9T/Power/Note 9 4G : Use 12.5.x Vendor
+- Poco M3 : Use latest EEA Vendor
+- Bugs? Tell us with proper logs. Without logs will be ignored
+
 Credits : 
-- @imannig for testing
-- @mafiasupremacy for device tree
-- @javashin for kernel
+- @imannig, @frostg012, @RayapKun for testing
+- @ankitkene for always support us
+- @javashin for Kernel
 
 Give us coffee :
 [Paypal](https://paypal.me/IndraDesiP) | [Saweria](https://saweria.co/indradp)
 
 Support Group : | [Device Support](https://t.me/ancientosjuice) | [General Discussion](https://t.me/ancientid)
-#ancientOS #ancientrom #android #android12 #iron
+#ancientOS #ancientrom #android #android11 #iron
