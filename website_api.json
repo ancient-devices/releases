@@ -1,0 +1,22 @@
+[
+  {
+    "device_codename": "Nokia 6.1 Plus (DRG)",
+    "maintainer": "Ankit Kene",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientPlate2Dragon_Onyx",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "01-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/DRG.png"
+  },
+  {
+    "device_codename": "Nokia 6.1 2018 (PL2)",
+    "maintainer": "Ankit Kene",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientPlate2Dragon_Onyx",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "01-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6-2018.jpg"
+  }
+]
