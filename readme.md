@@ -47,3 +47,25 @@ above is format for your device_code.txt file remove my comment which i have men
 and do PR and also to do changes fork this repo
 
 while pushing update of your file commit should be like "device_codename.txt" dont put commit message like update for sepetmber , update for october bot wont accept & push it on channel
+
+
+## Wesite_api.json
+
+In this file you need to add below lines after making changes for your device below is sample 
+
+````
+
+  {
+    "device_codename": "Nokia 6.1 Plus (DRG)",
+    "maintainer": "Ankit Kene",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientPlate2Dragon_Onyx",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "01-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/DRG.png"
+  },
+  
+  ````
+  
+  please make sure you update this file as well with each update as lsat build release date is tracked from this file for website 
