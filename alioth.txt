@@ -2,20 +2,20 @@ https://telegra.ph/file/df97b62c20dbe26fd69e0.jpg
 |||||
 @oghe3003
 |||||
-AncientOS 6.1 | Android 12 | BETA
+AncientOS 5.7 | Android 11 | Iron
 for Poco F3/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @oghe3003
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Beta
-Build Date : 13/12/2021
+Build Version : 5.7 | Society | Iron
+Build Date : 20/12/2021
 
 Changelogs :
-• Source : [BETA](https://t.me/ancientrom/1393)
-• Device : [Click Here](https://raw.githubusercontent.com/oghe3003/changelog/main/ancientA12.txt)
+• Source : [Society](https://t.me/ancientrom/1392)
+• Device : [Click Here](https://raw.githubusercontent.com/oghe3003/changelog/main/ancientA11.txt)
 
 Download :
-[Click Here](https://www.pling.com/p/1606752/)
+[Click Here](https://www.ancientrom.tech)
 
 Notes:
 • FW version ? up to you
@@ -25,7 +25,7 @@ Notes:
 • SELinux is Enforcing
 
 Credits:
-• @NickvBokhorst for kernel
+• @FarizMaulana for kernel
 
 Special Thanks:
 • ALLAH S.W.T
@@ -37,4 +37,4 @@ Give me coffee :
 Support Groups :
 [Device Support](https://t.me/ancientofficialalioth) | [Channel](http://t.me/ancientrom) | [oghe3003 Support Group](https://t.me/oghe3003_support)
 
-#ancientOS #ancientrom #android #android12 #megalith #shield #steel
+#ancientOS #ancientrom #android #android11 #megalith #society #iron
