@@ -3,22 +3,24 @@ https://telegra.ph/file/8f7f36a32651ecaee75c4.jpg
 @IndraDP & @Vern_Kuato
 |||||
 
-AncientOS V5.7 | Android 11 | Iron
+AncientOS V6.1 Shield | Android 12 | BETA
 for POCO M3 / Redmi 9T (Juice)
 
 Maintained by @IndraDP & @Vern_Kuato
 Build Variant : GApps
-Build Version : 5.7 | Society
-Build Date : 16-12-2021
+Build Version : 6.1 | Shield
+Build Date : 18-12-2021
 
 Source Changelogs :
-[Here](https://t.me/ancientrom/1394)
+[Here](https://t.me/ancientrom/1393)
 
 Device Changelogs :
-[Here](https://github.com/ancient-devices/device_xiaomi_juice/commits/eleven)
+- Optimize native executables for Cortex-A73 CPU
+- Set UI rendering Skiagl with skiaglthreaded
+- And other improvements
 
 Download :
-[Here](https://www.pling.com/p/1606752)
+[Here](https://www.ancientrom.tech)
 
 Notes :
 - Clean Flash recommended
@@ -27,12 +29,15 @@ Notes :
 - Bugs? Tell us with proper logs. Without logs will be ignored
 
 Credits : 
-- @imannig, @frostg012, @RayapKun for testing
+- @RayapKun & @frostg012 for testing
 - @ankitkene for always support us
+- @mafiasupremacy for device tree
 - @javashin for Kernel
+- And all Juice Dev for helping
+
 
 Give us coffee :
 [Paypal](https://paypal.me/IndraDesiP) | [Saweria](https://saweria.co/indradp)
 
 Support Group : | [Device Support](https://t.me/ancientosjuice) | [General Discussion](https://t.me/ancientid)
-#ancientOS #ancientrom #android #android11 #iron
+#ancientOS #ancientrom #android #android12 #steel
