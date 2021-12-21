@@ -1,10 +1,7 @@
 ```
 https://telegra.ph/file/4cad61d7553e57c12454b.jpg  //device banner link replace with yours
-
 |||||
-
 @username_here // telegram username
-
 |||||
 
 AncientOS V6.0 | Android 12 | Alpha
@@ -23,7 +20,7 @@ Device Changelogs :
 Inital build of 12
 //device changelog here 
 
-Download Build [HERE](https://www.pling.com/p/1606752)  //permeant link 
+Download Build [HERE](https://www.ancientrom.tech/)  //permeant download link 
 
 Device Support :
 @device_support group link
@@ -47,7 +44,7 @@ above is format for your device_code.txt file remove my comment which i have men
 and do PR and also to do changes fork this repo
 
 while pushing update of your file commit should be like "device_codename.txt" dont put commit message like update for sepetmber , update for october bot wont accept & push it on channel
-
+ ## Note if you dont update WEBSITE_API.json I Wont Merge Your Pull Request
 
 ## Wesite_api.json
 
