@@ -16,7 +16,7 @@ Source Changelogs :
 Device Changelogs :
 Inital build of 12
 
-Download Build [HERE](https://www.pling.com/p/1606752)
+Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
 Clean flash is mandatory

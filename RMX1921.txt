@@ -23,7 +23,7 @@ Device Changelogs :
 • SafetyNet pass without root as usual
 • Misc improvements & fixes!
 
-Download Build [HERE](https://www.pling.com/p/1606752)
+Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
 Gapps included
