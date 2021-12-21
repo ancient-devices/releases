@@ -20,7 +20,7 @@ Changelogs :
 - SELinux enforcing
 - use Global firmware
 
-Download : [Here](https://www.pling.com/p/1424176)
+Download : [Here](https://www.ancientrom.tech/)
  
  Note:
 - Thanks to testers

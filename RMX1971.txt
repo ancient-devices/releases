@@ -25,7 +25,7 @@ Device Changelogs :
 • Misc changes
 
 Download Build:
-[Click Here](https://www.pling.com/p/1606752)
+[Click Here](https://www.ancientrom.tech/)
 
 Notes :
 • Encryption disabled

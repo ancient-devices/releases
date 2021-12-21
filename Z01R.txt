@@ -16,7 +16,7 @@ Source Changelogs :
 Device Changelogs :
 • Initial A12 build
 
-Download Build [HERE](https://www.pling.com/p/1606752)
+Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
 Gapps included
