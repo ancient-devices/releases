@@ -1,4 +1,14 @@
 [
+   {
+    "device_codename": "Redmi Note 4(mido)",
+    "maintainer": "Smokey && Ankit Kene",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficialmido",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "22-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
+  },
   {
     "device_codename": "Nokia 6.1 Plus (DRG)",
     "maintainer": "Ankit Kene",
