@@ -1,4 +1,4 @@
-https://telegra.ph/file/780905df8c88b36e9ffed.png
+https://telegra.ph/file/48188d4193889d9a6a24c.png
 |||||
 @ImFlynnn
 |||||
@@ -8,13 +8,19 @@ Maintained by @ImFlynnn
 
 Build Variant : Gapps
 Build Version : 6.1 | Shield
-Build Date : 12-12-2021
+Build Date : 22-12-2021
 
 Source Changelogs :
 • [HERE](https://t.me/ancientrom/1393)
 
 Device Changelogs :
-• Inital build of A12
+• Fixed VoLTE
+• Fixed fingerprint
+• Fixed color flicker
+• Fixed brightness slider
+• Added color mode
+• Desember secpatch
+• Shipped with Emiko kernel
 
 Download Build [HERE](https://www.ancientrom.tech/) 
 
@@ -23,13 +29,13 @@ Device Support :
 
 Notes :
 • Based on realmeUI 2.0
+• CTS passed by default
 • Custom vendor and kernel built from source
-• Flash magisk if you cant boot, some device wasn't booting without magisk
+• If you are from rUI 1.0 then first flash rom then twrp 2.0 then format then reboot, if you are from rUI 2 you can flash normally as usual
 • If you face any bugs report in support group with logs
 
 Credits :
-Special thanks to @SamarV121
-Thanks to @no1_really & @kawaragi_sensei @Rdz_NayR @dzcnayr for testing
-@officialputuid for help
+Special thanks to @SamarV121 @ankitkene @officialputuid
+and all testers
 
-#ancientOS #ROM #android12 #A12 #megalith #shield #RM6785 #rUI2
+#ancientOS #ancientrom #android #android12 #megalith #shield #RM6785
