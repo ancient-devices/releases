@@ -8,7 +8,7 @@ Maintained By @oghe3003
 
 Build Variant : Gapps
 Build Version : 6.1 | Shield | Beta
-Build Date : 13/12/2021
+Build Date : 23/12/2021
 
 Changelogs :
 • Source : [BETA](https://t.me/ancientrom/1393)
@@ -25,7 +25,9 @@ Notes:
 • SELinux is Enforcing
 
 Credits:
-• @NickvBokhorst for kernel
+• @NickvBokhorst for beast kernul ever
+• @SebaUbuntu for Good DT
+• @xyzuan for best clang ever for me
 
 Special Thanks:
 • ALLAH S.W.T
