@@ -1,0 +1,41 @@
+https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
+|||||
+@Ryuzenn
+|||||
+AncientOS V6.1 | Android 12 | Beta
+for  Redmi 5 Plus (Vince)
+Maintained by @Ryuzenn 
+
+Build Variant : Gapps
+Build Version : 6.1 | Shield/Weeabo  | Beta
+Build Date : 24-12-2021
+
+Source Changelogs :
+[READ HERE](https://t.me/ancientrom/1392)
+
+Device Changelogs :
+ Initial Build Of A12
+ Build with Ryzen Kernel 4.9
+ Upsteamed Kernel to v4.9.293
+ Included GcamGO
+ Selinux Permissive
+
+
+Download Build [HERE](https://www.ancientrom.tech/)
+
+Device Support :
+@ancientid
+
+Credits:
+ Allah SWT
+ My Friends
+ Sixteen Dev
+ @grindklast For Testing
+ @GhostMaster69_dev For Tree Source
+
+
+Give me coffee :
+[Paypal](https://paypal.me/tachibanarui)
+[Saweria](https://saweria.co/ryzen)
+
+#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
