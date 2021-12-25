@@ -11,27 +11,29 @@ Build Version : 6.1 | Shield/Weeabo  | Beta
 Build Date : 24-12-2021
 
 Source Changelogs :
-[READ HERE](https://t.me/ancientrom/1392)
+• [READ HERE](https://t.me/ancientrom/1392)
 
 Device Changelogs :
- Initial Build Of A12
- Build with Ryzen Kernel 4.9
- Upsteamed Kernel to v4.9.293
- Included GcamGO
- Selinux Permissive
+ • Initial Build Of A12
+ • Build with Ryzen Kernel 4.9
+ • Update Fingerprint to Raven 
+ • Upsteamed Kernel to v4.9.293
+ • Included GcamGO
+ • Selinux Permissive
 
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build 
+• [HERE](https://www.ancientrom.tech/)
 
 Device Support :
-@ancientid
+@ancientvince
 
 Credits:
- Allah SWT
- My Friends
- Sixteen Dev
- @grindklast For Testing
- @GhostMaster69_dev For Tree Source
+ • Allah SWT
+ • My Friends
+ • Sixteen Dev
+ • @grindklast For Testing
+ • @GhostMaster69_dev For Tree Source
 
 
 Give me coffee :
