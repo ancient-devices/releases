@@ -1,0 +1,32 @@
+https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
+|||||
+@ygherna    
+|||||
+AncientOS V6.1 | Society | Weeabo | Beta
+for Mi 11 Lite (courbet)
+
+Maintained by @ygherna
+
+Build Variant : Vanilla
+Build Version : 5.7 | Society | Stable
+Build Date : 23-12-2021
+
+Source Changelogs :
+• [HERE](https://t.me/ancientrom/1393)
+
+Device Changelogs :
+• Inital build
+• Vantom Kernel as default. 
+
+Download Build [HERE](https://www.ancientrom.tech/) 
+
+Device Support :
+[HERE](https://t.me/+QClPUsqieQE1Y2Yx)
+
+Notes :
+• If you face any bugs report in support group with logs
+
+Credits :
+Special thanks to @Vantom for its great kernel.
+
+#ancientOS #ROM #android12 #A12 #Weeabo #courbet
