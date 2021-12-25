@@ -8,15 +8,16 @@ for  Redmi 4X (Santoni)
 
 Maintained by @Krxyzn
 Build Variant : Vanilla
-Build Version : 6.1 | Shield
-Build Date : 23-12-2021
+Build Version : 6.1 | Shield | weeb
+Build Date : 25-12-2021
 
 Source Changelogs :
 [HERE](https://t.me/ancientrom/1393) 
 
 Device Changelogs :
-
-[HERE](https://telegra.ph/Redmi-4x-AncientOS-Changelogs-12-23)
+Hotfix:
+• Fixed the issue of mtp unable to copy files
+• Changing Kernel to Luuvy kernel
 
 Download Build [HERE](https://www.ancientrom.tech/) 
 
@@ -31,7 +32,7 @@ Notes :
 Credits :
 • @Jabiyeff21 For Tree
 • @ItoRenz For Help
-• @me_cafebabe for kernel
+• @Halo555555 for kernel
 • @IlhamJuanda090 , @EvilAnsh , @iamnabilzaman , TheGodKingTime For Test
 
 Give me coffee :
