@@ -2,30 +2,30 @@ https://telegra.ph/file/a7fc39cca69118bf9683e.jpg
 |||||
 @bmwtheseries
 |||||
-AncientOS V5.7 | Android 11 | STABLE
+AncientOS V5.7 | Android 11 | FINAL
 for Redmi Note 10 Pro (Sweet)
 Maintained by [BMW](https://t.me/bmwtheseries)
 
 Build Variant : Gapps
-Build Version : 5.7 | Society
-Build Date : 05-12-2021
+Build Version : 5.7 | Society & Weeabo
+Build Date : 27-12-2021
 
 Source Changelogs :
 • [HERE](https://t.me/ancientrom/1394)
 
 Device Changelog:
-• [HERE](https://telegra.ph/ANCIENT-OS-v57-Society-12-05)
+• [HERE](https://telegra.ph/ANCIENT-OS-V57-FINAL-12-27)
 
 Download :
-• [HERE](https://www.ancientrom.tech/)
+• [HERE](https://www.pling.com/p/1606752)
 
 Device Support :
 • [HERE](https://t.me/ancientossweet)
 
 Screenshot :
-• [HERE](https://t.me/c/1613998884/2591)
+• [HERE](https://t.me/ancientossweet/7844?single)
 
 Give us coffee :
 [Paypal](https://www.paypal.com/paypalme/BayerischeMW)
 
-#ancientOS #ancientrom #android #android11 #megalith #iron
+#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo
