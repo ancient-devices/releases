@@ -8,13 +8,15 @@ for Miatoll | Xiaomi 720G Devices
 Maintained by @ThisIsTag
 Build Variant : Gapps
 Build Version : 6.1 | Shield / Weeabo 
-Build Date : 01-12-2021
+Build Date : 29-12-2021
 
 Device Changelogs : 
-• Change to pure_perf kernel by @Tusharind007
+• Shipped with DFC+ kernel by @Sairam60 
+• Revert rootdir: Configure CPU input boost properly
 
 Source Changelogs :
 • [Here](https://t.me/ancientrom/1392)
+• Update to December Security Patch
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
@@ -22,9 +24,9 @@ Device Support :
 @ThisIsGroup2
 
 Credits :
-• Thanks to @IvanGE90 and @icodix for testing.
+• Thanks to @IvanGE90 for testing.
 • Thanks to @PenguasaTerkuat to add my name in banner.
-• Thanks to @SonalSingh18 for Trees and @Tusharind007 for kernel.
+• Thanks to @SonalSingh18 for Trees and @Sairam60 for kernel.
 • Thanks to everyone for helping.
 • Thanks to all Miatoll devs.
 
