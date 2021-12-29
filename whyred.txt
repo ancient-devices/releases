@@ -1,0 +1,30 @@
+https://telegra.ph/Whyred-Banner-12-29
+|||||
+Adrar Hussain
+|||||
+AncientOS V5.7 | Android 11
+for whyred | Xiaomi Redmi Note 5 Pro
+
+Maintained by Adrar Hussain
+Build Variant : Gapps | Vanilla
+Build Version : 5.7 | Soceity 
+Build Date : 29-12-2021
+
+Source Changelogs :
+• [Here](https://t.me/ancientrom/1393)
+
+Device Changelogs :
+• Updated kernel to StormBreaker
+• Enforcing build
+• Address some sepolicy
+
+Download Build [HERE](https://www.ancientrom.tech/)
+
+Device Support :
+@ancientofficialwhyred
+
+Give me coffee :
+[Paypal](https://paypal.me/adrarhussain)
+
+
+#ancientOS #ancientrom #android #megalith #shield
