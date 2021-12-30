@@ -1,4 +1,4 @@
-https://telegra.ph/file/3d2800e1876d08bcd529b.jpg
+https://telegra.ph/file/f7b4a27a1d28cb917d030.jpg
 |||||
 @theangelofdea01
 |||||
@@ -8,31 +8,39 @@ Maintained By @theangelofdead01
 
 Build Variant : Gapps
 Build Version : 6.1 | Weeabo | Beta
-Build Date : 27/11/2021
+Build Date : 28/12/2021
 
 Changelogs :
 • Source : beta
-• Device : little UI optimizations
+• Device : move to Dark Phoenix device trees
+
+New Features:
+• Dynamic refresh rate
+• Dolby Atmos
+• Lawnchair
 
 Download :
 [Click Here](https://www.ancientrom.tech//)
 
 Notes:
-• FW version ? up to you
+• FW version 12.5.5 MI recommended
 • Safetynet passed by default
-• Clean flash is mandatory
+• Clean flash is recommended but can go on dirty
 • Encryption ROM
 • SELinux is Enforcing
+• Happy holidays and happy new year
 
 Credits:
 • @NickvBokhorst for kernel
+• @darkphnx for Device Trees
 • @cristianvaz for all support, patience and time, thanks so much my friend
+• @JELLYBEANx1 for new banner
 • Thanks to all my testers
 
 Give me coffee :
 [Paypal](https://www.paypal.me/eduardozeas)
 
 Support Groups :
-[Device Support](https://t.me/ancientofficialalioth) | [Channel](http://t.me/ancientrom)
+[Device Support](https://t.me/ancientofficialalioth) | [Alioth Weeb Support](https://t.me/AncientOSWee) | [Channel](http://t.me/ancientrom)
 
 #ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
