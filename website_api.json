@@ -168,5 +168,15 @@
     "date_updated": "29-12-2021",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
+   },
+   {
+    "device_codename": "Redmi Note 8/8T (Ginkgo/Willow)",
+    "maintainer": "Ryuzenn && Erwin ABS",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficialginkgo",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "30-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
    }
 ]
