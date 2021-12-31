@@ -1,4 +1,4 @@
-https://github.com/magicxavi/manifest/raw/ancientQ/Ancient_banner1.png
+https://github.com/magicxavi/manifest/raw/ancientQ/ancient_banner_NY.png
 |||||
 @Magicxavi
 |||||
@@ -8,11 +8,11 @@ Maintained by @Magicxavi
 
 Build Variant : Steel | Gapps
 Build Version : 6.1 | Shield
-Build Date : 28/11/2021
+Build Date : 31/12/2021
 
-Source Changelog : [HERE](https://t.me/ancientrom/1393)
+Source Changelog : [HERE](https://t.me/ancientrom/1392)
 
-Device Changelogs : [HERE](https://nekobin.com/meseyihina)
+Device Changelogs : [HERE](https://nekobin.com/sigaviziwe)
 
 Download Build : [HERE](https://www.ancientrom.tech/)
 
@@ -20,6 +20,6 @@ Device Support :
 @ancient_official_laurel
 
 Notes:
-* Permissive selinux
+* I wish you all a Happy New Year!
 
 #ancientOS #ancientrom #android #android12 #megalith #steel #weeabo

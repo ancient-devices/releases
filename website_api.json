@@ -178,5 +178,15 @@
     "date_updated": "30-12-2021",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
+   },
+   {
+    "device_codename": "Xiaomi MI A3 (laurel_sprout)",
+    "maintainer": "Magicxavi",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancient_official_laurel",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "31-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png"
    }
 ]
