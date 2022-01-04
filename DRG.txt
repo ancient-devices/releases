@@ -8,15 +8,14 @@ Maintained by @ankitkene && @Caster06
 
 Build Variant : Gapps
 Build Version : 6.1 | weeabo | Beta
-Build Date : 01-12-2021
+Build Date : 04-01-2022
 
 Source Changelogs :
 [READ HERE](https://t.me/ancientrom/1392)
 
 Device Changelogs :
- Bluetooth fixed
- Gcam Errors Fixed
-
+ Fixed Saftey net and bunch of more bugs
+ 
 Download Build [HERE](https://www.ancientrom.tech/)
 
 Device Support :
