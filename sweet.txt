@@ -6,15 +6,15 @@ AncientOS V5.7 | Android 11 | FINAL
 for Redmi Note 10 Pro (Sweet)
 Maintained by [BMW](https://t.me/bmwtheseries)
 
-Build Variant : Gapps
+Build Variant : Gapps & Vanilla
 Build Version : 5.7 | Society & Weeabo
-Build Date : 27-12-2021
+Build Date : 07-01-2022
 
 Source Changelogs :
 • [HERE](https://t.me/ancientrom/1394)
 
 Device Changelog:
-• [HERE](https://telegra.ph/ANCIENT-OS-V57-FINAL-12-27)
+• [HERE](https://telegra.ph/ANCIENT-57-SOCIETY--WEEABO-01-07-2)
 
 Download :
 • [HERE](https://www.ancientrom.tech/)
