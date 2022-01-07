@@ -1,25 +1,22 @@
-https://telegra.ph/file/13814947dac80bf1aba7f.jpg
+https://telegra.ph/file/693d3720485f66d2a9f2c.jpg
 |||||
 @AbrarNoob
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V5.7 | Android 11 | FINAL
 
-for Redmi Note 7 (Lavender)
+for Redmi Note 7/7s (Lavender)
 Maintained by [ABRAR](https://t.me/AbrarNoob)
-Build Variant : Vanilla
-Build Version : 6.1 | Shield | Beta
-Build Date : 27-11-2021
+Build Variant : Society (Gapps) | Weeb (Vanilla)
+Build Version : 5.7
+Build Date : 07-01-2022
 
 Source Changelogs :
+• [HERE]
+(https://t.me/ancientrom/1394)
 
-• Beta
-
-Device Changelog:
-
-• Selinux Enforcing now
-• CTS pass by default and Magisk Hide
-• lavender: Add kpti=off to boot command line
-• Update Build fp to November
+Device Changelogs:
+• Final Build Of A11
+• Some misc improvements
 
 Download :
 • [HERE]
@@ -30,14 +27,13 @@ Device Support :
 (https://t.me/ancientofficiallavender)
 
 Notes :
-
-• Disable blur from developer option for more smoothness
-• Vanilla Build. Flash FlameGapps Basic with it.
+• Disable blur for more smoothness
+• In Vanilla Build. Flash FlameGapps Basic with it.
 
 Credits :
+• @letsmakecakes for base DT
+• @PredatorX91 for kernel
+• @moonitime for test
+• @JELLYBEANx1 for this op banner
 
-• @letsmakecakes for base DF
-• @ImPrashantt for kernel
-• @veshrao for Server
-
-#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo
