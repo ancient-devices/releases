@@ -1,22 +1,28 @@
-https://raw.githubusercontent.com/skittels15/Changelogs/main/headers/ancient.jpg
+https://raw.githubusercontent.com/skittels15/banners/main/Ancient_banner_lightgreen.png
 |||||
 @BEERdMANN
 |||||
 
-AncientOS V5.6 | Android 11 | Stable
+AncientOS V5.7 | Android 11 | Stable
 for  Xiaomi Redmi 8/8A/8A Dual (olives)
 
 Maintained by @BEERdMANN
 Build Variant : Vanilla
-Build Version : 5.6 | Society | Stable
-Build Date : 26-10-2021
+Build Version : 5.7 | Society | Stable
+Build Date : 09-01-2021
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1158)
-• October security patch
+• [HERE](https://t.me/ancientrom/1394)
+• December security patch
 
 Device Changelogs :
-• Updated Russian translation
+• Many device-side changes. CLEAN INSTALL ONLY!
+• Updated kernel to 4.9.296
+• Updated Google Camera Go
+• Updated Google Sounds app
+• Enabled swipe-up gesture settings
+• Updated RU translations
+• Fixed launcher pinning in memory
 
 Download :
 [HERE](https://www.ancientrom.tech/)
@@ -25,18 +31,18 @@ Device Support :
 [Device Support](https://t.me/ancient_olives) | [Channel](http://t.me/ancientrom)
 
 Notes :
+• CLEAN INSTALL ONLY!
 • GAPPS is NOT included
 • SELinux mode is Enforcing
 • Needs 64bit recovery to flash
 • Please report bugs with logs if you found any
 
 Credits :
-• @me_cafebabe for base
-• @deadlylxrd for help
-• @olivelite for testing
-• @raccoon_gargle01 for testing
+• @deadlylxrd for trees and help
+• @xqwift and @raccoon_gargle01 for testing
 
 Give me coffee :
 [KO-FI.com](https://ko-fi.com/beerdmann)
+[Patreon.com](https://www.patreon.com/BEERdMANN)
 
 #ancientOS #ancientrom #android #android11 #megalith #iron

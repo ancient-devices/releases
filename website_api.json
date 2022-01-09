@@ -10,6 +10,16 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
   },
   {
+    "device_codename": "Redmi 8/8A/8A Dual (olives)",
+    "maintainer": "BEERdMANN",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancient_olives",
+    "changelog_url": "https://t.me/ancientrom/1394",
+    "date_updated": "09-01-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://raw.githubusercontent.com/skittels15/banners/main/Redmi-8.jpg"
+  },
+  {
     "device_codename": "Nokia 6.1 Plus (DRG)",
     "maintainer": "Ankit Kene",
     "rom_support": "https://t.me/ancientid",
