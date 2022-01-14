@@ -1,7 +1,17 @@
 [
    {
+    "device_codename": "Xiaomi 11 lite NE 5G (Lisa)",
+    "maintainer": "Ankit Kene",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_lisa",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "14-1-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/xiaomi_mi_11_lite_5g.png"
+   },
+   {
     "device_codename": "Redmi Note 4(mido)",
-    "maintainer": "Smokey && Ankit Kene",
+    "maintainer": "Smokey",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/ancientofficialmido",
     "changelog_url": "https://t.me/ancientrom/1392",
