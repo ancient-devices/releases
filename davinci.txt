@@ -1,29 +1,29 @@
 https://github.com/ancient-devices/releases.git
 |||||
-@SVB22
+@wadiehabib
 |||||
-AncientOS V6.0 | Android 12 | Alpha
+AncientOS V6.1 | Android 12 | Beta
 for davinci
-Maintained by @SVB22
+Maintained by @wadiehabib
 
-Build Variant : Gapps
-Build Version : 6.0 | Society | Alpha
-Build Date : 19-11-2021
+Build Variant : Vanilla | Gapps
+Build Version : 6.1 | Society | Beta
+Build Date : 15-01-2022
 
 Source Changelogs :
-• Alpha Build
+https://t.me/ancientrom/1393
 
 Device Changelogs :
-Inital build of 12
+- A tribute to Vladimir. RIP
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
 Clean flash is mandatory
-Selinux permissive
+Selinux enforcing
 Don't report bugs without proper logs
 
 Device Support :
-@AncientOS_RedmiK20_Mi9T
+@wadiehabibroms
 
 #ancientOS #ancientrom #android #android12 #megalith #iron
