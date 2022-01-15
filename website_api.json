@@ -19,6 +19,26 @@
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
   },
+   {
+    "device_codename": "Redmi K20/Mi 9T (davinci)",
+    "maintainer": "wadiehabib",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/wadiehabibroms",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "15-01-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
+  },
+  {
+    "device_codename": "Redmi K20 Pro/Mi 9T Pro (raphael)",
+    "maintainer": "wadiehabib",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/wadiehabibroms",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "05-12-2021",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
+  },
   {
     "device_codename": "Redmi 8/8A/8A Dual (olives)",
     "maintainer": "BEERdMANN",
