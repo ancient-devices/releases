@@ -3,25 +3,25 @@ https://telegra.ph/file/3087c871dc2e3a48828f1.jpg
 @Mikazuuu07
 |||||
 
-AncientOS V5.7 | Android 11 | Society
+AncientOS V6.1 | Android 12 | Shield
 for  Redmi 9C / 9C NFC / 9A / 9 India / POCO C3 (Garden)
 
 Maintained by @Mikazuuu07
 Build Variant : Vanilla
-Build Version : 5.7 | Society | Weaboo
-Build Date : 09-01-2022
+Build Version : 6.1 | Steel | Weaboo
+Build Date : 17-01-2022
 
 Source Changelogs :
 [HERE](https://t.me/ancientrom/1393) 
 
 Device Changelogs :
-• Fixed issue broken resolution while playing Instagram reels
-• Fixed hotspot issue Cannot Connected
-• Fixed FaceUnlock Crash
-• Fixed dt2w Without permissive
+• Fixed audio call issues
+• Fixed systemUI crash
+• Prebuilt GcamGo
+• Fixed tethering issue
 
 Bugs :
-• Vilte Disabled
+• VoLte disabled
 
 Download Build [HERE](https://www.ancientrom.tech/) 
 
@@ -34,5 +34,6 @@ Credits :
 
 Give me coffee :
 [Saweria](https://saweria.co/Mikazuuu07)  
+[PayPal](https://paypal.me/kafalava741)
 
-#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android12 #shield #megalith #steel #weeabo
