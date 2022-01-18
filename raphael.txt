@@ -9,13 +9,14 @@ for  Mi 9T Pro/Redmi K20 Pro
 Maintained by @wadiehabib
 Build Variant : Gapps | Vanilla
 Build Version : 6.1 | Shield
-Build Date : 05-12-2021
+Build Date : 18-01-2022
 
 Source Changelogs :
 [HERE](https://t.me/ancientrom/1393)
+- January security patch. 
 
 Device Changelogs :
-hotfix for telephony service 
+- Switched to OSS vendor & Soviet kernel.
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
@@ -23,7 +24,7 @@ Device Support :
 @wadiehabibroms
 
 Notes :
-• Based on A10 MIUI vendor. Flash latest 12.0.x vendor/fw of your region. 
+- Clean flashing is a must. 
 
 Give me coffee :
 
