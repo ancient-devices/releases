@@ -1,4 +1,4 @@
-https://telegra.ph/file/929a7cd9c7c3b1d47a98a.png
+https://telegra.ph/file/73af3db9e5525eec2ea5e.jpg
 |||||
 @NishantKumar6342
 |||||
@@ -8,23 +8,33 @@ Maintained by @NishantKumar6342
 
 Build Variant : Gapps
 Build Version : 6.1 | Shield | Beta 
-Build Date : 28-11-2021
+Build Date : 21-01-2022
 
 Source Changelogs :
 • [HERE](https://t.me/ancientrom/1393)
+• January Security
 
 Device Changelogs :
-• Added Mixplorer
-• Minor bugfixes
+• Fixed camera not showing in apps like telegram
+• Added SuperDart charging text on lock screen
+• Ship lawnchair launcher by default
+• Ship prebuilt A.20 vendor and odm by default
+• Updated GCam Go with AUX camera support
+• Fixed auto brightness
+• Disable carrier video calling (Broken)
+• Fixed some known bugs
+
+RealmeParts :
+• Removed annoying smart charging notification (smart charging will work fine if enabled)
+• Nuked performance profiles
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
 Clean flash is mandatory
-Flash on A.20 version firmware ONLY
+Flash ON RUI 2 (Android 11) Firmware ONLY
 Gapps included
 Safetynet passes without root
-Disable carrier video calling from settings if facing any VOLTE bugs
 Don't report bugs without proper logs
 
 Device Support :
