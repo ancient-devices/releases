@@ -10,6 +10,16 @@
     "phone_url": "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/xiaomi_mi_11_lite_5g.png"
    },
    {
+    "device_codename": "Xiaomi Mi 10T/Pro (apollo)",
+    "maintainer": "Maxanderz & Aarunalr",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientid",
+    "changelog_url": "https://t.me/ancientrom/1392",
+    "date_updated": "22-1-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": " https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg"
+   },
+   {
     "device_codename": "Redmi Note 4(mido)",
     "maintainer": "Smokey",
     "rom_support": "https://t.me/ancientid",
