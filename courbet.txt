@@ -2,22 +2,20 @@ https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
 |||||
 @ygherna    
 |||||
-AncientOS V6.1 | Society | Weeabo | Beta
-for Mi 11 Lite (courbet)
+AncientOS V6.1 | Android 12 | Beta
+for Mi 11 Lite 4G (courbet)
 
 Maintained by @ygherna
 
 Build Variant : Gapps
-Build Version : 6.1 | Society | Beta
-Build Date : 25-12-2021
+Build Version : 6.1 | Shield| Beta
+Build Date : 24-01-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1393)
+• January SCP
 
 Device Changelogs :
-• Inital OSS build
-• Vantom Kernel as default. 
-
+• [HERE] https://telegra.ph/Device-Changelog---Ancient--Courbet-01-24
 
 Download Build [HERE](https://www.ancientrom.tech/) 
 
@@ -28,6 +26,6 @@ Notes :
 • If you face any bugs report in support group with logs
 
 Credits :
-Special thanks to @Vantom for its great kernel.
+Special thanks to @Vantom for kernel.
 
 #ancientOS #ROM #android12 #A12 #Weeabo #courbet
