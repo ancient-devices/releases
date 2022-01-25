@@ -3,12 +3,12 @@ https://telegra.ph/file/df97b62c20dbe26fd69e0.jpg
 @oghe3003
 |||||
 AncientOS 6.1 | Android 12 | BETA
-for Poco F3/Mi 11x (ALIOTH/ALIOTHIN)
+for Poco F3/Redmi K40/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @oghe3003
 
 Build Variant : Gapps
 Build Version : 6.1 | Shield | Beta
-Build Date : 23/12/2021
+Build Date : 25/01/2022
 
 Changelogs :
 • Source : [BETA](https://t.me/ancientrom/1393)
@@ -20,14 +20,11 @@ Download :
 Notes:
 • FW version ? up to you
 • Safetynet passed by default
-• Clean flash is mandatory
 • Encryption ROM
 • SELinux is Enforcing
 
 Credits:
-• @NickvBokhorst for beast kernul ever
-• @SebaUbuntu for Good DT
-• @xyzuan for best clang ever for me
+• @NickvBokhorst for kernel
 
 Special Thanks:
 • ALLAH S.W.T
