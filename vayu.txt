@@ -1,17 +1,18 @@
-https://telegra.ph/file/ec6fa39067b123878c4ad.jpg
+https://telegra.ph/file/c883238d8069f66a65774.jpg
 |||||
-@thepsambit
+@bagualisson
 |||||
-**AncientOS v5.7 | Android 11 | Iron**
+**AncientOS v6.1 | Android 12 | Beta**
 **for POCO X3 Pro (Vayu)**
-Maintained by @thepsambit(KangMonkey)
+Maintained by @Bagualisson
 
 Build Variant : GApps
-Build Version : 6.1 | Society
-Build Date : 06-12-2021
+Build Version : 6.1 | Shield
+Build Date : 25-01-2022
 
 **Changelog:**
-[Here](https://t.me/ancientrom/1394)
+• Added MIUI CAMERA Port
+• Kernel Merged to tag LA.UM.9.1.r1-11500-SMxxx0.0
 
 **Download Build:** [Here](https://www.ancientrom.tech/)
 
@@ -22,8 +23,7 @@ Build Date : 06-12-2021
 12.0.4 FW or Greater Required.
 
 Buy me a Beer if you like my work :
-[PayPal](paypal.me/sambit2cool)
-UPI: `psambitk1@apl`
+[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WFJG3Q8VUF49U&currency_code=BRL&source=url)
 
-#ancientOS #ancientrom #android11 #megalith #iron #society
+#ancientOS #ancientrom #android12 #shield #iron #society
 
