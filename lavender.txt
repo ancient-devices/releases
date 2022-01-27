@@ -2,21 +2,21 @@ https://telegra.ph/file/693d3720485f66d2a9f2c.jpg
 |||||
 @AbrarNoob
 |||||
-AncientOS V5.7 | Android 11 | FINAL
+AncientOS V6.2 | Android 12
 
 for Redmi Note 7/7s (Lavender)
 Maintained by [ABRAR](https://t.me/AbrarNoob)
-Build Variant : Society (Gapps) | Weeb (Vanilla)
-Build Version : 5.7
-Build Date : 07-01-2022
+Build Variant : Shield (Gapps) | Weeb (Vanilla)
+Build Version : 6.2
+Build Date : 27-01-2022
 
 Source Changelogs :
 • [HERE]
 (https://t.me/ancientrom/1394)
 
 Device Changelogs:
-• Final Build Of A11
-• Some misc improvements
+• [HERE]
+(https://telegra.ph/AncientOS-62-01-27)
 
 Download :
 • [HERE]
@@ -28,12 +28,11 @@ Device Support :
 
 Notes :
 • Disable blur for more smoothness
-• In Vanilla Build. Flash FlameGapps Basic with it.
+• Both Vanilla And Gapps Build Available. Shield Gapps, Weeb Vanilla
 
 Credits :
 • @letsmakecakes for base DT
-• @PredatorX91 for kernel
+• @ImPrashantt for kernel
 • @moonitime for test
-• @JELLYBEANx1 for this op banner
 
-#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android12 #Shield #weeabo
