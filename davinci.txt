@@ -2,24 +2,24 @@ https://github.com/ancient-devices/releases.git
 |||||
 @wadiehabib
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12 | Stable
 for davinci
 Maintained by @wadiehabib
 
 Build Variant : Vanilla | Gapps
-Build Version : 6.1 | Society | Beta
-Build Date : 15-01-2022
+Build Version : 6.2 | Society | Stable
+Build Date : 28-01-2022
 
 Source Changelogs :
-https://t.me/ancientrom/1393
+[HERE](https://www.ancientrom.tech/)
 
 Device Changelogs :
-- A tribute to Vladimir. RIP
+- Switched to Vantom kernel by @Vantom
+- Various fixes for FOD and random freezes. 
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
-Clean flash is mandatory
 Selinux enforcing
 Don't report bugs without proper logs
 
