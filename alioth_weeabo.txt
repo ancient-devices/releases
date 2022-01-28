@@ -1,40 +1,36 @@
-https://telegra.ph/file/f7b4a27a1d28cb917d030.jpg
+https://telegra.ph/file/87e22d67c413a26bc7718.jpg
 |||||
 @theangelofdea01
 |||||
-AncientOS 6.1 | Android 12 | Beta
+AncientOS 6.2 | Android 12 
 for Poco F3/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @theangelofdead01
 
 Build Variant : Gapps
-Build Version : 6.1 | Weeabo | Beta
-Build Date : 28/12/2021
+Build Version : 6.2 | Weeabo
+Build Date : 28/01/2022
 
 Changelogs :
-• Source : beta
-• Device : move to Dark Phoenix device trees
-
-New Features:
-• Dynamic refresh rate
-• Dolby Atmos
-• Lawnchair
+Source Changelogs :
+[HERE](https://www.ancientrom.tech)
+• Device : 
+[HERE](https://telegra.ph/Ancient-Weeb-Edition-Alioth-01-28)
 
 Download :
 [Click Here](https://www.ancientrom.tech//)
 
 Notes:
-• FW version 12.5.5 MI recommended
+• FW version 12.5.4 MI recommended
 • Safetynet passed by default
 • Clean flash is recommended but can go on dirty
 • Encryption ROM
 • SELinux is Enforcing
-• Happy holidays and happy new year
 
 Credits:
 • @NickvBokhorst for kernel
-• @darkphnx for Device Trees
+• @darkphnx for Device Trees and teach me
 • @cristianvaz for all support, patience and time, thanks so much my friend
-• @JELLYBEANx1 for new banner
+• @JELLYBEANx1 for new banner and support
 • Thanks to all my testers
 
 Give me coffee :
