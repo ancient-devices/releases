@@ -1,0 +1,31 @@
+https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
+|||||
+@V3NK4135H
+|||||
+AncientOS V6.2 | Android 12
+for Realme 3 pro(RMX1851)
+
+Maintained by @V3NK4135H
+Build Variant : Gapps
+Build Version : 6.2 | Steel
+Build Date : 28-01-2022
+
+Source Changelogs :
+• [Read Here](https://t.me/ancientrom/1394)
+
+Device Changelogs :
+• Initial A12 Build
+
+Download Build [HERE](https://www.ancientrom.tech/)
+
+Notes :
+Clean flash required
+CTS Passes by default
+Gapps included
+IllusionX kernel built inline
+Don't report bugs without proper logs
+
+Device Support :
+@ancientofficialRMX1851
+
+#ancientOS #ancientrom #android #steel #RMX1851
