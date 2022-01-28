@@ -2,26 +2,20 @@ https://telegra.ph/file/73af3db9e5525eec2ea5e.jpg
 |||||
 @NishantKumar6342
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12 | Beta
 for Realme X7 Max 5G (RMX3031)
 Maintained by @NishantKumar6342
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Beta 
-Build Date : 21-01-2022
+Build Version : 6.2 | Shield | Beta 
+Build Date : 28-01-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1393)
+• [HERE](https://t.me/ancientrom/1623)
 • January Security
 
 Device Changelogs :
-• Fixed camera not showing in apps like telegram
-• Added SuperDart charging text on lock screen
-• Ship lawnchair launcher by default
-• Ship prebuilt A.20 vendor and odm by default
-• Updated GCam Go with AUX camera support
-• Fixed auto brightness
-• Disable carrier video calling (Broken)
+• Re-Ship Pixel launcher by default
 • Fixed some known bugs
 
 RealmeParts :
@@ -44,6 +38,6 @@ Credits :
 Thanks to @ManshuTyagi for DT
 Give me coffee :
 [Paypal](http://paypal.me/nishant134)
-UPI : 7542947425@ybl
+UPI : nishantkumar6342@ybl
 
 #ancientOS #android12
