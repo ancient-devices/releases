@@ -1,20 +1,20 @@
-https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
+https://telegra.ph/file/0aec3f232fbb724156d87.jpg
 |||||
 @NEMESIS_99999
 |||||
-AncientOS V6.1 | Android 12
+AncientOS V6.2 | Android 12
 for Realme 6 pro(RMX2061)
 
 Maintained by @NEMESIS_99999
 Build Variant : Gapps
-Build Version : 6.1 | Steel | Beta
-Build Date : 29-12-2021
+Build Version : 6.2 | Steel | Weeabo
+Build Date : 28-01-2022
 
 Source Changelogs :
 • [Read Here](https://t.me/ancientrom/1394)
 
 Device Changelogs :
-• [Read Here](https://telegra.ph/Ancient-OS-61-December-Security-Patch-12-28)
+• [Read Here](https://telegra.ph/Ancient-OS-v62-Jan-Security-Patch-01-28)
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
@@ -24,9 +24,14 @@ Gapps included
 Don't report bugs without proper logs
 
 Device Support :
-@@ancientOSofficialRMX2061
+@ancientOSofficialRMX2061
+@realme6pro
+@realme6pro_updates
+
 
 Credits :
-Thanks to me for testing
+Thanks to @sagarmakhar for his base trees
+Thanks to @pri_0818 for kernel
+Thanks to @Kimjie123 and @abdu_alkateb for testing
 
-#ancientOS #ancientrom #android #megalith #iron #weeabo
+#ancientOS #ancientrom #android #steel #weeabo #RMX2061
