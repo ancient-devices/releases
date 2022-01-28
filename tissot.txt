@@ -1,20 +1,20 @@
 https://telegra.ph/file/d0fe6d00770b6a192467d.jpg
 |||||
-@whdbfl @bmwtheseries
+@whdbfl
 |||||
-AncientOS V6.1 | Android 12 | BETA
+AncientOS V6.2 | Android 12
 for Mi A1 (Tissot)
-Maintained by [Glassy](https://t.me/whdbfl) and [BMW](https://t.me/bmwtheseries)
+Maintained by [Glassy](https://t.me/whdbfl)
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Weeabo
-Build Date : 07-12-2021
+Build Version : 6.2 | Shield
+Build Date : 28-01-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1393)
+• [HERE](https://www.ancientrom.tech/)
 
 Device Changelogs :
-• [HERE](https://telegra.ph/Changelogs-10-01-2)
+• [HERE](https://telegra.ph/Changelogs-01-28-2)
 
 Download :
 • [HERE](https://www.ancientrom.tech/)
@@ -23,9 +23,9 @@ Device Support :
 • [HERE](https://t.me/ancienttissot_id)
 
 Credits :
-• [HERE](https://telegra.ph/Credits-10-01)
+• [HERE](https://telegra.ph/Credits-01-28)
 
-Give us coffee :
-[Paypal](https://www.paypal.com/paypalme/BayerischeMW) | [Saweria](https://saweria.co/glassydan)  
+Give me matcha :
+[Paypal](https://www.paypal.com/paypalme/glassydan) | [DANA](https://link.dana.id/qr/2sg3vj)  
 
-#ancientOS #ancientrom #android #android12 #megalith #shield #weeabo
+#ancientOS #ancientrom #android #android12 #megalith #shield
