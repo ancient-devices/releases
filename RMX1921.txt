@@ -2,33 +2,26 @@ https://telegra.ph/file/ea6cb713a6720ed26199a.jpg
 |||||
 @Bava7325
 |||||
-AncientOS V6.1 | Android 12
+AncientOS V6.2 | Android 12
 for Realme XT(RMX1921)
 Maintained by @Bava7325
 
-Build Variant : Gapps
-Build Version : 6.1 | Shield | Beta
-Build Date : 30-11-2021
+Build Variant : Gapps | Vanilla
+Build Version : 6.2 | Shield
+Build Date : 29-01-2021
 
 Source Changelogs :
-• [Read Here](https://t.me/ancientrom/1393)
+• [Read Here](https://www.ancientrom.tech/)
 
 Device Changelogs :
-• Kernel Upstream to 4.9.291
-• Merged latest CAF tag LA.UM.9.8.r1-04200-SDM710.0 into kernel
-• Updated qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-04200-SDM710.0
-• Updated bluetooth audio HIDL impl to 2.1
-• Updated audio & audio effects HAL to V7.0
-• Google Photos Unlimited storage by default
-• SafetyNet pass without root as usual
-• Misc improvements & fixes!
+• [Read Here](https://telegra.ph/AncientOS-Update-01-29)
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build : [HERE](https://www.ancientrom.tech/)
 
 Notes :
-Gapps included
-FOD in AOD won't work(Use pickup or smart wake instead)
-Don't report bugs without proper logs
+• GApps, Vanilla builds available
+• SELinux is Enforcing
+• Don't report bugs without proper logs
 
 Device Support :
 @ancientRMX1901_RMX1921
