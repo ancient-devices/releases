@@ -340,6 +340,16 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/realme/realme-3pro-3.jpg"
    },
    {
+    "device_codename": "Realme XT (RMX1921)",
+    "maintainer": "Kader Bava",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientRMX1901_RMX1921",
+    "changelog_url": "https://t.me/ancientrom/1623",
+    "date_updated": "29-01-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/pics/realme/realme-xt.jpg"
+   },
+   {
     "device_codename": "Mi A1 (Tissot)",
     "maintainer": "Glassy",
     "rom_support": "https://t.me/ancientid",
