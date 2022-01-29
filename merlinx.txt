@@ -3,22 +3,23 @@ https://telegra.ph/file/c64028ee1a32dcccb3ff8.jpg
 @Mikazuuu07
 |||||
 
-AncientOS V6.1 | Android 12
+AncientOS V6.2 | Android 12
 for  Redmi Note 9 (Merlinx)
 
 Maintained by @Mikazuuu07
 Build Variant : Gapps
-Build Version : 6.1 | Steel | Weeabo
-Build Date : 16-01-2022
+Build Version : 6.2 | Steel | Weeabo
+Build Date : 28-01-2022
 
 Source Changelogs :
-[HERE](https://t.me/ancientrom/1393) 
+[HERE](https://www.ancientrom.tech/) 
 
 Device Changelogs :
-• Initial build
-• Fixed Volte
-• Enable Aod
-• Add touch improvements
+• Prebuilt Gcamgo
+• Enable CPU Info
+• Enable H/W Composition
+• Make UI Smoother
+• Reduce Screenshot delay
 
 Bugs :
 • Screenrecord use third party
@@ -30,10 +31,12 @@ Device Support :
 
 Credits :
 • @SakthivelNadar @ashblk @chcepizze @TheMalachite @ceb8khs For Tree
-• @Aud02x For Test
+• @Aud02x  , @rf_MOTD For Test
 
 Give me coffee :
 [Saweria](https://saweria.co/Mikazuuu07)  
-[Paypal](https://paypal.me/kafalava741)
+[Paypal](https://www.paypal.me/Mikazuuu07)
+[Ko-Fi](https://ko-fi.com/mikazuuu07)
+[Trakteer](https://trakteer.id/mikazuuu07/tip)
 
 #ancientOS #ancientrom #android #android12 #shield #megalith #steel #weeabo
