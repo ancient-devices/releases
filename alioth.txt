@@ -2,16 +2,16 @@ https://telegra.ph/file/df97b62c20dbe26fd69e0.jpg
 |||||
 @oghe3003
 |||||
-AncientOS 6.1 | Android 12 | BETA
+AncientOS 6.2 | Android 12
 for Poco F3/Redmi K40/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @oghe3003
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Beta
-Build Date : 25/01/2022
+Build Version : 6.2 | Shield
+Build Date : 29/01/2022
 
 Changelogs :
-• Source : [BETA](https://t.me/ancientrom/1393)
+• Source : [Click Here](https://www.ancientrom.tech/?i=1#/Changelog)
 • Device : [Click Here](https://raw.githubusercontent.com/oghe3003/changelog/main/ancientA12.txt)
 
 Download :
