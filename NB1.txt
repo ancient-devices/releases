@@ -1,0 +1,41 @@
+https://telegra.ph/file/3087c871dc2e3a48828f1.jpg
+|||||
+@marceldossantos91 & @emufan4568
+|||||
+
+AncientOS V6.2 | Android 12 | Society
+for Nokia 8 (NB1)
+
+Maintained by @marceldossantos91, @emufan4568
+Build Variant : Vanilla
+Build Version : 6.2 | Society | Weaboo
+Build Date : 29-01-2022
+
+Source Changelogs :
+[HERE](https://t.me/ancientrom/1393) 
+
+Device Changelogs :
+* Updated to android 12
+
+Known Bugs :
+• SIM2 mobile data does not work
+• TWRP decryption broken with a pin, remove pin or use external sd card to flash
+• Gyro sensor drifts (unconfirmed)
+• Offline charging animation does not work
+• Loudspeaker is loud and creates some echo in calls
+• requires flashing atomix kernel zip for WPA2 hotspot to work 
+
+Download Build [HERE](https://www.ancientrom.xyz/) 
+
+Device Support :
+https://t.me/HMD_Nokia_8
+
+Credits :
+• @emufan4568 for his device tree, vendor tree, kernel tree
+• @oaid for contributions to development and atomix kernel
+• @thmsp for T-virus making it possible to treble our device
+
+Give me coffee :
+[PayPal](https://paypal.me/marceldossantos91)  
+
+#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo
