@@ -1,32 +1,25 @@
-https://telegra.ph/file/4cdc37e974a089452e3d3.png
+https://telegra.ph/file/c0c5e13b90ca68b4eaecf.png
 |||||
-@Soumyajitpaul001
+@Soumyajitpaul007
 |||||
-AncientOS V6.1 | Android 12
+AncientOS V6.2 | Android 12
 for Redmi 6 Pro(sakura)
-Maintained by @Soumyajitpaul001
+Maintained by @Soumyajitpaul007
 
-Build Variant : Gapps | Vanilla | Weeabo
-Build Version : 6.1 | Shield | Beta
-Build Date : 03-12-2021
+Build Variant : Gapps | Vanilla 
+Build Version : 6.2 | Steel
+Build Date : 30-01-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1392)
+• [HERE](https://t.me/ancientrom/1623)
 
 Device Changelogs :
-• Kernel Upstream to 4.9.291
-• Enfocing Build
-• Enabled WallpaperZoom
-• Google Photos Unlimited storage by default
-• SafetyNet pass out of the box
-• Misc improvements & fixes!
+• [HERE](https://telegra.ph/Changelogs-AncientOS-62--sakura-01-30)
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build [HERE](https://www.ancientrom.xyz/)
 
 Notes :
-• Clean flash must
 • Flash Flame Gapps for vanilla version
-• Recovery doesn't support decryption for now, FORMAT DATA in recovery if you face any issue
 • If you face any bugs report in support group with logs
 
 Device Support :
@@ -34,7 +27,6 @@ Device Support :
 
 Credits :
 Thanks to @prlmkftw for kernel source
-Thanks to @Manasroxx & @SenjuHashirama01 for testing
 
 Give me coffee :
 UPI: soumyajitpaul001@okhdfcbank
