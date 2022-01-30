@@ -2,21 +2,21 @@ https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
 |||||
 @ct_world & @NaasiiF
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12
 for Realme 3/3i (Realme 3: RMX1821 RMX1822 RMX1825 / Realme 3i: RMX1823 RMX1827)
 
 Maintained by @ct_world & @NasiiF
 
-Build Variant : Vanilla
-Build Version : 6.1 | Shield | Beta
-Build Date : 18-01-2022
+Build Variant : GApps & Vanilla
+Build Version : 6.2 | Shield | Beta
+Build Date : 30-01-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1393)
+• [HERE](https://t.me/ancientrom/1623)
 
 Device Changelogs :
-• Innitial Android12  build
-• Kernel upstreamed to latest 4.14.260
+• Kernel upstreamed to latest 4.14.263
+• Disabled blur
 • Safetynet Passes By Default
 
 Download Build [HERE](https://www.ancientrom.tech/) 
@@ -29,6 +29,6 @@ Notes :
 
 Credits :
 Special thanks to @MaAnUsH for the base trees
-Thanks to  @madavsethop & @jiyaaaaaaan for testing
+Thanks to  @madavsethop & @TrueTech21 for testing
 
 #ancientOS #ROM #android12 #A12 #megalith #shield #RMX1821
