@@ -2,27 +2,25 @@ https://telegra.ph/file/5c71f227e85b5e80f5af1.jpg
 |||||
 Reza Adi P
 |||||
-AncientOS V6.1 | Android 12
-for violet | Xiaomi Redmi Note 7 Pro
+AncientOS V6.1 | Android 12 | Shield
+for Xiaomi Redmi Note 7 Pro (violet)
 
 Maintained by Reza Adi P
 Build Variant : Gapps | Vanilla
-Build Version : 6.1 | Shield 
-Build Date : 30-11-2021
+Build Version : 6.2 | Steel 
+Build Date : 30-01-2022
 
 Source Changelogs :
-• [Here](https://t.me/ancientrom/1393)
+• [Here](https://t.me/ancientrom/1623)
 
 Device Changelogs :
-• Merged F2FS Kernel
-• Enforcing build
-• Enable FPS info
-• Enable colormode
-• Switch new charging off
-• Address some sepolicy
-• More
+• Merged F2FS Kernel to latest
+• Add MI Sound
+• Switch BT Qti
+• Update some blobs and improvement
+• Etc
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build [HERE](https://www.ancientrom.xyz)
 
 Device Support :
 @ancientofficialviolet
@@ -31,4 +29,4 @@ Give me coffee :
 [Paypal](https://paypal.me/rezaadipangestu)
 
 
-#ancientOS #ancientrom #android #megalith #shield
+#ancientOS #ancientrom #android12 #shield
