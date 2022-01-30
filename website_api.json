@@ -379,6 +379,7 @@
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-2.jpg"
    },
+   {
     "device_codename": "Redmi Note 7 Pro (violet)",
     "maintainer": "Reza Adi P",
     "rom_support": "https://t.me/ancientid",
@@ -387,5 +388,15 @@
     "date_updated": "30-01-2021",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1551087520.34558030.jpg"
+   },
+   {
+    "device_codename": "Realme 5 Pro (RMX1971)",
+    "maintainer": "a1kara",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientrealme5pro",
+    "changelog_url": "https://t.me/ancientrom/1623",
+    "date_updated": "30-1-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://telegra.ph/file/ff948e189daf62c245f27.png"
    }
 ]
