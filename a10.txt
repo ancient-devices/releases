@@ -1,22 +1,23 @@
-https://telegra.ph/file/73af3db9e5525eec2ea5e.jpg
+https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
 |||||
 @Gabriel260BR
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12 | Shield
 for Samsung Galaxy A10
 Maintained by @Gabriel260BR
 
 Build Variant: Vanilla
-Build Version: 6.1 | Shield | Beta 
-Build Date: 12-01-2022
+Build Version: 6.2 | Steel
+Build Date: 30-01-2022
 
 Source Changelogs:
-• [HERE](https://t.me/ancientrom/1393)
+• [HERE](https://t.me/ancientrom/1623)
 
 Device Changelogs:
-• Initial build
+• Switched to arm64 device sources
+• Bug fixes and other improvements
 
-Download Build: [HERE](https://www.ancientrom.tech/)
+Download Build: [HERE](https://www.ancientrom.xyz/)
 
 Notes:
 • Safetynet passes out of box
@@ -25,4 +26,4 @@ Notes:
 Device Support:
 @ancient_a10
 
-#ancientOS #android12 #a10
+#ancientOS #android12 #a10 #v6.2
