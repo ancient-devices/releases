@@ -2,34 +2,32 @@ https://telegra.ph/file/d0fe6d00770b6a192467d.jpg
 |||||
 @DCHAITANYAh
 |||||
-AncientOS V5.7 | Android 11 | society
+AncientOS V6.2 | Android 12 | SHIELD
 for REALME X2
-Maintained by [CHAITANYA](https://t.me/Darkopppkl)
+Maintained by [CHAITANYA](https://t.me/CHAITANYAh)
 
-Build Version : 5.7 
-Build Date : 9-1-2022
+Build Version : 6.2
+Build Date : 31-1-2022
 
 for REALME X2
 
 Maintained by [CHAITANYA](https://t.me/CHAITANYAh)
 
 Source Changelogs :
-[HERE](https://t.me/ancientrom/1393)
+[HERE](https://www.ancientrom.xyz/)
 
 Device Changelogs :
-• Initial Build of android 11 
+• fixed aod fp
+•  performance improvement 
+•  download google dialer from playstore
 
 Bugs :
 • NONE
-
 DOWNLOAD :
-[HERE](https://www.ancientrom.tech/)
+[HERE](https://www.ancientrom.xyz/)
 
 Support Group :
 [HERE](https://t.me/ancientofficial_X2)
 
-
-
- 
 
 #ancientOS #ancientrom #android #android12 #megalith #shield #weeabo @RealmeX2Official
