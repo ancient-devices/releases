@@ -2,38 +2,35 @@ https://telegra.ph/file/73af3db9e5525eec2ea5e.jpg
 |||||
 @hypercleric
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12 | Stable
 for OnePlus Nord 2 5G (denniz)
 Maintained by @hypercleric
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Beta 
-Build Date : 12-01-2022
+Build Version : 6.2 | Shield | Stable 
+Build Date : 31-01-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1393)
+[HERE](https://www.ancientrom.tech/)
 
 Device Changelogs :
-• Initial build
-• Added oneplus parts
+• Fixed Alert slider 
+• Battery improvement
 • Minor bugfixes
+• switch to source build kernel 
 
 Download Build [HERE](https://www.ancientrom.tech/)
 
 Notes :
 Clean flash is mandatory
-No need to on any specific version(android 11 firmware)
+No need to be on any specific version(android 11 firmware)
 Gapps included
 Safetynet passes without root
-Disable carrier video calling from settings if facing any VOLTE bugs
 Don't report bugs without proper logs
 
 Device Support :
 @ancientDenniz
 
-Credits :
-Special Thanks to @NishantKumar6342 
-Thanks to @ManshuTyagi for RMX3031 DT
 Give me coffee :
 [Paypal](https://paypal.me/adityakumar1306)
 UPI : hypercleric@ybl
