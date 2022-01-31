@@ -9,36 +9,30 @@ for  Xiaomi Redmi 8/8A/8A Dual (olives)
 Maintained by @BEERdMANN
 Build Variant : Vanilla
 Build Version : 5.7 | Society | Stable
-Build Date : 09-01-2021
+Build Date : 01-02-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1394)
-• December security patch
+• [HERE](https://t.me/ancientrom/1623)
+• January security patch
 
 Device Changelogs :
-• Many device-side changes. CLEAN INSTALL ONLY!
-• Updated kernel to 4.9.296
-• Updated Google Camera Go
-• Updated Google Sounds app
-• Enabled swipe-up gesture settings
-• Updated RU translations
-• Fixed launcher pinning in memory
+• Updated kernel to 4.9.297
+• Default launcher changed to Lawnchair
 
 Download :
-[HERE](https://www.ancientrom.tech/)
+[HERE](https://www.ancientrom.xyz/)
 
 Device Support :
 [Device Support](https://t.me/ancient_olives) | [Channel](http://t.me/ancientrom)
 
 Notes :
-• CLEAN INSTALL ONLY!
 • GAPPS is NOT included
 • SELinux mode is Enforcing
 • Needs 64bit recovery to flash
 • Please report bugs with logs if you found any
 
 Credits :
-• @deadlylxrd for trees and help
+• JonnyRoller23 for trees and help
 • @xqwift and @raccoon_gargle01 for testing
 
 Give me coffee :
