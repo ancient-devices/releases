@@ -1,22 +1,29 @@
-https://telegra.ph/file/ea6cb713a6720ed26199a.jpg
+https://telegra.ph/file/a1d38bd4364beb1537f6a.jpg
 |||||
 @Bava7325
 |||||
-AncientOS V6.2 | Android 12
+AncientOS V5.7 | Android 11
 for Realme XT(RMX1921)
 Maintained by @Bava7325
 
 Build Variant : Gapps | Vanilla
-Build Version : 6.2 | Shield
-Build Date : 29-01-2021
+Build Version : 5.7 | Society
+Build Date : 31-01-2022
 
 Source Changelogs :
-• [Read Here](https://www.ancientrom.tech/)
+• [Read Here](https://www.ancientrom.xyz/)
 
 Device Changelogs :
-• [Read Here](https://telegra.ph/AncientOS-Update-01-29)
+• Final A11 Build[EOL]
+• January Security Patch
+• Kernel upstream to 4.9.297
+• Kernel built with latest Neutron-Clang 14
+• Switched to stock fp
+• SafetyNet pass without root
+• OTA pushed
+• More improvements & fixes
 
-Download Build : [HERE](https://www.ancientrom.tech/)
+Download Build : [HERE](https://www.ancientrom.xyz/)
 
 Notes :
 • GApps, Vanilla builds available
@@ -28,8 +35,9 @@ Device Support :
 
 Credits :
 Thanks to @dhruvesh_23 for testing all my builds
+
 Give me coffee :
 UPI: kaderbava-1@okaxis
-[Paypal](http://paypal.me/kaderbava)
+PayPal: [kaderbava](http://paypal.me/kaderbava)
 
-#ancientOS #ancientrom #android #android12 #shield #steel
+#ancientOS #ancientrom #android #android11 #megalith #society #iron
