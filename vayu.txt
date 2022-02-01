@@ -2,19 +2,22 @@ https://telegra.ph/file/64ba2dc618fb90ca0a592.jpg
 |||||
 @bagualisson
 |||||
-**AncientOS v6.1 | Android 12 | Beta**
+**AncientOS v6.2 | Android 12**
 **for POCO X3 Pro (Vayu)**
 Maintained by @Bagualisson
 
 Build Variant : GApps
-Build Version : 6.1 | Shield
-Build Date : 25-01-2022
+Build Version : 6.2 | Shield | Stable
+Build Date : 31-01-2022
 
-**Changelog:**
-• Added MIUI CAMERA Port
-• Kernel Merged to tag LA.UM.9.1.r1-11500-SMxxx0.0
+**Rom Changelog** 
+(https://www.ancientrom.xyz/)
 
-**Download Build:** [Here](https://www.ancientrom.tech/)
+**DeviceChangelog:**
+• MIUI Camera Port Removed
+• Some bug fix and improvements
+
+**Download Build:** [Here](https://www.ancientrom.xyz/)
 
 **Device Support :**
 @AncientVayu
