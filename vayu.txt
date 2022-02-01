@@ -14,7 +14,7 @@ Build Date : 31-01-2022
 • MIUI Camera Port Removed
 • Some bug fix and improvements
 
-**Download Build:** [Here](https://www.ancientrom.tech/)
+**Download Build:** [Here](https://www.ancientrom.xyz/#/downloads)
 
 **Device Support :**
 @AncientVayu
