@@ -30,6 +30,16 @@
     "phone_url": " https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg"
    },
    {
+    "device_codename": "Redmi 7/Y3 (onclite/onc)",
+    "maintainer": "𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘰𝘙",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/Predators_Abode",
+    "changelog_url": "https://t.me/ancientrom/1623",
+    "date_updated": "01-02-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://telegra.ph/file/856849d62c30dc3a2679a.png"
+   },
+   {
     "device_codename": "Redmi Note 4(mido)",
     "maintainer": "Smokey",
     "rom_support": "https://t.me/ancientid",
@@ -139,16 +149,6 @@
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://cdn.tgdd.vn/Products/Images/42/99145/xiaomi-redmi-4x-400-400x460.png"
     },
-   {
-    "device_codename": "Redmi 7/Y3 (onclite/onc)",
-    "maintainer": "𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘰𝘙",
-    "rom_support": "https://t.me/ancientid",
-    "device_supportgp_url": "https://t.me/Predators_Abode",
-    "changelog_url": "https://t.me/ancientrom/1392",
-    "date_updated": "29-12-2021",
-    "download_url": "https://www.pling.com/p/1606752",
-    "phone_url": "https://telegra.ph/file/856849d62c30dc3a2679a.png"
-   },
    {
     "device_codename": "Redmi 6 Pro (sakura)",
     "maintainer": "𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘰𝘙",

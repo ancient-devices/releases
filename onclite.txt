@@ -1,26 +1,25 @@
 https://telegra.ph/file/71531733a30d9110a0ad5.png
 |||||
-@Soumyajitpaul001
+@Soumyajitpaul007
 |||||
-AncientOS V6.1 | Android 12
+AncientOS V6.2 | Android 12
 for Redmi 7|Y3(onclite|onc)
-Maintained by @Soumyajitpaul001
+Maintained by @Soumyajitpaul007
 
 Build Variant : Gapps | Vanilla
-Build Version : 6.1 | Shield | Beta
-Build Date : 29-12-2021
+Build Version : 6.2 | Steel
+Build Date : 01-02-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1392)
+• [HERE](https://t.me/ancientrom/1623)
 
 Device Changelogs :
-• [HERE](https://telegra.ph/Changelog-AncientOS-61--onclite-12-30)
+• [HERE](https://telegra.ph/Changelogs-AncientOS-62--onclite-02-02)
 
-Download Build : [HERE](https://www.ancientrom.tech/)
+Download Build : [HERE](https://www.ancientrom.xyz/)
 
 Notes :
-• Flash BitGApps for vanilla version
-• No need to flash DFE
+• Flash Flame/Nik Basic gapps for vanilla version
 • If you face any bugs report in support group with logs
 
 Device Support :
@@ -28,7 +27,7 @@ Device Support :
 
 Credits :
 Thanks to @Dhina_17 for kernel source
-Thanks to @AbhinavNmdo @anonymouscosmos @rsouza730 @vladblaxk1 @m4rjoke for testing
+Thanks to @AbhinavNmdo @m4rjoke @amaanullahhh for testing
 
 Give me coffee :
 UPI: soumyajitpaul001@okhdfcbank
