@@ -6,16 +6,16 @@ AncientOS 6.2 | Android 12
 for Poco F3/Redmi K40/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @oghe3003
 
-Build Variant : Gapps
+Build Variant : Vanilla and Gapps
 Build Version : 6.2 | Shield
-Build Date : 29/01/2022
+Build Date : 04/02/2022
 
 Changelogs :
-• Source : [Click Here](https://www.ancientrom.tech/?i=1#/Changelog)
+• Source : [Click Here](https://www.ancientrom.xyz/?i=1#/Changelog)
 • Device : [Click Here](https://raw.githubusercontent.com/oghe3003/changelog/main/ancientA12.txt)
 
 Download :
-[Click Here](https://www.ancientrom.tech/)
+[Click Here](https://www.ancientrom.xyz/)
 
 Notes:
 • FW version ? up to you
