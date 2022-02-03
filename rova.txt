@@ -2,35 +2,39 @@ https://telegra.ph/file/6af8bbe808d706ec74271.png
 |||||
 @ItoRenz
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12
 for Redmi 4A/5A (rova)
 Maintained by Ridwan (@ItoRenz)
 
-Build Variant : Vanilla
-Build Version : 6.1 | Weeabo
-Build Date : 19-12-2021
+Build Variant : Gapps | Vanilla
+Build Version : 6.2 | Shield | Steel
+Build Date : 03-02-2022
 
 Source Changelogs :
-• [Read Here](https://t.me/ancientrom/1393)
+• [Read Here](https://t.me/ancientrom/1623)
 
 Device Changelogs :
-• [Read Here](https://telegra.ph/AncientOS-S-Weeabo-v61-Rova-Beta-20211219-0657-Vanilla-12-19)
+• [Read Here](https://telegra.ph/AncientOS-S-Shield-v62-rova-Steel-DeviceChangelogs-02-03)
 
-Download Build [HERE](https://www.ancientrom.tech)
+Screenshots : [HERE](https://t.me/DemonSlimeRimuru/356?single)
+
+Download Build [HERE](http://www.ancientrom.xyz)
 
 Notes :
-• Vanilla Build
+• Gapps Build ( Gapps included )
+• Vanilla Build ( Gapps not included )
 
 Device Support :
 @ancientofficialrova
 
 Credits :
 • Thanks to @me_cafebabe for trees
-• Thanks to @dattukvandoeloer @solusisoni for test
+• Thanks to @Taseer_b_001 @IVedxnt @iluReie @Qiforra @LiveInRiots @hellonetizen for test
+
 Give me coffee :
 • [Paypal](https://www.paypal.me/ItoRenz)
-• [Saweria] (https://saweria.co/ItoRenz)
+• [Saweria](https://saweria.co/ItoRenz)
 • [Dana](https://link.dana.id/qr/9r4irct)
 • [Ko-fi](https://ko-fi.com/itorenz)
 
-#ancientOS #ancientrom #android #android12 #megalith #weeabo
+#ancientOS #ancientrom #android12 #megalith #shield #steel
