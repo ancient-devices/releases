@@ -9,13 +9,14 @@ Maintained by @ygherna
 
 Build Variant : Gapps
 Build Version : 6.2 | Shield 
-Build Date : 30-01-2022
+Build Date : 03-02-2022
 
 Source Changelogs :
 • [HERE](https://www.ancientrom.xyz/)
+• HOTFIX build
 
 Device Changelogs :
-• [HERE] (https://github.com/youngherna/Ancient-Courbet/blob/main/.courbet-changelog)
+• [HERE](https://github.com/youngherna/Ancient-Courbet/blob/main/.courbet-changelog)
 
 Download Build :
 • [HERE](https://www.ancientrom.tech/) 
@@ -24,10 +25,10 @@ Device Support :
 [HERE](https://t.me/ancientcourbet)
 
 Notes :
-• If you face any bugs report in support group with logs
+• If you face any bugs report in support group with LOGS
 
 Credits :
 Special thanks to @Vantom for kernel and Real_Noonlord, sm6150-devs
 for trees.
 
-#ancientOS #ROM #android12 #A12 #Weeabo #courbet
+#ancientOS #ROM #android12 #A12 #shield #courbet
