@@ -9,16 +9,18 @@ Maintained by @ygherna
 
 Build Variant : Gapps
 Build Version : 6.2 | Shield 
-Build Date : 30-01-2022
+Build Date : 03-02-2022
 
 Source Changelogs :
 • [HERE](https://www.ancientrom.xyz/)
+* Hotfix:
+  Fixes issue tiles glitches when expanded.
 
 Device Changelogs :
-• [HERE] (https://github.com/youngherna/Ancient-Courbet/blob/main/.courbet-changelog)
+• [HERE](https://github.com/youngherna/Ancient-Courbet/blob/main/.courbet-changelog)
 
 Download Build :
-• [HERE](https://www.ancientrom.tech/) 
+• [HERE](https://www.ancientrom.xyz/) 
 
 Device Support :
 [HERE](https://t.me/ancientcourbet)
@@ -30,4 +32,4 @@ Credits :
 Special thanks to @Vantom for kernel and Real_Noonlord, sm6150-devs
 for trees.
 
-#ancientOS #ROM #android12 #A12 #Weeabo #courbet
+#ancientOS #ROM #android12 #A12 #Shield #courbet
