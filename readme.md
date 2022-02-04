@@ -66,3 +66,6 @@ In this file you need to add below lines after making changes for your device be
   ````
   
   please make sure you update this file as well with each update as lsat build release date is tracked from this file for website 
+
+
+## NOTE BOTH FILES SHOULD BE UPDATED IN ONE COMMIT
