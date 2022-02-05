@@ -1,8 +1,8 @@
-https://telegra.ph/file/d0fe6d00770b6a192467d.jpg
+https://telegra.ph/Device-pic-01-31 
 |||||
-@DCHAITANYAh
+@CHAITANYAh
 |||||
-AncientOS V6.2 | Android 12 | SHIELD
+AncientOS V6.2 | Android 12 | SHIELD | HOTFIX
 for REALME X2
 Maintained by [CHAITANYA](https://t.me/CHAITANYAh)
 
@@ -17,9 +17,11 @@ Source Changelogs :
 [HERE](https://www.ancientrom.xyz/)
 
 Device Changelogs :
-• fixed aod fp
+•  fixed aod fp
 •  performance improvement 
 •  download google dialer from playstore
+•  source hotfix for qs tiles 
+•  do system ui restart after applying accent colour
 
 Bugs :
 • NONE
@@ -30,4 +32,4 @@ Support Group :
 [HERE](https://t.me/ancientofficial_X2)
 
 
-#ancientOS #ancientrom #android #android12 #megalith #shield #weeabo @RealmeX2Official
+#ancientOS #ancientrom #android #android12 #shield @RealmeX2Official
