@@ -1,0 +1,39 @@
+https://telegra.ph/file/ddb576cfcd39de6bcc032.png
+|||||
+@NeoTheSavage
+|||||
+AncientOS V6.2 | Android 12
+
+for OnePlus 9 Pro (lemonadep)
+Maintained by [eduardo](https://t.me/NeoTheSavage)
+Build Variant : Shield (Gapps)
+Build Version : 6.2
+Build Date : 04-02-2022
+
+Source Changelogs :
+• [HERE]
+(https://www.ancientrom.xyz/)
+• Initial release
+
+Device Changelogs:
+• [HERE]
+(https://telegra.ph/changelog-02-06-4)
+
+Download :
+• [HERE]
+(https://www.ancientrom.xyz/)
+  
+Device Support :
+• [HERE]
+(https://t.me/OnePlus9chat)
+
+Notes :
+• Clean flash Absolutely Recommended
+
+Credits :
+• @@mukesh22584 for base DT && kernel
+• entire AncientRom team for solving build issues!
+•
+• 
+
+#ancientOS #ancientrom #android #android12 #Shield #weeabo
