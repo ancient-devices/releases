@@ -6,18 +6,18 @@ AncientOS 6.2 | Android 12
 for Poco F3/Mi 11x (ALIOTH/ALIOTHIN)
 Maintained By @theangelofdead01
 
-Build Variant : Gapps
+Build Variant : Gapps | Vanilla
 Build Version : 6.2 | Weeabo
-Build Date : 28/01/2022
+Build Date : 8/02/2022
 
 Changelogs :
 Source Changelogs :
-[HERE](https://www.ancientrom.tech)
+[HERE](http://www.ancientrom.xyz/#/Changelog)
 • Device : 
-[HERE](https://telegra.ph/Ancient-Weeb-Edition-Alioth-01-28)
+[HERE](https://telegra.ph/Ancient-Weeb-Edition-Alioth-02-08)
 
 Download :
-[Click Here](https://www.ancientrom.tech//)
+[Click Here](https://www.ancientrom.xyz)
 
 Notes:
 • FW version 12.5.4 MI recommended
