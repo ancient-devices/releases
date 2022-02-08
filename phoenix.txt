@@ -1,0 +1,38 @@
+https://telegra.ph/file/075aecee1dd37c3d12a67.jpg
+|||||
+@bibindasb
+|||||
+AncientOS V6.2 | Android 12 | SHIELD
+for Xiaomi Poco X2 (phoenix)
+Maintained by [bibindasb](https://t.me/bibindasb)
+
+Build Variant : Gapps
+Build Version : 6.2 | SHIELD
+Build Date : 08-02-2022
+
+Source Changelogs :
+• [HERE](http://www.ancientrom.xyz/#/Changelog)
+
+Device Changelog:
+• find your self i forget 
+
+
+Download :
+• [HERE](https://www.ancientrom.xyz/)
+
+Device Support :
+• [HERE](https://t.me/ancientospocox2)
+
+Notes :
+• Gapps Build
+
+Credits :
+• Thanks to @SreekanthPalakurthi for Tree
+• Thanks to @RedcliffOP for kernel
+• Thanks to @sam5686 for testing 
+• Thanks to @AD_Anky
+
+Give us coffee :
+[Paypal](http://paypal.me/bibindasb1)
+
+#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo
