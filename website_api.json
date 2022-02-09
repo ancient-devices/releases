@@ -300,6 +300,76 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a10-0.jpg"
    },
    {
+    "device_codename": "Samsung Galaxy S10e (beyond0lte)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/beyond0lte.png"
+   },
+   {
+    "device_codename": "Samsung Galaxy S10 (beyond1lte)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/beyond2lte.png"
+   },
+   {
+    "device_codename": "Samsung Galaxy S10+ (beyond2lte)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/beyond2lte.png"
+   },
+   {
+    "device_codename": "Samsung Galaxy S10 5G (beyondx)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/beyondx.png"
+   },
+   {
+    "device_codename": "Samsung Galaxy Note10 (d1)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/d1.png"
+   },
+   {
+    "device_codename": "Samsung Galaxy Note10+ (d2s)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/d2s.png"
+   },
+   {
+    "device_codename": "Samsung Galaxy Note10+ 5G (d2x)",
+    "maintainer": "Orel6505",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficial_beyonds",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-2-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://wiki.lineageos.org/images/devices/d2x.png"
+   },
+   {
     "device_codename": "Redmi Note 9 (merlinx)",
     "maintainer": "Mikazuuu07",
     "rom_support": "https://t.me/ancientid",

@@ -2,28 +2,32 @@ https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
 |||||
 @Orel6505
 |||||
-AncientOS V5.7| Android 11 | Iron
+AncientOS V6.2 | Android 12 | Steel
 for Samsung Galaxy S10&N10 Series
 
 Maintained by @Orel6505
 Build Variant : Vanilla
-Build Version : 5.7 | Society
-Build Date : 15-12-2021
+Build Version : 6.2 | Shield
+Build Date : 9-2-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1392)
+• [HERE](https://www.ancientrom.xyz/#/Changelog)
 
 Device Changelogs :
-• Initial build
+• Inintal build Ancient 6 (Android 12)
+• Kernel 4.14.260
+• Clang 12.0.7
+• Updated trees
+
 
 Download :
-• [beyond0lte](https://www.ancientrom.tech/)
-• [beyond1lte](https://www.ancientrom.tech/)
-• [beyond2lte](https://www.ancientrom.tech/)
-• [beyondx](https://www.ancientrom.tech/)
-• [d1](https://www.ancientrom.tech/)
-• [d2s](https://www.ancientrom.tech/)
-• [d2x](https://www.ancientrom.tech/)
+• [beyond0lte](https://www.ancientrom.xyz/)
+• [beyond1lte](https://www.ancientrom.xyz/)
+• [beyond2lte](https://www.ancientrom.xyz/)
+• [beyondx](https://www.ancientrom.xyz/)
+• [d1](https://www.ancientrom.xyz/)
+• [d2s](https://www.ancientrom.xyz/)
+• [d2x](https://www.ancientrom.xyz/)
 
 Device Support :
 [Device Support Group](https://t.me/ancientofficial_beyonds)
@@ -36,4 +40,5 @@ Notes :
 Credits :
 - @Linux4 — for giving me device tree and helping me!
 
-#ancientOS #ancientrom #android #android11 #megalith #iron
+
+#ancientOS #ancientrom #android #android12 #shield #megalith #steel
