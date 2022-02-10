@@ -1,40 +1,40 @@
-https://telegra.ph/file/8f7f36a32651ecaee75c4.jpg
+https://telegra.ph/file/86b4ee678557397216933.jpg
 |||||
 @IndraDP & @Vern_Kuato
 |||||
 
-AncientOS V6.1 Shield | Android 12 | BETA
+AncientOS V6.2 Shield | Android 12
 for POCO M3 / Redmi 9T (Juice)
 
 Maintained by @IndraDP & @Vern_Kuato
 Build Variant : GApps
-Build Version : 6.1 | Shield
-Build Date : 18-12-2021
+Build Version : 6.2 | Shield | Steel / Weeabo
+Build Date : 09-02-2022
 
 Source Changelogs :
-[Here](https://t.me/ancientrom/1393)
+- [Here](https://www.ancientrom.xyz/#/Changelog)
+- And February security patch
 
 Device Changelogs :
-- Optimize native executables for Cortex-A73 CPU
-- Set UI rendering Skiagl with skiaglthreaded
+- Add prebuilt GrapheneOS Camera
+- Update init based on region and codename
+- Shipped with GreenForce kernel, Compiled with Proton Clang
 - And other improvements
 
 Download :
-[Here](https://www.ancientrom.tech)
+[Here](https://www.ancientrom.xyz/)
 
 Notes :
-- Clean Flash recommended
-- Redmi 9T/Power/Note 9 4G : Use 12.5.x Vendor
-- Poco M3 : Use latest EEA Vendor
+- Decrypt vendor and Clean Flash recommended
+- Redmi 9T/Power/Note 9 4G: Use 12.5.x / 21.7.28 / 21.9.8 / 21.10.28 Vendor.
+- Poco M3: Use latest EEA Vendor
 - Bugs? Tell us with proper logs. Without logs will be ignored
 
 Credits : 
-- @RayapKun & @frostg012 for testing
-- @ankitkene for always support us
+- @LynnnZx, @Darknius_Official, and @RayapKun for testing
 - @mafiasupremacy for device tree
-- @javashin for Kernel
-- And all Juice Dev for helping
-
+- @yeetnosense & @zech4 for Kernel
+- And all Juice Dev ID for helping
 
 Give us coffee :
 [Paypal](https://paypal.me/IndraDesiP) | [Saweria](https://saweria.co/indradp)
