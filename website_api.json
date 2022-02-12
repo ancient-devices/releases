@@ -180,12 +180,12 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg"
    },
    {
-    "device_codename": "realme RM6785 (realme 6/6i(Indian)/6s/7/Narzo/narzo 20 Pro/narzo 30 4G)",
-    "maintainer": "A Zaidan",
+    "device_codename": "realme 6/6i(Indian)/6s/7/Narzo/narzo 20 Pro/narzo 30 4G (RM6785)",
+    "maintainer": "Zaidan",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/ancientRM6785",
     "changelog_url": "https://t.me/ancientrom/1392",
-    "date_updated": "22-12-2021",
+    "date_updated": "12-02-2021",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/RMX2151.png"
    },
