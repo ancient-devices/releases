@@ -1,29 +1,42 @@
-https://telegra.ph/file/41ffd0c3a7c2d27d9a5a2.jpg
+https://telegra.ph/file/76a6b70385d6d242cd523.jpg
 |||||
-@thepsambit
+@Ardjlon
 |||||
-**AncientOS V6.1 | Android 12 | Beta**
-**for POCO X3 NFC (surya)**
-**Maintained by** @thepsambit(KangMonkey)
 
-Build Variant : GApps
-Build Version : 6.1 | Society | Weeabo | Beta
-Build Date : 28-11-2021
+AncientOS V6.2 | Android 12 | Shield
+for  POCO X3 NFC (Surya)
 
-**Changelog:**
-[Here](https://t.me/ancientrom/1393)
+Maintained by @Ardjlon
+Build Variant : Gapps
+Build Version : 6.2 | Steel
+Build Date : 13-02-2022
 
-**Download Build:** [Here](https://www.ancientrom.tech/)
+Source Changelogs :
+[HERE](https://www.ancientrom.xyz/#/Changelog) 
 
-**Device Support :**
-[Here](t.me/WeedyBuilds)
+Device Changelogs :
+• Initial build
+• Maximun RR per App
+• Remove some gapps packages
 
-**Notes :**
-- GApps Build Only.
-- Initial A12 Builds.
+Download Build [HERE](https://www.ancientrom.xyz/) 
 
-Buy me a Beer if you like my work :
-[PayPal](paypal.me/sambit2cool)
-UPI: psambitk1@apl
+Device Support :
+[Device Support](https://t.me/ancientofficialpocox3) | [Ardjlon's Support group](https://t.me/evoxskbugs)
 
-#ancientOS #ancientrom #android #android12 #steel #weeabo #naruto #shield
+
+Notes :
+• Clean install, or factory reset after install the ROM
+• Only GAPPS builds
+• Lawnchair as default launcher
+
+Credits & Thanks :
+• @CHRISL7 for an base device tree
+• @ghostrider_reborn for kernel (QuickSilveR)
+• @lostark13 for RR settings
+• @Frank_Poco, @masxivip, @pasqualecannone thanks for testing
+
+Give me coffee :
+[Paypal](https://www.paypal.me/Ardjlon)
+
+#ancientOS #ancientrom #android #android12 #shield #steel
