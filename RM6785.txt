@@ -1,28 +1,30 @@
-https://telegra.ph/file/48188d4193889d9a6a24c.png
+https://telegra.ph/file/efd9f909b0a5481e299de.png
 |||||
 @ImFlynnn
 |||||
-AncientOS V6.1 | Android 12 | Beta
-for realme RM6785 (Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G)
+AncientOS V6.2 | Android 12
+for realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 Maintained by @ImFlynnn
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield
-Build Date : 22-12-2021
+Build Version : 6.2 | Shield
+Build Date : 12-02-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1393)
+• [HERE](https://ancientrom.xyz/#/Changelog)
 
 Device Changelogs :
-• Fixed VoLTE
-• Fixed fingerprint
-• Fixed color flicker
-• Fixed brightness slider
-• Added color mode
-• Desember secpatch
-• Shipped with Emiko kernel
+• Fixed NFC
+• Fixed smooth display
+• Fixed built-in screen recorder
+• February 2022 secpatch
+• Switch to CameraGOMod
+• Boost stune on app launch & top-app
+• Update BUILD_FP from C17
+• Added f2fs support for userdata partition
+• Rebrand realmeParts to Additional Settings
 
-Download Build [HERE](https://www.ancientrom.tech/) 
+Download Build [HERE](https://www.ancientrom.xyz/) 
 
 Device Support :
 @ancientRM6785
@@ -35,7 +37,7 @@ Notes :
 • If you face any bugs report in support group with logs
 
 Credits :
-Special thanks to @SamarV121 @ankitkene @officialputuid
+Special thanks to @SamarV121 @abaiik @officialputuid
 and all testers
 
 #ancientOS #ancientrom #android #android12 #megalith #shield #RM6785

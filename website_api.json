@@ -15,7 +15,7 @@
     "rom_support": "https://t.me/ancientcourbet",
     "device_supportgp_url": "https://t.me/mi11litechat",
     "changelog_url": "https://www.ancientrom.xyz/?i=1#/Changelog",
-    "date_updated": "03-02-2022",
+    "date_updated": "14-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-11-lite-4g-1.jpg"
    },
@@ -54,8 +54,8 @@
     "maintainer": "wadiehabib",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/wadiehabibroms",
-    "changelog_url": "https://telegra.ph/AncientOS-62-01-27",
-    "date_updated": "27-01-2022",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "12-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
   },
@@ -64,8 +64,8 @@
     "maintainer": "wadiehabib",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/wadiehabibroms",
-    "changelog_url": "https://telegra.ph/AncientOS-62-01-27",
-    "date_updated": "27-01-2022",
+    "changelog_url": "http://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "12-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
   },
@@ -164,8 +164,8 @@
     "maintainer": "Indra DP and Vern Kuato",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/ancientosjuice",
-    "changelog_url": "https://t.me/ancientrom/1392",
-    "date_updated": "19-12-2021",
+    "changelog_url": "https://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "09-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjoDAUaBMZFeqK5qfBmOJq9qit-2FbnruxYoZFnp8GxzpngFQO1QrfUJfoz34CPwWS3KFgNDiUlR5H_E6GZFXV6YMq0kMGZM5wfeZATW_R7ITRbvkrWZONzip2IDjMAq33xCNF1USfLX_6Qek24fcT6_gLE5Kz-K1BmvFyEt3QEpljMx2DHlLmPDbAg"
    },
@@ -180,12 +180,12 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg"
    },
    {
-    "device_codename": "realme RM6785 (realme 6/6i(Indian)/6s/7/Narzo/narzo 20 Pro/narzo 30 4G)",
-    "maintainer": "A Zaidan",
+    "device_codename": "realme 6/6i(Indian)/6s/7/Narzo/narzo 20 Pro/narzo 30 4G (RM6785)",
+    "maintainer": "Zaidan",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/ancientRM6785",
     "changelog_url": "https://t.me/ancientrom/1392",
-    "date_updated": "22-12-2021",
+    "date_updated": "12-02-2021",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/RMX2151.png"
    },
@@ -195,7 +195,7 @@
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/ancientofficialalioth",
     "changelog_url": "https://www.ancientrom.xyz/?i=1#/Changelog",
-    "date_updated": "08-02-2022",
+    "date_updated": "13-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://raw.githubusercontent.com/oghe3003/official_device_xiaomi/main/alioth.png"
    },
@@ -244,8 +244,8 @@
     "maintainer": "Adrar Hussain",
     "rom_support": "https://t.me/ancientid",
     "device_supportgp_url": "https://t.me/ancientofficialwhyred",
-    "changelog_url": "https://t.me/ancientrom/1392",
-    "date_updated": "29-12-2021",
+    "changelog_url": "https://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "10-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
    },
@@ -518,6 +518,16 @@
     "date_updated": "08-02-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1543548317.3532360.png"
+   },
+   {
+    "device_codename": "Asus Zenfone Max Pro M1 (X00TD)",
+    "maintainer": "Naveen4264",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientofficialX00T",
+    "changelog_url": "https://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "13-02-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://m.gsmarena.com/asus_zenfone_max_pro_(m1)_zb601kl_zb602k-pictures-9173.php"
    },
    {
     "device_codename": "POCO X3 NFC (Surya)",
