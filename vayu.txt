@@ -8,13 +8,16 @@ Maintained by @Bagualisson
 
 Build Variant : GApps
 Build Version : 6.2 | Shield | Stable
-Build Date : 02-02-2022
+Build Date : 23-02-2022
 
 **Rom Changelog** 
 (https://www.ancientrom.xyz/)
 
-**DeviceChangelog:**
-• Hotfix for QS Lags
+**Device Changelog**
+• Kernel Merged to tag 'LA.UM.9.1.r1-11600-SMxxx0.0'
+• Some Fixed and Improvements
+• Added Face Unlock
+• February Security Patch Merged
 
 **Download Build:** [Here](https://www.ancientrom.xyz/)
 
@@ -22,7 +25,7 @@ Build Date : 02-02-2022
 @AncientVayu
 
 **Notes :**
-12.0.4 FW or Greater Required.
+12.5.4 Global FW or Greater Required.
 
 Buy me a Beer if you like my work :
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WFJG3Q8VUF49U&currency_code=BRL&source=url)
