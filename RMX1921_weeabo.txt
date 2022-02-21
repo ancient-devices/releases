@@ -1,0 +1,36 @@
+https://telegra.ph/file/18cbe74ade2fde160390b.jpg
+|||||
+@Bava7325
+|||||
+AncientOS V6.2 | Android 12
+for Realme XT(RMX1921)
+Maintained by @Bava7325
+
+Build Variant : Gapps
+Build Version : 6.2 | Weeabo
+Build Date : 22-02-2022
+
+Source Changelogs :
+• [Read Here](https://www.ancientrom.xyz/#/Changelog)
+
+Device Changelogs :
+• [Read Here](https://telegra.ph/Ancient-Weeabo-Update-02-19)
+
+Download Build : [HERE](https://www.ancientrom.xyz/)
+
+Notes :
+• GApps Included
+• SELinux is Enforcing
+• Don't report bugs without proper logs
+
+Device Support :
+@ancientRMX1901_RMX1921
+
+Credits :
+Thanks to @dhruvesh_23 for testing all my builds
+
+Give me coffee :
+UPI: kaderbava-1@okaxis
+PayPal: [kaderbava](http://paypal.me/kaderbava)
+
+#ancientOS #ancientrom #android #android12 #weeabo #naruto
