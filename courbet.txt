@@ -9,14 +9,17 @@ Maintained by @ygherna
 
 Build Variant : Gapps
 Build Version : 6.2 | Shield 
-Build Date : 14-02-2022
+Build Date : 22-02-2022
 
 Source Changelogs :
 • [HERE](https://www.ancientrom.xyz/)
 * February SP
 
 Device Changelogs :
-• [HERE](https://github.com/youngherna/Ancient-Courbet/blob/main/.courbet-changelog)
+• Added Extra dim in display
+• Added Face & FP unlock
+• Fixed back gesture after advanced nav gesture
+• Other minor fixes
 
 Download Build :
 • [HERE](https://www.ancientrom.xyz/) 
