@@ -1,0 +1,43 @@
+https://telegra.ph/file/2cec95834b29dd6101f58.jpg
+|||||
+@Mikazuuu07
+|||||
+
+AncientOS V6.2 | Android 12 | Shield
+for  Redmi 10 (Selene)
+
+Maintained by @Mikazuuu07
+Build Variant : Gapps
+Build Version : 6.2 | Steel
+Build Date : 16-02-2022
+
+Source Changelogs :
+[HERE](https://www.ancientrom.xyz/#/Changelog) 
+
+Device Changelogs :
+• Enable Fps meter
+• Tune Zram performance
+• Enable Aod but disable by default
+• Reduce screenshot delay
+• Upstream kernel to 4.14.266
+• Uprev BT Aud impl to 2.1
+
+Bugs :
+• Screenrecord use third party app
+
+Download Build [HERE](https://www.ancientrom.xyz/) 
+
+Device Support :
+@ancientosselene
+
+Credits :
+• @ceb8khs @SakthivelNadar @ashblk @chcepizze @TheMalachite @Mikazuuu07 For DT
+• @nsrlandka for Banner
+
+Give me coffee :
+[Saweria](https://saweria.co/Mikazuuu07)  
+[Paypal](https://www.paypal.me/Mikazuuu07)
+[Ko-Fi](https://ko-fi.com/mikazuuu07)
+[Trakteer](https://trakteer.id/mikazuuu07/tip)
+
+#ancientOS #ancientrom #android #android12 #shield #megalith #steel
