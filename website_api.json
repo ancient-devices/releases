@@ -300,6 +300,16 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a10-0.jpg"
    },
    {
+    "device_codename": "Samsung Galaxy A40 (a40)",
+    "maintainer": "Kevios12",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancienta40",
+    "changelog_url": "https://t.me/ancientrom/1623",
+    "date_updated": "26-02-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a40.jpg"
+   },
+   {
     "device_codename": "Samsung Galaxy S10e (beyond0lte)",
     "maintainer": "Orel6505",
     "rom_support": "https://t.me/ancientid",
