@@ -1,0 +1,27 @@
+https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
+|||||
+@kevios12
+|||||
+AncientOS V6.2 | Android 12 | Shield
+for Samsung Galaxy A40
+Maintained by @kevios12
+
+Build Variant: Vanilla
+Build Version: 6.2 | Steel
+Build Date: 26-02-2022
+
+Source Changelogs:
+• [HERE](https://t.me/ancientrom/1623)
+
+Device Changelogs:
+• Initial build
+
+Download Build: [HERE](https://www.ancientrom.tech/)
+
+Notes:
+• Attach logs if you find any bugs
+
+Device Support:
+@ancienta40
+
+#ancientOS #android12 #a40
