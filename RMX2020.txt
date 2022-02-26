@@ -1,0 +1,42 @@
+https://telegra.ph/file/d14c7dbca64de8fda9bc8.jpg
+|||||
+@Athurleywin
+|||||
+
+AncientOS V6.2 | Android 12 | Shield
+for Realme C3/Narzo 10A (RMX2020)
+
+Maintained by @Athurleywin
+Build Variant : Gapps|Vanilla
+Build Version : 6.2 | Steel
+Build Date : 25-02-2022
+
+Source Changelogs : [HERE](https://www.ancientrom.xyz/#/Changelog)
+
+Device Changelogs :
+• Allow raising sched_boost to 6 levels
+• Boost foreground to maximum when launching an app
+• Use input boost to detect improve interaction hint
+• Address few Denials
+• Upstream Kernel
+• Report Not Charging as Discharging for AOSP
+• Add missing Audio Engineering Mode blobs
+• More
+
+Bugs: 
+• Report your issue and send logs or enjoy as features
+
+Download Build [HERE](https://www.ancientrom.xyz/) 
+
+Device Support :
+@ancientmonet
+
+Credits :
+• Click [HERE](https://telegra.ph/Realme-C3Narzo-10A-OSS-Vendor-Credits-08-30)
+
+Give me coffee :
+[Dana]](https://telegra.ph/file/46be469480bc65f080739.jpg)
+[Paypal](https://www.paypal.com/paypalme/arleywin86)
+[Ko-Fi](https://ko-fi.com/R6R6APZKC)
+
+#ancientOS #ancientrom #android #android12 #shield #megalith #steel
