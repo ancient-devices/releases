@@ -9,13 +9,15 @@ for  Redmi 4X (Santoni)
 Maintained by @Krxyzn
 Build Variant : Vanilla
 Build Version : 6.2 | Shield | Stable
-Build Date : 02-02-2022
+Build Date : 27-02-2022
 
 Source Changelogs :
 [HERE](http://www.ancientrom.xyz) 
 
 Device Changelogs :
-[HERE](https://telegra.ph/Redmi-4x-AncientOS-Changelogs-02-02)
+• February Security Patch
+• Minimal reduced statusbar end margin
+• Kernel: Jabiyeff Project - 4.9.302 
 
 Download Build [HERE](https://www.ancientrom.xyz) 
 
@@ -26,14 +28,15 @@ Notes :
 • Vanilla Build
 • Use Firmware version 048. If you get a sim bug but don't use firmware version 048 it will be ignored
 • Report bugs using logs, no logs will be ignored
+• Needed Recovery: [OrangeFox](https://t.me/jabiyeff_caf/107) Or [Twrp](https://t.me/jabiyeff_caf/108)
+• Keep a backup of Persist and EFS
 
 Credits :
 • @Jabiyeff21 For Tree
 • @ItoRenz For Help
-• @Halo555555 for kernel
-• @EvilAnsh , @TheGodKingTime For Test
+• @Rehannbiru , @novabc For test
 
 Give me coffee :
 [Saweria](https://saweria.co/FaaRlxSqd)  
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #Silver
+#ancientOS #ancientrom #android #android12 #megalith #iron #Silver #Santoni #R4X
