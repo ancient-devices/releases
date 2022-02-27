@@ -1,4 +1,4 @@
-https://telegra.ph/file/76a6b70385d6d242cd523.jpg
+https://telegra.ph/file/9027746f4ae13c4afef78.jpg
 |||||
 @Ardjlon
 |||||
@@ -7,36 +7,43 @@ AncientOS V6.2 | Android 12 | Shield
 for  POCO X3 NFC (Surya)
 
 Maintained by @Ardjlon
-Build Variant : Gapps
+Build Variant : GAPPS
 Build Version : 6.2 | Steel
-Build Date : 13-02-2022
+Build Date : 27-02-2022
 
 Source Changelogs :
-[HERE](https://www.ancientrom.xyz/#/Changelog) 
+[HERE](https://www.ancientrom.xyz/#/Changelog), & another stuffs
+Google backup & restore fixed
+Added Face & FP unlock
+Fixed back gesture
 
 Device Changelogs :
-• Initial build
-• Maximun RR per App
-• Remove some gapps packages
+Firmware included (V12.5.5.0.RJGINXM)
+Fix GCAM crashes
+OpenGL renderer as default
+Fixed Ambient Display crashes
+Some fixes and improvements
+RR per app improves
+Address few Denials
+KANG SB overlays from vayu
 
 Download Build [HERE](https://www.ancientrom.xyz/) 
 
 Device Support :
-[Device Support](https://t.me/ancientofficialpocox3) | [Ardjlon's Support group](https://t.me/evoxskbugs)
+[Device Support](https://t.me/ancientofficialpocox3) | [Ardjlon's Support](https://ardjlon.github.io/)
 
 
 Notes :
-• Clean install, or factory reset after install the ROM
-• Only GAPPS builds
-• Lawnchair as default launcher
+Dirty flash is allowed
+Clean install, or factory reset after install the ROM if you comes from another rom
+Only GAPPS builds
+Lawnchair as default
 
 Credits & Thanks :
-• @CHRISL7 for an base device tree
-• @ghostrider_reborn for kernel (QuickSilveR)
-• @lostark13 for RR settings
-• @Frank_Poco, @masxivip, @pasqualecannone thanks for testing
+@WSTxda for new icons for RR settings
+@Frank_Poco, @masxivip, @pasqualecannone thanks for testing
 
-Give me coffee :
+Give me a coffee please:
 [Paypal](https://www.paypal.me/Ardjlon)
 
 #ancientOS #ancientrom #android #android12 #shield #steel
