@@ -8,15 +8,11 @@ Maintained by @Soumyajitpaul007
 
 Build Variant : Gapps | Vanilla 
 Build Version : 6.2 | Steel
-Build Date : 30-01-2022
+Build Date : 01-03-2022
 
-Source Changelogs :
-• [HERE](https://t.me/ancientrom/1623)
+Changelogs : [HERE](https://telegra.ph/AncientOS-62--Redmi-6-Pro-03-01)
 
-Device Changelogs :
-• [HERE](https://telegra.ph/Changelogs-AncientOS-62--sakura-01-30)
-
-Download Build [HERE](https://www.ancientrom.xyz/)
+Download Build : [HERE](https://www.ancientrom.xyz/)
 
 Notes :
 • Flash Flame Gapps for vanilla version

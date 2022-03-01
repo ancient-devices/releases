@@ -40,6 +40,16 @@
     "phone_url": "https://telegra.ph/file/856849d62c30dc3a2679a.png"
    },
    {
+    "device_codename": "Redmi 6 Pro (sakura)",
+    "maintainer": "𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘰𝘙",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/Predators_Abode",
+    "changelog_url": "https://telegra.ph/AncientOS-62--Redmi-6-Pro-03-01",
+    "date_updated": "01-03-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://telegra.ph/file/dcb7beaa7dacae5fe6d83.png"
+   },
+   {
     "device_codename": "Redmi Note 4(mido)",
     "maintainer": "Smokey",
     "rom_support": "https://t.me/ancientid",
@@ -149,16 +159,6 @@
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://cdn.tgdd.vn/Products/Images/42/99145/xiaomi-redmi-4x-400-400x460.png"
     },
-   {
-    "device_codename": "Redmi 6 Pro (sakura)",
-    "maintainer": "𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘰𝘙",
-    "rom_support": "https://t.me/ancientid",
-    "device_supportgp_url": "https://t.me/Predators_Abode",
-    "changelog_url": "https://telegra.ph/Changelogs-AncientOS-62--sakura-01-30",
-    "date_updated": "30-01-2022",
-    "download_url": "https://www.pling.com/p/1606752",
-    "phone_url": "https://telegra.ph/file/dcb7beaa7dacae5fe6d83.png"
-   },
    {
     "device_codename": "Redmi 9T / Redmi 9 Power / Redmi Note 9 4G and POCO M3 (Juice)",
     "maintainer": "Indra DP and Vern Kuato",
