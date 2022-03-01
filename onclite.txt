@@ -8,18 +8,14 @@ Maintained by @Soumyajitpaul007
 
 Build Variant : Gapps | Vanilla
 Build Version : 6.2 | Steel
-Build Date : 01-02-2022
+Build Date : 01-03-2022
 
-Source Changelogs :
-• [HERE](https://t.me/ancientrom/1623)
-
-Device Changelogs :
-• [HERE](https://telegra.ph/Changelogs-AncientOS-62--onclite-02-02)
+ Changelogs : [HERE](https://telegra.ph/AncientOS-62--Redmi-7Y3-03-01)
 
 Download Build : [HERE](https://www.ancientrom.xyz/)
 
 Notes :
-• Flash Flame/Nik Basic gapps for vanilla version
+• Flash Flame Basic gapps for vanilla version
 • If you face any bugs report in support group with logs
 
 Device Support :
@@ -27,7 +23,7 @@ Device Support :
 
 Credits :
 Thanks to @Dhina_17 for kernel source
-Thanks to @AbhinavNmdo @m4rjoke @amaanullahhh for testing
+Thanks to @amaanullahhh @m4rjoke @noob_sahaj @SWAMI50 @rsouza730 @Noviceyash for testing
 
 Give me coffee :
 UPI: soumyajitpaul001@okhdfcbank
