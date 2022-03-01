@@ -2,18 +2,17 @@ https://telegra.ph/file/71f379d1d108fea506b96.png
 |||||
 @ThisIsTag
 |||||
-AncientOS V6.2 | Android 12 | Beta
+AncientOS V6.2 HOTFIX | Android 12 | Beta
 for Miatoll | Xiaomi 720G Devices
 
 Maintained by @ThisIsTag
 Build Variant : Gapps
-Build Version : 6.2 | Shield / Weeabo 
-Build Date : 29-01-2022
+Build Version : 6.2 HOTFIX | Shield / Weeabo 
+Build Date : 01-03-2022
 
 Device Changelogs : 
-• Move to dt by @Sairam60 
-• Redfin FP january
-• Using GcamGOPrebuilt
+• Use raven february fp
+• Build QTI Perf vendor
 
 Source Changelogs :
 • [Here](https://t.me/ancientrom/1623)
@@ -27,8 +26,7 @@ Device Support :
 @ThisIsGroup2
 
 Credits :
-• Thanks to @IvanGE90 and @Ninja543 for testing.
-• Thanks to @PenguasaTerkuat to add my name in banner.
+• Thanks @Ninja543 for testing.
 • Thanks to @Sairam60 for dt and kernel.
 • Thanks to everyone for helping.
 • Thanks to all Miatoll devs.
