@@ -8,15 +8,13 @@ Maintained by Ridwan (@ItoRenz)
 
 Build Variant : Gapps | Vanilla
 Build Version : 6.2 | Shield | Steel
-Build Date : 03-02-2022
+Build Date : 01-03-2022
 
 Source Changelogs :
-• [Read Here](https://t.me/ancientrom/1623)
+• [Read Here](http://www.ancientrom.xyz)
 
 Device Changelogs :
-• [Read Here](https://telegra.ph/AncientOS-S-Shield-v62-rova-Steel-DeviceChangelogs-02-03)
-
-Screenshots : [HERE](https://t.me/DemonSlimeRimuru/356?single)
+• [Read Here](https://telegra.ph/AncientOS-S-Shield-v62-rova-Steel-DeviceChangelogs-03-01)
 
 Download Build [HERE](http://www.ancientrom.xyz)
 
@@ -25,11 +23,11 @@ Notes :
 • Vanilla Build ( Gapps not included )
 
 Device Support :
-@ancientofficialrova
+@ancientofficialrova | @RimuruTempestChat
 
 Credits :
 • Thanks to @me_cafebabe for trees
-• Thanks to @Taseer_b_001 @IVedxnt @iluReie @Qiforra @LiveInRiots @hellonetizen for test
+• Thanks to @Xraa_Gen @gadgetexplorer @LiveInRiots @kesayanganmamahkamu @ririn2jz @Mbambut_182 for test
 
 Give me coffee :
 • [Paypal](https://www.paypal.me/ItoRenz)
