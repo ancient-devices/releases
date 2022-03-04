@@ -1,40 +1,37 @@
-https://telegra.ph/file/df97b62c20dbe26fd69e0.jpg
+https://telegra.ph/file/6af8bbe808d706ec74271.png
 |||||
 @Naveen4264
 |||||
 
-AncientOS V6.2 | Android 12 | Shield
+AncientOS V5.7 | Society | Android 11 | Stable
 for  Asus Zenfone Max Pro M1 (X00TD)
 
 Maintained by @Naveen4264
-Build Variant : Gapps
-Build Version : 6.2 | Steel
-Build Date : 13-02-2022
+Build Variant : Vanilla
+Build Version : 5.7 | Society | Stable
+Build Date : 04-03-2022
 
 Source Changelogs :
-[HERE](https://www.ancientrom.xyz/#/Changelog) 
+• [HERE](https://www.ancientrom.xyz/#/Changelog) 
+• Feb sec
 
 Device Changelogs :
 • Initial build
-• Update Blobs from LA.UM.9.2.r1-03500-SDMxx0.0
-• Import GPS Hal from LA.UM.9.2.r1-03700-SDMxx0.0
-• Thermal:Pull QTI Thermal from LineageOS
-• Remove some gapps packages
+• Sync EGL symlinks with CAF
+• Update qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0
+• Update portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0
+• Update Graphics (OpenGL ES) and Vulkan
+• SELinux is Enforcing
 
 Download Build [HERE](https://www.ancientrom.xyz/) 
 
 Notes :
+• Vanilla Build
 • Recommended firmware : 063, 087
 • Safetynet passed by default
-• SELinux is Enforcing
-• LV and Non FBE build
-• If you find any Bugs please report with Logs
+• Both LV and NLV kernel supported
 
 Device Support :
 @ancientofficialX00T
 
-Credits & Thanks :
-• @ronin896 for device tree
-• @Alwynluxy , @therealnurul , @Hemant0505 for testing
-
-#ancientOS #ancientrom #android #android12 #shield #megalith #steel #X00TD
+#ancientOS #ancientrom #android #android11 #Iron #megalith #Society #X00TD
