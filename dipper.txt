@@ -1,0 +1,42 @@
+https://telegra.ph/file/df97b62c20dbe26fd69e0.jpg
+|||||
+@namaskaragusthi
+|||||
+AncientOS 6.2 | Android 12
+for Xiaomi Mi 8 (dipper)
+Maintained By @namaskaragusthi
+
+Build Variant : Gapps
+Build Version : 6.2 | Shield
+Build Date : 05/03/2022
+
+Source Changelogs :
+• [Click Here](https://www.ancientrom.xyz/?i=1#/Changelog)
+
+Device Changelogs :
+• Bring-up A12
+• Updated Fingerpint to Raven:12/SQ1D.220205.003
+• Shipped with 4.9.304-perf
+• Switch Keymaster 4.0 from Perseus
+• Added Color Modes
+• Improvs Performance & Stability
+
+
+Download :
+[Click Here](https://www.ancientrom.xyz/)
+
+Notes:
+• Safetynet passed by default
+• SELinux is Enforcing
+• Report bugs using logs, no logs will be ignored
+
+Special Thanks:
+• @I3lambda, @ardiansyahdar, @NullExceptionPointer, & @abdlgnii for tester
+
+Give me Donuts :
+[Paypal](https://www.paypal.com/paypalme/namaskaragws) | [Saweria](https://saweria.co/namaskaragusthi)
+
+Support Groups :
+[Device Support](https://t.me/ancientofficialdipper) | [Channel](http://t.me/ancientrom) | [Sena's Support Group](https://t.me/marcellasnerom)
+
+#ancientOS #ancientrom #android #android12 #megalith #shield #steel
