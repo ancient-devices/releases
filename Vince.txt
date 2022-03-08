@@ -2,28 +2,40 @@ https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
 |||||
 @Ryuzenn
 |||||
-AncientOS V6.1 | Android 12 | Beta
+AncientOS V6.2 | Android 12 | Beta
 for  Redmi 5 Plus (Vince)
 Maintained by @Ryuzenn 
 
 Build Variant : Gapps
-Build Version : 6.1 | Shield | Weeabo  | Beta
-Build Date : 24-12-2021
+Build Version : 6.2 | Shield | Steel  | Beta
+Build Date : 08-03-2022
 
 Source Changelogs :
-• [READ HERE](https://t.me/ancientrom/1392)
+• [READ HERE](https://ancientrom.xyz/#/Changelog)
 
 Device Changelogs :
- • Initial Build Of A12
- • Build with Ryzen Kernel 4.9
- • Update Fingerprint to Raven 
- • Upsteamed Kernel to v4.9.293
- • Included GcamGO
- • Selinux Permissive
+• February Security Patch
+• Set vendor.post_boot.parsed=1
+• Set BPF support level
+• Enable debug.sf.latch_unsignaled
+• Update Redfin FP to Feb
+• Disable in call music
+• Checkout audio configs from https://github.com/xiaomi-msm8953-devs
+• Update Media and Graphic blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update WiFi blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Switch to userspace LMKD
+• Add vulkan and egl hardware variant properties
+• Switch to Vulkan UI renderer
+• Update Vulkan Configs
+• Build With Ryzen kernel v4.9.304
+• Build With Ancient Clang By Default
+
+Notes:
+• For Dual SIM Data Still can't Fix, Sorry, Just Wait For Update
 
 
 Download Build 
-• [HERE](https://www.ancientrom.tech/)
+• [HERE](https://www.ancientrom.xyz/)
 
 Device Support :
 @ancientofficialvince
@@ -32,8 +44,8 @@ Credits:
  • Allah SWT
  • My Friends
  • Sixteen Dev
- • @grindklast For Testing
- • @GhostMaster69_dev For Tree Source
+ • @rayrzy, @WisnuArdhi34 For Helping
+ • @PrajjuS For Tree Source
 
 
 Give me coffee :
