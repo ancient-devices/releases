@@ -2,38 +2,34 @@ https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
 |||||
 @hetdahwin &&  @Ryuzenn
 |||||
-AncientOS V6.2 | Android 12
+AncientOS V5.7 | Android 11
 for  Redmi Note 8/8T (Ginkgo & Willow)
 Maintained by @hetdahwin & @Ryuzenn 
 
 Build Variant : Gapps
-Build Version : 6.2 | Shield
-Build Date : 13-02-2022
+Build Version : 5.7 | Society
+Build Date : 11-03-2022
 
 Source Changelogs :
 [READ HERE](https://www.ancientrom.xyz/#/Changelog)
 
 Device Changelogs :
-• February Security Patch
-• Upstreamed Kernel to v4.14.265
+• Bump Version 5.7
+• Enable metadata encryption
+• enable volte smartfreen indonesia
+• Add support for LCD HBM and CABC in parts
+• Disable notification LED options on willow 
 
 Download Build [HERE](https://www.ancientrom.xyz/)
+
+Notes :
+• Format Data required
 
 Device Support :
 @ancientofficialginkgo
 
-Credits:
- • Allah SWT
- • My Friends
- • Sixteen Dev
- • @kobato_miku For Testing
- • @kazumaki For Testing
- • All of my tester
- • @ghostrider_reborn For Tree
-
-
 Give me coffee :
-[Paypal](https://paypal.me/tachibanarui)
-[Saweria](https://saweria.co/ryzen)
+[Paypal](https://paypal.me/erwinabubakarsidik)
+[Saweria](https://saweria.co/erwinabs)
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo
