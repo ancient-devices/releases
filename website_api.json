@@ -611,6 +611,18 @@
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi8-4.jpg"
   },
+ {
+    "id":"35",
+    "brand":"Xiaomi",
+    "device_codename": "Xiaomi Redmi 3S/3X (land)",
+    "maintainer": "Krxyzn",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancientlandtoni",
+    "changelog_url": "https://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "15-03-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://camo.githubusercontent.com/3f833020eb7cd6aab7c72fe4f780828a897a0e55b9043c8b530858dfafbec3d4/687474703a2f2f63646e322e67736d6172656e612e636f6d2f76762f706963732f7869616f6d692f7869616f6d692d7265646d692d332d70726f2d322e6a7067"
+  },
   {
     "id":"1",
     "brand":"Samsung",
