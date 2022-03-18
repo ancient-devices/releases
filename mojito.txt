@@ -9,16 +9,16 @@ for  Mojito (Redmi Note 10)
 Maintained by @ZEUTS
 Build Variant : Gapps
 Build Version : 6.2 | Shield | Steel
-Build Date : 24-02-2022
+Build Date : 18-03-2022
 
 Source Changelogs :
 • [HERE](https://www.ancientrom.xyz/)
 
 Device Changelog :
-• [HERE](https://telegra.ph/AncientOS-62-February-SP-Mojito-02-24)
+• [HERE](https://telegra.ph/AncientOS-62-March-Mojito-03-18-03-18)
 
 Download :
-• [HERE](https://www.ancientrom.tech/)
+• [HERE](https://www.ancientrom.xyz/)
 
 Device Support :
 • [HERE](https://t.me/ancientofficialmojito)
@@ -31,5 +31,6 @@ Notes :
 Credits :
 - Thanks to @ZIDAN44 for base tree
 - Thanks to @cyberknight777 for awesome Kernel
+- Thanks to @dblenk9 for ANX 
 
 #ancientOS #ancientrom #android #android12 #shield #megalith #steel #weeabo
