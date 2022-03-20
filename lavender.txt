@@ -6,18 +6,17 @@ AncientOS V6.2 | Android 12
 
 for Redmi Note 7/7S (Lavender)
 Maintained by [ABRAR](https://t.me/AbrarNoob)
-Build Variant : Shield (Gapps & Vanilla) & Weeb Vanilla
+Build Variant : Shield (Gapps & Vanilla)
 Build Version : 6.2
-Build Date : 21-02-2022
+Build Date : 20-03-2022
 
 Source Changelog :
 • [HERE]
 (https://www.ancientrom.tech/)
-• February Security Patch
 
 Device Changelog :
 • [HERE]
-(https://telegra.ph/AncientOS-62-February-SP-02-20)
+(https://telegra.ph/Ancient-OS-62-03-20)
 
 Download :
 • [HERE]
