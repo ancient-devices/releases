@@ -9,39 +9,35 @@ for  POCO X3 NFC (Surya)
 Maintained by @Ardjlon
 Build Variant : GAPPS
 Build Version : 6.2 | Steel
-Build Date : 27-02-2022
+Build Date : 24-03-2022
 
 Source Changelogs :
 [HERE](https://www.ancientrom.xyz/#/Changelog), & another stuffs
-Google backup & restore fixed
-Added Face & FP unlock
-Fixed back gesture
+February security patch
+SafetyNet is fixed
 
 Device Changelogs :
-Firmware included (V12.5.5.0.RJGINXM)
-Fix GCAM crashes
-OpenGL renderer as default
-Fixed Ambient Display crashes
-Some fixes and improvements
-RR per app improves
-Address few Denials
-KANG SB overlays from vayu
+Google Photos fixed
+Improve KCAL UI (Display colors)
+Netflix & Prime Video works now
+QuickSilver kernel with some additions and spamlogs fixed now by me
 
 Download Build [HERE](https://www.ancientrom.xyz/) 
 
 Device Support :
 [Device Support](https://t.me/ancientofficialpocox3) | [Ardjlon's Support](https://ardjlon.github.io/)
 
-
 Notes :
 Dirty flash is allowed
 Clean install, or factory reset after install the ROM if you comes from another rom
 Only GAPPS builds
 Lawnchair as default
+Firmware included (V12.5.5.0.RJGINXM)
+GCAM apps works
+OpenGL skia renderer as default
 
 Credits & Thanks :
-@WSTxda for new icons for RR settings
-@Frank_Poco, @masxivip, @pasqualecannone thanks for testing
+@xXPhantomXx, @pasqualecannone & @Frank_Poco for testing
 
 Give me a coffee please:
 [Paypal](https://www.paypal.me/Ardjlon)
