@@ -9,16 +9,17 @@ for  Redmi 3S/3X (Land)
 Maintained by @Krxyzn
 Build Variant : Vanilla
 Build Version : 6.2 | Shield | Stable
-Build Date : 15-03-2022
+Build Date : 17-03-2022
 
 Source Changelogs :
 [HERE](http://www.ancientrom.xyz) 
 
 Device Changelogs :
-• Initial land build
-• Adapt xiaomi parts to S style
-• MakeUI more smooth
-• February Security Patch
+• HOTFIX:
+- Fixed the issue of fingerprint not being able to be added
+
+Known Issue:
+• bluetooth issue
 
 Download Build [HERE](https://www.ancientrom.xyz) 
 
@@ -32,9 +33,9 @@ Notes :
 
 Credits :
 • @MarvelMathesh For tree
-• @SangBoedjang and @alefirmanalfarizy for test
+• All member Redmi 3S/3X tester for test
 
 Give me coffee :
 [Saweria](https://saweria.co/FaaRlxSqd)  
 
-#ancientOS #ancientrom #android #android12 #megalith #iron #steel #land #3S #3X
+#Hotfix #ancientOS #ancientrom #android #android12 #megalith #iron #steel #land #3S #3X
