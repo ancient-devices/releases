@@ -590,18 +590,6 @@
   {
     "id":"33",
     "brand":"Xiaomi",
-    "device_codename": "Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i (gauguin)",
-    "maintainer": "Huha Lula",
-    "rom_support": "https://t.me/ancientid",
-    "device_supportgp_url": "https://t.me/ancient_gauguin",
-    "changelog_url": "https://t.me/ancientrom/1623",
-    "date_updated": "04-02-2022",
-    "download_url": "https://www.pling.com/p/1606752",
-    "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg"
-  },
-  {
-    "id":"34",
-    "brand":"Xiaomi",
     "device_codename": "Xiaomi Mi 8 (dipper)",
     "maintainer": "Namaskara Gusthi W. (Sena)",
     "rom_support": "https://t.me/ancientid",
@@ -612,7 +600,7 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi8-4.jpg"
   },
  {
-    "id":"35",
+    "id":"34",
     "brand":"Xiaomi",
     "device_codename": "Xiaomi Redmi 3S/3X (land)",
     "maintainer": "Krxyzn",
