@@ -626,6 +626,30 @@
   {
     "id":"2",
     "brand":"Samsung",
+    "device_codename": "Samsung Galaxy A20 (a20)",
+    "maintainer": "roynatech2544",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancient_a20_a20e",
+    "changelog_url": "https://t.me/ancientrom/1623",
+    "date_updated": "26-03-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a20.jpg"
+  },
+  {
+    "id":"3",
+    "brand":"Samsung",
+    "device_codename": "Samsung Galaxy A20e (a20e)",
+    "maintainer": "roynatech2544",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/ancient_a20_a20e",
+    "changelog_url": "https://t.me/ancientrom/1623",
+    "date_updated": "26-03-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a20.jpg"
+  },
+  {
+    "id":"4",
+    "brand":"Samsung",
     "device_codename": "Samsung Galaxy A40 (a40)",
     "maintainer": "Kevios12",
     "rom_support": "https://t.me/ancientid",
@@ -636,7 +660,7 @@
     "phone_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a40.jpg"
   },
   {
-    "id":"3",
+    "id":"5",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy S10e (beyond0lte)",
     "maintainer": "Orel6505",
@@ -648,7 +672,7 @@
     "phone_url": "https://wiki.lineageos.org/images/devices/beyond0lte.png"
   },
   {
-    "id":"4",
+    "id":"6",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy S10 (beyond1lte)",
     "maintainer": "Orel6505",
@@ -660,7 +684,7 @@
     "phone_url": "https://wiki.lineageos.org/images/devices/beyond2lte.png"
   },
   {
-    "id":"5",
+    "id":"7",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy S10+ (beyond2lte)",
     "maintainer": "Orel6505",
@@ -672,7 +696,7 @@
     "phone_url": "https://wiki.lineageos.org/images/devices/beyond2lte.png"
   },
   {
-    "id":"6",
+    "id":"8",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy S10 5G (beyondx)",
     "maintainer": "Orel6505",
@@ -684,7 +708,7 @@
     "phone_url": "https://wiki.lineageos.org/images/devices/beyondx.png"
   },
   {
-    "id":"7",
+    "id":"9",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy Note10 (d1)",
     "maintainer": "Orel6505",
@@ -696,7 +720,7 @@
     "phone_url": "https://wiki.lineageos.org/images/devices/d1.png"
   },
   {
-    "id":"8",
+    "id":"10",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy Note10+ (d2s)",
     "maintainer": "Orel6505",
@@ -708,7 +732,7 @@
     "phone_url": "https://wiki.lineageos.org/images/devices/d2s.png"
   },
   {
-    "id":"9",
+    "id":"11",
     "brand":"Samsung",
     "device_codename": "Samsung Galaxy Note10+ 5G (d2x)",
     "maintainer": "Orel6505",

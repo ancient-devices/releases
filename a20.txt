@@ -1,0 +1,24 @@
+https://telegra.ph/file/d76ad12b9b9265c834eeb.jpg
+|||||
+@roynatech
+|||||
+AncientOS V6.2 | Android 12 | Shield
+for Samsung Galaxy A20 and A20e
+Maintained by @roynatech
+
+Build Variant: Vanilla | Gapps
+Build Version: 6.2 | Steel
+Build Date: 26-03-2022
+
+Source Changelogs:
+• [HERE](https://t.me/ancientrom/1623)
+
+Device Changelogs:
+• Initial Build
+
+Download Build: [HERE](https://www.ancientrom.xyz/)
+
+Device Support:
+@ancient_a20_a20e
+
+#ancientOS #android12 #a20 #a20e #v6.2
