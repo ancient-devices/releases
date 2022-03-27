@@ -3,22 +3,31 @@ https://telegra.ph/file/ca9378efa8e9ee17cc2b4.png
 @XtremeOrnob // (X-FUCKIN-O)
 |||||
 
-**AncientOS V6.1 | Android 12 | Weeabo | Shield**
+**AncientOS V6.2 | Android 12 | Weeabo | Shield**
 **for Xiaomi POCO F1 (beryllium)**
 
 Maintained by @XtremeOrnob (X-FUCKIN-O)
-Build Variant : GApps
-Build Version : 6.1 | Weeabo-Shield | Beta
-Build Date : 28-11-2021
+Build Variant : Vanilla | GApps
+Build Version : 6.2 | Naruto | Steel
+Build Date : 26-03-2022
 
-Changelog :
-[Here](https://telegra.ph/file-11-28-2)
+Source Changelogs :
+• [Click Here](https://www.ancientrom.xyz/?i=1#/Changelog)
+
+Device CHangelogs :
+* XDKernel 2.0 with FullLTO
+* Switched to Ancient Clang 15.0.0
+* Merged latest CAF tag
+* [Read In Detail Changelog Here](https://telegra.ph/Device-Changelog-03-27)
 Download :
 
-[HERE](https://www.ancientrom.tech/)
+[Click Here](https://www.ancientrom.xyz/)
 
-Device Support :
+Notes: 
+* WIPE /CUST ffs
 
-[Device Support](https://t.me/ancientrompocof1)
+Support Groups :
 
-#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo
+[Device Support](https://t.me/ancientrompocof1) [Channel](http://t.me/ancientrom) | [The Devil's Den](https://t.me/xosden)
+
+#ancientOS #ancientrom #android #android12 #megalith #shield #weeabo
