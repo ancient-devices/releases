@@ -6,25 +6,21 @@ AncientOS V6.2 | Android 12 | Stable
 for davinci
 Maintained by @wadiehabib
 
-Build Variant : Gapps
+Build Variant : Gapps | Vanilla
 Build Version : 6.2 | Society
-Build Date : 12-02-2022
+Build Date : 25-03-2022
 
 Source Changelog:
 [HERE](https://www.ancientrom.xyz/)
 
 Device Changelog:
-- Faster udfps. Cyan is default color now. 
-- Smoother animations and transitions.
-- Updated Vantom kernel.
-- Lawnchair is now default launcher.
+- Switched to SnapLight kernel. (a fork of PE kernel by @trspl)
+- Fixed d2tw, popup cam during boot.
+- Fixed kernel panic on deepsleep.
 
 Download Build [HERE](https://www.ancientrom.xyz/)
 
-Credits:
-Thx to @whitemachine for testing. 
-
 Device Support :
-@wadiehabibroms
+@wadiehabibroms | @AncientOS_RedmiK20_Mi9T
 
 #ancientOS #ancientrom #android #android12 #megalith #iron
