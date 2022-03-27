@@ -3,22 +3,43 @@ https://telegra.ph/file/ca9378efa8e9ee17cc2b4.png
 @XtremeOrnob // (X-FUCKIN-O)
 |||||
 
-**AncientOS V6.1 | Android 12 | Weeabo | Shield**
+**AncientOS V6.2 | Android 12 | Weeabo | Shield**
 **for Xiaomi POCO F1 (beryllium)**
 
 Maintained by @XtremeOrnob (X-FUCKIN-O)
-Build Variant : GApps
-Build Version : 6.1 | Weeabo-Shield | Beta
-Build Date : 28-11-2021
+Build Variant : Vanilla | GApps
+Build Version : 6.2 | Naruto | Steel
+Build Date : 26-03-2022
 
-Changelog :
-[Here](https://telegra.ph/file-11-28-2)
+Source Changelogs :
+• [Click Here](https://www.ancientrom.xyz/?i=1#/Changelog)
+
+Device CHangelogs :
+* XDKernel 2.0 with FullLTO
+* Switched to Ancient Clang 15.0.0
+* Merged latest CAF tag
+* Added IR FaceUnlock
+* Fixes in NoCutOutOverlay for S
+* Fixed both UClamp, SchedTune scaling
+* UClamp optimizations
+* Added GrapheneCamera ver. 17
+* ThermalProfiles improvements
+* Addd OpenGL ES and update Vulkan dEQP feature flags
+* SEPolicy Fixes
+* Google Chrome crash fixed
+* Uprev DRM to 1.4 (Should have been there from the beginning lol)
+* Update Adreno, Adreno Firmware & Vulkan blobs from LA.UM.9.3.r1-02700-sdm845.0 (Thanks to @rtx4d)
+* Added MiXplorer, Lawnchair in Vanilla build, GApps build modified
+
 Download :
 
-[HERE](https://www.ancientrom.tech/)
+[Click Here](https://www.ancientrom.xyz/)
 
-Device Support :
+Notes: 
+* WIPE /CUST ffs
 
-[Device Support](https://t.me/ancientrompocof1)
+Support Groups :
 
-#ancientOS #ancientrom #android #android12 #megalith #steel #weeabo
+[Device Support](https://t.me/ancientrompocof1) [Channel](http://t.me/ancientrom) | [The Devil's Den](https://t.me/xosden)
+
+#ancientOS #ancientrom #android #android12 #megalith #shield #weeabo
