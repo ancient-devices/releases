@@ -18,13 +18,7 @@ Source Changelogs :
 Device Changelogs :
 - Using QTI Bluetooth
 - Import sunfish cpusets configuration
-- Import sunfish phase offset configuration
-- Disable GPU protected composition
-- Fix Bluetooth audio, thanks @frostg012 for helping fix it
-- Fix Face Unlock
-- Fix Ok Google
-- Fix Google TTS stopped working in Setup Wizard
-- And other improvements
+- More changelogs, [Here](https://telegra.ph/Device-Changelogs-AncientOS-For-POCO-M3-Redmi-9T9-PowerNote-9-4G-03-28)
 
 Download :
 [Here](https://www.ancientrom.xyz/)
