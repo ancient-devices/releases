@@ -203,6 +203,18 @@
      "download_url": "https://www.pling.com/p/1606752",
      "phone_url": "https://fdn2.gsmarena.com/vv/pics/realme/realme-xt.jpg"
   },
+   {
+     "id":"11",
+     "brand":"Realme",
+     "device_codename": "Realme C2 (RMX1941)",
+     "maintainer": "Fraschze97",
+     "rom_support": "https://t.me/ancientid",
+     "device_supportgp_url": "https://t.me/ancient_RMX1941",
+     "changelog_url": "https://www.ancientrom.xyz/#/Changelog",
+     "date_updated": "28-03-2022",
+     "download_url": "https://www.pling.com/p/1606752",
+     "phone_url": "https://fdn2.gsmarena.com/vv/pics/realme/realme-c2-1.jpg"
+  },
   {
    "id":"1",
     "brand":"Xiaomi",
