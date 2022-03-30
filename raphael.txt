@@ -7,28 +7,29 @@ AncientOS V6.2 | Android 12 | Stable
 for  Mi 9T Pro/Redmi K20 Pro
 
 Maintained by @wadiehabib
-Build Variant: Gapps
+Build Variant: Gapps | Vanilla
 Build Version: 6.2 | Shield
-Build Date: 12-02-2022
+Build Date: 30-03-2022
 
 Source Changelog:
-[HERE](https://www.ancientrom.tech)
+[HERE](https://www.ancientrom.xyz)
 - February security patch. 
 
 Device Changelog:
-- Fixed deep sleep issue. 
-- Updated Soviet kernel to R9 .265
+- Updated Soviet kernel to latest.
+- Update graphics blobs from from LA.UM.9.14.r1-18900-LAHAINA.
+- DFE by default.
+- Switch to Vulkan UI renderer.
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build [HERE](https://www.ancientrom.xyz/)
 
 Device Support:
 @wadiehabibroms
 
 Notes:
-- Dirty flashing over last update is OK. 
-- Vanilla buidl will be shared in device support group when ready. 
+- Dirty flashing over last update is OK.
 
-Buy me coffee:
+Buy me a coffee:
 
 [Paypal](http://paypal.me/VStore193)
 [ko-fi](https://www.ko-fi.com/wadiehabib)
