@@ -1,0 +1,31 @@
+https://telegra.ph/file/6af8bbe808d706ec74271.png
+|||||
+@HsyHusker
+|||||
+
+AncientOS V5.7 | Society | Android 11 | Stable
+for  Lenovo Z5s (jd2019)
+
+Maintained by @HsyHusker
+Build Variant : Gapps
+Build Version : 5.7 | Society | Stable
+Build Date : 25-03-2022
+
+Source Changelogs :
+• [HERE](https://www.ancientrom.xyz/#/Changelog) 
+
+Device Changelogs :
+• Initial official build
+• Added pre-built dolby
+• SELinux is Enforcing
+
+Download Build [HERE](https://www.ancientrom.xyz/Downloadpage.html) 
+
+Notes :
+• Clean flash required
+• OSS build only
+
+Device Support :
+@lenovoz5s
+
+#ancientOS #ancientrom #android #android11 #Iron #megalith #Society #jd2019
