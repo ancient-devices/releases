@@ -766,5 +766,17 @@
     "date_updated": "09-2-2022",
     "download_url": "https://www.pling.com/p/1606752",
     "phone_url": "https://wiki.lineageos.org/images/devices/d2s.png"
+  },
+  {
+    "id":"1",
+    "brand":"Lenovo",
+    "device_codename": "Lenovo Z5s (jd2019)",
+    "maintainer": "HsyHusker",
+    "rom_support": "https://t.me/ancientid",
+    "device_supportgp_url": "https://t.me/lenovoz5s",
+    "changelog_url": "https://www.ancientrom.xyz/#/Changelog",
+    "date_updated": "25-03-2022",
+    "download_url": "https://www.pling.com/p/1606752",
+    "phone_url": "https://raw.githubusercontent.com/HsyHusker/miscstuff/main/lenovo_z5s_device_picture-orange.png"
   }
 ]
