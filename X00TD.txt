@@ -1,37 +1,38 @@
-https://telegra.ph/file/6af8bbe808d706ec74271.png
+https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/photo_2022-03-08_21-39-51.jpg
 |||||
 @Naveen4264
 |||||
 
-AncientOS V5.7 | Society | Android 11 | Stable
+AncientOS V6.2 | Android 12 | Weeabo | Shield
 for  Asus Zenfone Max Pro M1 (X00TD)
 
 Maintained by @Naveen4264
-Build Variant : Vanilla
-Build Version : 5.7 | Society | Stable
-Build Date : 04-03-2022
+Build Variant : GApps
+Build Version : 6.2 | Naruto | Steel
+Build Date : 31-03-2022
 
 Source Changelogs :
-• [HERE](https://www.ancientrom.xyz/#/Changelog) 
-• Feb sec
+• [HERE](https://www.ancientrom.xyz/changelog.html) 
 
 Device Changelogs :
-• Initial build
-• Sync EGL symlinks with CAF
-• Update qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0
-• Update portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0
-• Update Graphics (OpenGL ES) and Vulkan
-• SELinux is Enforcing
+• Fixed Brightness Issue
+• Add OpenGL ES and update Vulkan dEQP feature flags
+• Drop LMKD
+• Disable APEX compression
+• Update Radio, IMS, QMI, Bluetooth, DSP, Soter, Keymaster, CNE, WDF from LA.UM.9.2.r1-03500-SDMxx0.0
+• Update datastatusnotification from coral
 
-Download Build [HERE](https://www.ancientrom.xyz/) 
+Download Build [HERE](https://www.ancientrom.xyz/Downloadpage.html) 
 
 Notes :
-• Vanilla Build
+• Clean Flash is recommended
+• Gapps are already included
 • Recommended firmware : 063, 087
-• Safetynet passed by default
-• Both LV and NLV kernel supported
+• 4.4 kernel based, NON FBE & LV
+• Build is Enforcing
+• Use Kernels which supports A12
 
 Device Support :
 @ancientofficialX00T
 
-#ancientOS #ancientrom #android #android11 #Iron #megalith #Society #X00TD
+#ancientOS #ancientrom #android #android12 #Shield #megalith #Weeabo #X00TD
