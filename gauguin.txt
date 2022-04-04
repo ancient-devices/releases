@@ -9,16 +9,18 @@ for  Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i (gauguin)
 Maintained by @Cursed0007
 Build Variant : Vanilla | Gapps
 Build Version : 6.2 | Steel
-Build Date : 04-02-2022
+Build Date : 05-04-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1623)
+• [HERE](https://www.ancientrom.xyz)
 
 Device Changelogs :
-• Fixed mic issues on some apps
-• Fixed OKGoogle
-• Fixed Some Missing WakeUp Nodes
-• Added QCOM FM Radio
+• Optimize Fingerprint Wake-up Animation
+• Hide Magisk Better
+• Enabled Seamless Transfer 
+• Disable Prevent Accidental Wake-up
+• Disable Pocket Mode
+• Disable RX wakelock feature
 
 Download :
 • [HERE](https://www.ancientrom.xyz/)
@@ -33,6 +35,6 @@ Notes :
 
 Credits :
 - Thanks to @LynnrinChan for base tree
-- Thanks to Andrew for testing
+- Thanks to carpi28 for testing
 
 #ancientOS #ancientrom #android #android12 #gauguin #Mi10i #RN9P5G #Mi10TLite
