@@ -9,28 +9,28 @@ for POCO M3 / Redmi 9T (Juice)
 Maintained by @IndraDP & @Vern_Kuato
 Build Variant : GApps
 Build Version : 6.2 | Shield | Steel
-Build Date : 26-03-2022
+Build Date : 05-04-2022
 
 Source Changelogs :
-- [Here](https://www.ancientrom.xyz/#/Changelog)
-- And February security patch
+- [Here](https://www.ancientrom.xyz/#/Changelog) and February security patch
 
 Device Changelogs :
-- Using QTI Bluetooth
-- Import sunfish cpusets configuration
-- More changelogs, [Here](https://telegra.ph/Device-Changelogs-AncientOS-For-POCO-M3-Redmi-9T9-PowerNote-9-4G-03-28)
+- Fix Random reboot
+- Fix SystemUI not responding
+- Decrease media volume step
+- More device changelogs, [Here](https://telegra.ph/Device-Changelogs-AncientOS-For-POCO-M3-Redmi-9T9-PowerNote-9-4G-03-28)
 
 Download :
 [Here](https://www.ancientrom.xyz/)
 
 Notes :
-- Decrypt vendor and Clean Flash recommended
-- Redmi 9T/Power/Note 9 4G: Use 12.5.x / 21.7.28 / 21.9.8 / 21.10.28 Vendor.
-- Poco M3: Use latest EEA Vendor
+- Decrypt vendor recommended
+- Redmi 9T/Power/Note 9 4G: Use 21.9.8 Vendor
+- POCO M3: Use latest EEA Vendor
 - Bugs? Tell us with proper logs. Without logs will be ignored
 
 Credits : 
-- @ItsDifp for testing
+- @javashin for kernel 
 - And all Juice Dev for helping and provide all resources
 
 Give us coffee :
