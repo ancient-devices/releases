@@ -7,15 +7,15 @@ AncientOS V6.2 | Android 12
 for  Mojito (Redmi Note 10)
 
 Maintained by @ZEUTS
-Build Variant : Gapps
+Build Variant : Vanilla
 Build Version : 6.2 | Shield | Steel
-Build Date : 18-03-2022
+Build Date : 16-04-2022
 
 Source Changelogs :
 • [HERE](https://www.ancientrom.xyz/)
 
 Device Changelog :
-• [HERE](https://telegra.ph/AncientOS-62-March-Mojito-03-18-03-18)
+• [HERE](https://telegra.ph/ANCIENT-OS-62-APRIL-EDITION-04-16)
 
 Download :
 • [HERE](https://www.ancientrom.xyz/)
@@ -26,11 +26,11 @@ Device Support :
 Notes :
 • Install with latest Ofox Recovery
 • Clean Flash recommended 
+• Use Flamegapps Basic [tested]
 • Will take 2-3 mins on First Boot 
 
 Credits :
 - Thanks to @ZIDAN44 for base tree
-- Thanks to @cyberknight777 for awesome Kernel
-- Thanks to @dblenk9 for ANX 
+- Thanks to @cyberknight777 for awesome Kernel 
 
 #ancientOS #ancientrom #android #android12 #shield #megalith #steel #weeabo
