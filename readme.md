@@ -53,6 +53,8 @@ In this file you need to add below lines after making changes for your device be
 ````
 
   {
+    "id":"X", // x=1 or above check website_api.json if any device for your brand is available or not
+    "brand":"Nokia",
     "device_codename": "Nokia 6.1 Plus (DRG)",
     "maintainer": "Ankit Kene",
     "rom_support": "https://t.me/ancientid",
