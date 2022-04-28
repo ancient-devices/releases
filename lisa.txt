@@ -2,31 +2,29 @@ https://telegra.ph/file/6f0c741922fb4ddd898d6.jpg
 |||||
 @ankitkene 
 |||||
-AncientOS V5.7 | Android 11 | Stable
+AncientOS V6.2 | Android 12 | Stable
 for  Xiaomi 11 Lite NE 5G
 Maintained by @ankitkene
 
-Build Variant : Gapps
-Build Version : 5.7 | Iron | Stable
-Build Date : 14-01-2022
+Build Variant : Gapps & Vanilla
+Build Version : 6.2 | Weeabo | Stable
+Build Date : 28-04-2022
 
 Source Changelogs :
-[READ HERE](https://t.me/ancientrom/1392)
+[READ HERE](https://ancientrom.xyz)
 
 Device Changelogs :
-Initial
+Initial Android 12
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build [HERE](https://www.ancientrom.xyz/)
 
 Notes:
 - Flashing Proccess [HERE](https://telegra.ph/Ancient-OS-Flashing-Instructions-01-14)
-- Selinux is permissive
-- Gapps are included
+- Miui 12.5 firmware to bre installed before flashing
 
 Credits:-
 @ganeshvarma for trees
 Thanks to this guys for testing the rom
-@Harry2896
 @Suyashdahale
 @Ivananayaa
 
@@ -36,4 +34,4 @@ Device Support :
 Give me coffee :
 [Paypal](https://paypal.me/keneankit)
 
-#ancientOS #ancientrom #android #android11 #megalith #iron #weeabo
+#ancientOS #ancientrom #android #android12 #megalith #weeabo
