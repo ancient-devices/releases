@@ -1,40 +1,40 @@
-https://telegra.ph/file/86b4ee678557397216933.jpg
+https://telegra.ph/file/e84864727840e2d9777aa.png
 |||||
-@IndraDP & @Vern_Kuato
+@IndraDP
 |||||
 
-AncientOS V6.2 Shield | Android 12
+AncientOS V5.7 | Android 11 | Iron
 for POCO M3 / Redmi 9T (Juice)
 
-Maintained by @IndraDP & @Vern_Kuato
-Build Variant : GApps
-Build Version : 6.2 | Shield | Steel
-Build Date : 05-04-2022
+Maintained by @IndraDP
+Build Variant : Vanilla
+Build Version : 5.7 | Society
+Build Date : 09-05-2022
 
 Source Changelogs :
-- [Here](https://www.ancientrom.xyz/#/Changelog) and February security patch
+- [Here](https://t.me/ancientrom/1394)
+- and April security patch
 
 Device Changelogs :
-- Fix Random reboot
-- Fix SystemUI not responding
-- Decrease media volume step
+- prop: Improve graphics prop
+- Enable FUSE Passthrough
 - More device changelogs, [Here](https://telegra.ph/Device-Changelogs-AncientOS-For-POCO-M3-Redmi-9T9-PowerNote-9-4G-03-28)
 
 Download :
-[Here](https://www.ancientrom.xyz/)
+[Here](https://www.ancientrom.xyz/Downloadpage.html)
 
-Notes :
-- Decrypt vendor recommended
-- Redmi 9T/Power/Note 9 4G: Use 21.9.8 Vendor
-- POCO M3: Use latest EEA Vendor
-- Bugs? Tell us with proper logs. Without logs will be ignored
+Notes:
+- Use NikGApps Basic for recommeded GApps
+- Recommended decrypt vendor
+- Clean flash mandatory
 
-Credits : 
-- @javashin for kernel 
-- And all Juice Dev for helping and provide all resources
+Credits:
+- @nasaaa012 for testing
+- @javashin for Kernel
+- and All Juice Dev ID for helping and provide resources
 
-Give us coffee :
+Donate to buy cendol dawet :
 [Paypal](https://paypal.me/IndraDesiP) | [Saweria](https://saweria.co/indradp)
 
 Support Group : | [Device Support](https://t.me/ancientosjuice) | [General Discussion](https://t.me/ancientid)
-#ancientOS #ancientrom #android #android12 #steel
+#ancientOS #ancientrom #android #android11 #iron
