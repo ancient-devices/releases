@@ -2,27 +2,32 @@ https://telegra.ph/file/73af3db9e5525eec2ea5e.jpg
 |||||
 @NishantKumar6342
 |||||
-AncientOS V6.2 | Android 12 | Beta
+AncientOS V6.4 | Android 12L | Stable
 for Realme X7 Max 5G (RMX3031)
 Maintained by @NishantKumar6342
 
 Build Variant : Gapps
-Build Version : 6.2 | Shield | Beta 
-Build Date : 28-01-2022
+Build Version : 6.4 | Shield | Stable
+Build Date : 23-08-2022
 
 Source Changelogs :
-• [HERE](https://t.me/ancientrom/1623)
-• January Security
+• [HERE](https://t.me/ancientrom/1953)
+• August Security
 
 Device Changelogs :
-• Re-Ship Pixel launcher by default
-• Fixed some known bugs
+• Required A.22(RUI2) firmware
+• Switch to source built kernel(Origin)
+• Added screen off touchgestures
+• Added PocketMode
+• Fixed VoWIFI
+• Added Framework dimming for udfps
+• Fixed many known bugs explore and see
 
 RealmeParts :
-• Removed annoying smart charging notification (smart charging will work fine if enabled)
-• Nuked performance profiles
+• Nuked Launcher icon (You can open it from Settings/system/RealmeParts)
+• Fixed some minor crashes
 
-Download Build [HERE](https://www.ancientrom.tech/)
+Download Build [HERE](https://www.ancientrom.xyz)
 
 Notes :
 Clean flash is mandatory
